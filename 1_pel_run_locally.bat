@@ -1,0 +1,1 @@
+activate pelican && start pelrun.bat && start pelserve.bat && start http://127.0.0.1:8000/
