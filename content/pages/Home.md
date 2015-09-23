@@ -12,14 +12,16 @@ Status: hidden
 
 Unless otherwise noted, all concerts will be held on Saturdays at 8:00 p.m. at the Battelle Auditorium, Battelle Blvd, Richland
 
-Test
+Test again!
 
 ---
 
-![ ](/images/Brasil200.png){:width="200px"}
-![ ](/images/OnyxMerge200.jpg){:width="200px"}
-![ ](/images/BSandF200.jpg){:width="200px"}
-![ ](/images/JeffreySavage200.jpg){:width="200px"}
+<!-- using relative links here for ease-->
+[![ ]({filename}/images/Brasil200.png){:width="200px"}](brasil-guitar-duo.html)
+[![ ]({filename}/images/OnyxMerge200.jpg){:width="200px"}](onyx-chamber-players.html)
+[![ ]({filename}/images/BSandF200.jpg){:width="200px"}](byron-schenkman-friends.html)
+[![ ]({filename}/images/JeffreySavage200.jpg){:width="200px"}](jeffrey-savage-piano.html)
 
-![ ](/images/Auryn200.jpg){:width="200px"}
-![ ](/images/SeattleBaroque300.jpg){:width="300px"}
+[![ ]({filename}/images/Auryn200.jpg){:width="200px"}](auryn-quartet.html)
+[![ ]({filename}/images/Merge400.jpg){:width="300px"}](blue-moon-trio-buxtehude-the-fantastic-style.html)
+[![ ]({filename}/images/SeattleBaroque300.jpg){:width="300px"}](seattle-baroque-orchestra.html)
