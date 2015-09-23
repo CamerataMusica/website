@@ -3,7 +3,7 @@ Date: 2014-11-22
 Authors: Colin Brislawn
 
 
-![ ](/images/BSandF200.jpg){:width="200px", .floatleft}
+![ ]({filename}/images/BSandF200.jpg){:width="200px", .floatleft}
 
 #### November 22, 2014 8:00pm at Battelle Auditorium
 

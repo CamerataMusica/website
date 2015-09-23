@@ -3,7 +3,7 @@ Date: 2014-10-25
 Authors: Colin Brislawn
 
 
-![ ](/images/OnyxMerge200.jpg){:width="200px", .floatleft}
+![ ]({filename}/images/OnyxMerge200.jpg){:width="200px", .floatleft}
 
 #### October 25, 2014 8:00pm at Battelle Auditorium
 
@@ -13,7 +13,7 @@ Onyx Chamber Players Return to Camerata Musica
 
 ---
 
-#### Program
+### Program
 	
 Piano Quartet in c minor, op. 60 	Johannes Brahms (1833-1897)
 Allegro non troppo 	

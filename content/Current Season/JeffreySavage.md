@@ -3,7 +3,7 @@ Date: 2015-01-17
 Authors: Colin Brislawn
 
 
-![ ](/images/JeffreySavage200.jpg){:width="200px", .floatleft}
+![ ]({filename}/images/JeffreySavage200.jpg){:width="200px", .floatleft}
 
 #### January 17, 2015 8:00pm at Battelle Auditorium
 

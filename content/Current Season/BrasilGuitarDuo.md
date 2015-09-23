@@ -2,7 +2,7 @@ Title: Brasil Guitar Duo
 Date: 2014-9-27
 Authors: Colin Brislawn
 
-![ ](/images/Brasil200.png){:width="200px", .floatleft}
+![ ]({filename}/images/Brasil200.png){:width="200px", .floatleft}
 
 #### September 27, 2014 8:00pm at Battelle Auditorium
 
@@ -104,8 +104,8 @@ The Brasil Guitar Duo, winner of the 2006 Concert Artists Guild International Co
 
 This program is supported, in part, by a grant from the Washington State Arts Commission (now also known as “ArtsWA”) and the National Endowment for the Arts.
 
-![ ](/images/nea-lockup-A.jpg){:width="400px"}
-![ ](/images/StateAndFullName-HiRes.jpg){:width="350px"}
+![ ]({filename}/images/nea-lockup-A.jpg){:width="400px"}
+![ ]({filename}/images/StateAndFullName-HiRes.jpg){:width="350px"}
 
 The Brasil Guitar Duo appears by arrangement with Sciolino Artist Management.
 
