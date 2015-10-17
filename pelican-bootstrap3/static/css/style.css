@@ -233,3 +233,10 @@ figure.floatcenter, .align-center {
         font-size: 16px;
     }
 }
+
+.container article {
+	clear: both;
+}
+.container hr {
+	clear: both;
+}
