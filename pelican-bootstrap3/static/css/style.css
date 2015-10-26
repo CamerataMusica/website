@@ -217,7 +217,7 @@ figure.floatcenter, .align-center {
 }
 #banner .intro {
     color: #fff;
-    font-size: 18px;
+    font-size: 22px;
     line-height: 1.33;
     opacity: 0.75;
 }
@@ -231,7 +231,7 @@ figure.floatcenter, .align-center {
        font-size: 30px; /* !important;*/
     }
     #banner .intro{
-        font-size: 16px;
+        font-size: 14px;
     }
 }
 
