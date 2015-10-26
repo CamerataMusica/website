@@ -1,5 +1,6 @@
 body {
     padding-top: 70px;
+    font-size: 16px;
 }
 
 .entry-title {
@@ -216,7 +217,7 @@ figure.floatcenter, .align-center {
 }
 #banner .intro {
     color: #fff;
-    font-size: 21px;
+    font-size: 18px;
     line-height: 1.33;
     opacity: 0.75;
 }
