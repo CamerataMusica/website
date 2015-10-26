@@ -12,8 +12,6 @@ Status: hidden
 
 Unless otherwise noted, all concerts will be held on Saturdays at 8:00 p.m. at the Battelle Auditorium, Battelle Blvd, Richland
 
-Testing Travis-CI
-
 ---
 
 <!-- using relative links here for ease-->
