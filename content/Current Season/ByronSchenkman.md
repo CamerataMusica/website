@@ -88,7 +88,7 @@ Byron Schenkman returns to Camerata Musica with friends
 
 ---
 
-### Artiest Bio
+### Artist Bio
 
 Byron Schenkman & Friends
 
