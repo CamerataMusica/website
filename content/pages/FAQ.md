@@ -38,7 +38,7 @@ Unfortunately not. The cards sent to patrons each month are reminders about the 
 
  
 
-### I’m a Camerata Patron. Can I bring my neighbours/friends as guests to the concerts?
+### I’m a Camerata Patron. Can I bring my neighbors/friends as guests to the concerts?
 
  
 
