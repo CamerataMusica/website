@@ -7,8 +7,6 @@ Status: hidden
 
 <!-- # Chamber Music for the Tri-Cities -->
 
-# Tonight's Camerata Musica Concert is CANCELLED due to weather conditions!
-
 #### Camerata Musica, the only organization in the Tri-Cities that regularly schedules chamber music concerts, announces its 2014-2015 season.
 
 ---
