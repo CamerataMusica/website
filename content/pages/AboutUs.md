@@ -8,4 +8,4 @@ Camerata Musica programs feature chamber music concerts by solo musicians and sm
 
 Camerata does not sell tickets to its programs. Support is provided primarily by donations from individual patrons, with additional funding received from corporate sponsorship and grants from organizations like the Washington State Arts Commission and the National Endowment for the Arts.
 
-In addition to receiving recognition on the program, patrons (donors who contribute $80.00 or more a year) receive an announcement card before each concert . By presenting these reminders, patrons, and their families receive priority seating until 7:45, after which everyone is admitted on a first-come, first-seated basis.
+In addition to receiving recognition on the program, patrons (donors who contribute $80.00 or more a year) receive an announcement card before each concert. By presenting these reminders, patrons and their families receive priority seating until 7:45, after which everyone is admitted on a first-come, first-seated basis.
