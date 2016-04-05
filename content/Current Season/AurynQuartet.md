@@ -2,7 +2,7 @@ Title: Auryn Quartet
 Date: 2015-02-28
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/Auryn200.jpg){:width="200px", .floatleft}]({filename}/auryn-quartet.html)
+[![ ]({filename}/images/Auryn200.jpg){:width="200px", .floatleft}]({filename}/AurynQuartet.md)
 
 #### February 28, 2015 8:00pm at Battelle Auditorium
 
