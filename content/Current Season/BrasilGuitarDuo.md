@@ -2,7 +2,7 @@ Title: Brasil Guitar Duo
 Date: 2014-9-27
 Authors: Colin Brislawn
 
-![ ]({filename}/images/Brasil200.png){:width="200px", .floatleft}
+[![ ]({filename}/images/Brasil200.png){:width="200px", .floatleft}]({filename}/Current Season/BrasilGuitarDuo.md)
 
 #### September 27, 2014 8:00pm at Battelle Auditorium
 
