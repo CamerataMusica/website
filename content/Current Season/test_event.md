@@ -1,6 +1,7 @@
 Title: Brasil Guitar Test
 Date: 2015-11-30
 Authors: Colin Brislawn
+Status: hidden
 
 [![ ]({filename}/images/Brasil200.png){:width="200px", .floatleft}]({filename}/Current Season/test_event.md)
 
