@@ -1,10 +1,10 @@
-Title: Stephen Beus
+Title: Stephen Beus, piano
 Date: 2015-09-26
 Authors: Colin Brislawn
 
 [![ ]({filename}/images/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}/Current Season/StephenBeus.md)
 
-#### September 26th, 2015 8:00pm at Battelle Auditorium
+#### September 26th, 2015 8:00pm and
 #### September 27th, 2015 2:00pm at Battelle Auditorium
 
 Stephen Beus, piano
@@ -14,34 +14,34 @@ Stephen Beus, piano
 
 ---
 
-      <table width="800" align="center">
-      	<tr>
-      	<td align="center" colspan="2"><h2>Program</h2></td><td></td>
-      	</tr>
-        <tr>
-          <td> <b>French Suite No.5 in G Major, BWV 816</b></td>
-          <td class="right"><b>J.S. Bach</b> (1685-1750)</td>
-        </tr>
-        <tr>
-          <td> <b>Chaconne in D Minor from <i>Partita No. 2</i></b></td>
-          <td class="right"><b>Bach-Busoni</b> (1866-1924)</td>
-        </tr>
-        <tr>
-         <td colspan="2" class="center">
-            <br>
-            <div class="smallheading">Intermission
-            </div><br></td>
-        </tr>
-        <tr>
-          <td> <b>Transcendental Etudes S. 139</b></td>
-          <td class="right"><b>Franz Liszt</b> (1811-1886)</td>
-        </tr>
-        <tr><td></td><td></td></tr>
-        <tr>
-          <td> <b>Hungarian Rhapsody No. 2</b></td>
-          <td class="right"><b>Liszt-Horowitz</b></td>
-        </tr>
-        </table>
+<table width="800" align="center">
+	<tr>
+	<td align="center" colspan="2"><h2>Program</h2></td><td></td>
+	</tr>
+	<tr>
+	  <td> <b>French Suite No.5 in G Major, BWV 816</b></td>
+	  <td class="right"><b>J.S. Bach</b> (1685-1750)</td>
+	</tr>
+	<tr>
+	  <td> <b>Chaconne in D Minor from <i>Partita No. 2</i></b></td>
+	  <td class="right"><b>Bach-Busoni</b> (1866-1924)</td>
+	</tr>
+	<tr>
+	 <td colspan="2" class="center">
+		<br>
+		<div class="smallheading">Intermission
+		</div><br></td>
+	</tr>
+	<tr>
+	  <td> <b>Transcendental Etudes S. 139</b></td>
+	  <td class="right"><b>Franz Liszt</b> (1811-1886)</td>
+	</tr>
+	<tr><td></td><td></td></tr>
+	<tr>
+	  <td> <b>Hungarian Rhapsody No. 2</b></td>
+	  <td class="right"><b>Liszt-Horowitz</b></td>
+	</tr>
+</table>
 
 ---
 
