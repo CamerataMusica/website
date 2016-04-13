@@ -23,4 +23,3 @@ Unless otherwise noted, all concerts will be held on Saturdays at 8:00 p.m. at t
 [![ ]({filename}/images/Auryn200.jpg){:width="200px"}](auryn-quartet.html)
 [![ ]({filename}/images/Merge400.jpg){:width="300px"}](blue-moon-trio-buxtehude-the-fantastic-style.html)
 [![ ]({filename}/images/SeattleBaroque300.jpg){:width="300px"}](seattle-baroque-orchestra.html)
-[Test Event without image](brasil-guitar-test.html)
