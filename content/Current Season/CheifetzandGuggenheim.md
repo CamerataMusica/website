@@ -1,10 +1,12 @@
-Title: Hamilton Cheifetz, cello and Janet Guggenheim, piano
+Title: Cheifetz and Guggenheim
 Date: 2015-10-24
 Authors: Colin Brislawn
 
 [![ ]({filename}/images/CheifetzGuggenheim200.png){:width="200px", .floatleft}]({filename}/Current Season/CheifetzandGuggenheim.md)
 
 #### October 24th, 2015 8:00pm at the Battelle Auditorium
+
+Hamilton Cheifetz, cello and Janet Guggenheim, piano
 
 [Hamilton Cheifetz Web Site](http://www.hamiltoncheifetz.com/)
 
