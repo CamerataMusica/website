@@ -18,6 +18,16 @@ AUTHOR_FEED_RSS = None
 
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
+CATEGORY_URL = 'seasons/{slug}.html'
+CATEGORY_SAVE_AS = 'seasons/{slug}.html'
+CATEGORIES_SAVE_AS = 'seasons/index.html'
+# We could also have this save over the archive, which could be quite elegant.
+
+MENUITEMS = (
+    ('Current Season', '/seasons/current-season.html'),
+)
+
+
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),
 #         ('Python.org', 'http://python.org/'),
@@ -34,12 +44,10 @@ SOCIAL = (
 NEWEST_FIRST_ARCHIVES = True
 DEFAULT_PAGINATION = 10
 #ARTICLE_ORDER_BY = 'date'
-ARTICLE_ORDER_BY = 'date'
-NEWEST_FIRST_ARCHIVES = False
+#ARTICLE_ORDER_BY = 'reversed-date'
 
 PAGE_ORDER_BY = 'reversed-date'
 #LOAD_CONTENT_CACHE = False
-
 
 
 STATIC_PATHS = ['images', 'pages', 'favicon.png', 'CamerataMusica/images']
