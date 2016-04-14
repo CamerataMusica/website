@@ -24,7 +24,7 @@ CATEGORIES_SAVE_AS = 'seasons/index.html'
 # We could also have this save over the archive, which could be quite elegant.
 
 MENUITEMS = (
-    ('Current Season', '/seasons/current-season.html'),
+    ('Current Season', 'seasons/current-season.html'),
 )
 
 
