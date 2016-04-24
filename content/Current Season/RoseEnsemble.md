@@ -1,5 +1,5 @@
 Title: The Rose Ensemble
-Date: 2015-10-21
+Date: 2015-11-21
 Authors: Colin Brislawn
 
 [![ ]({filename}/images/TheRoseEnsemble200.png){:width="200px", .floatleft}]({filename}/Current Season/RoseEnsemble.md)
