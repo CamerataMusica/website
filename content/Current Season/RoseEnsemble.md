@@ -8,7 +8,8 @@ Authors: Colin Brislawn
 
 The Rose Ensemble
 
-The Minneapolis–based vocal group returns to our series with Il Poverello (“the poor one”), a thematic program featuring readings and music about Francis of Assisi ranging from the 12th to the 15th centuries. 
+The Minneapolis–based vocal group returns to our series with Il Poverello (“the poor one”), a thematic program featuring readings and music about Francis of Assisi ranging from the 12th to the 15th centuries.
+
 [The Rose Ensemble Web Site](http://www.theroseensemble.com/)
 
 ---
