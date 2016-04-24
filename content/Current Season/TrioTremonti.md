@@ -7,7 +7,9 @@ Authors: Colin Brislawn
 #### February 27 at 8:00pm in the Battelle Auditorium
 
 Saul Bitrán, Violin
+
 Jan Müller-Szeraws, Cello
+
 Sally Pinkas, Piano
 
 ---
