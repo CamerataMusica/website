@@ -1,5 +1,5 @@
 Title: The Rose Ensemble
-Date: 2016-10-21
+Date: 2015-10-21
 Authors: Colin Brislawn
 
 [![ ]({filename}/images/TheRoseEnsemble200.png){:width="200px", .floatleft}]({filename}/Current Season/RoseEnsemble.md)
@@ -17,5 +17,5 @@ The Minneapolis–based vocal group returns to our series with Il Poverello (“
 
 ---
 
-[Texts, Translations, and Notes (PDF)](BioNotesTranslationspdf.pdf)
+[Texts, Translations, and Notes (PDF)]({filename}/images/BioNotesTranslationspdf.pdf)
 
