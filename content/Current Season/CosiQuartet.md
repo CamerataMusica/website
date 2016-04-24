@@ -6,7 +6,7 @@ Authors: Colin Brislawn
 
 #### January 23 at 8:00pm in the Battelle Auditorium
 
-Cosi Quartet
+Linda Melsted (Violinist), Laurel Wells (violist), Meg Brennand (cellist), and Curtis Foster (oboist) will be performing pieces from the little-known oboe quartet literature featuring pieces by Krommer, Masek, and Mozart, as well as a trio by Eybler
 
 ---
 
