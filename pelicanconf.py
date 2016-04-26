@@ -38,7 +38,7 @@ MENUITEMS = (
 SOCIAL = (
 	('Facebook', 'https://www.facebook.com/pages/Camerata-Musica-Richland/226889204035616'),
 	('Origional site','http:///www.cameratamusica.com'),
-	('GitHub', 'https://github.com/colinbrislawn'),
+	#('GitHub', 'https://github.com/colinbrislawn'),
 	)
 
 NEWEST_FIRST_ARCHIVES = True
