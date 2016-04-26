@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Colin Brislawn'
+AUTHOR = u'Camerata Musica'
 SITENAME = u'Camerata Musica'
 SITEURL = ''
 PATH = 'content'
