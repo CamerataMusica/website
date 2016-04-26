@@ -16,10 +16,10 @@ Unless otherwise noted, all concerts will be held on Saturdays at 8:00 p.m. at t
 ---
 
 <!-- using relative links here for ease-->
-[![ ]({filename}/images/Brasil200.png){:width="200px"}](brasil-guitar-duo.html)
-[![ ]({filename}/images/OnyxMerge200.jpg){:width="200px"}](onyx-chamber-players.html)
-[![ ]({filename}/images/BSandF200.jpg){:width="200px"}](byron-schenkman-friends.html)
-[![ ]({filename}/images/JeffreySavage200.jpg){:width="200px"}](jeffrey-savage-piano.html)
-[![ ]({filename}/images/Auryn200.jpg){:width="200px"}](auryn-quartet.html)
-[![ ]({filename}/images/Merge400.jpg){:width="300px"}](blue-moon-trio-buxtehude-the-fantastic-style.html)
-[![ ]({filename}/images/SeattleBaroque300.jpg){:width="300px"}](seattle-baroque-orchestra.html)
+[![ ]({filename}/images/StephenBeus200.jpg){:height="150px"}](stephen-beus-piano.html)
+[![ ]({filename}/images/CheifetzGuggenheim200.png){:height="150px"}](cheifetz-and-guggenheim.html)
+[![ ]({filename}/images/TheRoseEnsemble200.png){:height="150px"}](the-rose-ensemble.html)
+[![ ]({filename}/images/Cosi200.png){:height="150px"}](cosi-quartet.html)
+[![ ]({filename}/images/Tremonti200.png){:height="150px"}](trio-tremonti.html)
+[![ ]({filename}/images/Borealis200.jpg){:height="150px"}](borealis-wind-quintet.html)
+[![ ]({filename}/images/Simphonie200.png){:height="150px"}](simphonie.html)
