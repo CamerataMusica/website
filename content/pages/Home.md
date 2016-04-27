@@ -15,11 +15,11 @@ Unless otherwise noted, all concerts will be held on Saturdays at 8:00 p.m. at t
 
 ---
 
-<!-- using relative links here for ease-->
-[![ ]({filename}/images/StephenBeus200.jpg){:height="150px"}](stephen-beus-piano.html)
-[![ ]({filename}/images/CheifetzGuggenheim200.png){:height="150px"}](cheifetz-and-guggenheim.html)
-[![ ]({filename}/images/TheRoseEnsemble200.png){:height="150px"}](the-rose-ensemble.html)
-[![ ]({filename}/images/Cosi200.png){:height="150px"}](cosi-quartet.html)
-[![ ]({filename}/images/Tremonti200.png){:height="150px"}](trio-tremonti.html)
-[![ ]({filename}/images/Borealis200.jpg){:height="150px"}](borealis-wind-quintet.html)
-[![ ]({filename}/images/Simphonie200.png){:height="150px"}](simphonie.html)
+<!-- Copied from current season page. Full paths used.-->
+[![ ]({filename}/images/2015-2016/StephenBeus200.jpg){:height="150px", .floatleft}]({filename}/2015-2016/StephenBeus.md)
+[![ ]({filename}/images/2015-2016/CheifetzGuggenheim200.png){:height="150px", .floatleft}]({filename}/2015-2016/CheifetzandGuggenheim.md)
+[![ ]({filename}/images/2015-2016/TheRoseEnsemble200.png){:height="150px", .floatleft}]({filename}/2015-2016/RoseEnsemble.md)
+[![ ]({filename}/images/2015-2016/Cosi200.png){:height="150px", .floatleft}]({filename}/2015-2016/CosiQuartet.md)
+[![ ]({filename}/images/2015-2016/Tremonti200.png){:height="150px", .floatleft}]({filename}/2015-2016/TrioTremonti.md)
+[![ ]({filename}/images/2015-2016/Borealis200.jpg){:height="150px", .floatleft}]({filename}/2015-2016/BorealisWindQuintet.md)
+[![ ]({filename}/images/2015-2016/Simphonie200.png){:height="150px", .floatleft}]({filename}/2015-2016/Simphonie.md)
