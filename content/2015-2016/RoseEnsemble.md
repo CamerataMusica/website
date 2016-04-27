@@ -2,7 +2,7 @@ Title: The Rose Ensemble
 Date: 2015-11-21
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/TheRoseEnsemble200.png){:width="200px", .floatleft}]({filename}/Current Season/RoseEnsemble.md)
+[![ ]({filename}/images/2015-2016/TheRoseEnsemble200.png){:width="200px", .floatleft}]({filename}./RoseEnsemble.md)
 
 #### November 21 at 8:00pm in the Battelle Auditorium
 

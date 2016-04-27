@@ -2,7 +2,7 @@ Title: Borealis Wind Quintet
 Date: 2016-03-19
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/Borealis200.jpg){:width="200px", .floatleft}]({filename}/Current Season/BorealisWindQuintet.md)
+[![ ]({filename}/images/2015-2016/Borealis200.jpg){:width="200px", .floatleft}]({filename}./BorealisWindQuintet.md)
 
 #### March 19 at 8:00pm in the Battelle Auditorium
 

@@ -2,7 +2,7 @@ Title: Cheifetz and Guggenheim
 Date: 2015-10-24
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/CheifetzGuggenheim200.png){:width="200px", .floatleft}]({filename}/Current Season/CheifetzandGuggenheim.md)
+[![ ]({filename}/images/2015-2016/CheifetzGuggenheim200.png){:width="200px", .floatleft}]({filename}./CheifetzandGuggenheim.md)
 
 #### October 24th, 2015 8:00pm at the Battelle Auditorium
 

@@ -2,7 +2,7 @@ Title: Stephen Beus, piano
 Date: 2015-09-26
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}/Current Season/StephenBeus.md)
+[![ ]({filename}/images/2015-2016/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}./StephenBeus.md)
 
 #### September 26th, 2015 8:00pm and
 #### September 27th, 2015 2:00pm at Battelle Auditorium

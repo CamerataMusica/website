@@ -3,7 +3,7 @@ Date: 2015-11-30
 Authors: Colin Brislawn
 Status: hidden
 
-[![ ]({filename}/images/Brasil200.png){:width="200px", .floatleft}]({filename}/Current Season/test_event.md)
+[![ ]({filename}/images/2014-2015/Brasil200.png){:width="200px", .floatleft}]({filename}./test_event.md)
 
 #### Test date here, 2015 8:00pm at Battelle Auditorium
 
