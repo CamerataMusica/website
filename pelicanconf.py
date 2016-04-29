@@ -29,17 +29,22 @@ MENUITEMS = (
 
 
 # Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-#         ('Python.org', 'http://python.org/'),
-#         ('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('You can modify those links in your config file', '#'),)
+LINKS = (
+	('Facebook', 'https://www.facebook.com/pages/Camerata-Musica-Richland/226889204035616'),
+	('Past Seasons', '/seasons/'),
+	('Origional Site','http:///www.cameratamusica.com'),
+	)
 
 # Social widget
-SOCIAL = (
-	('Facebook', 'https://www.facebook.com/pages/Camerata-Musica-Richland/226889204035616'),
-	('Origional site','http:///www.cameratamusica.com'),
-	#('GitHub', 'https://github.com/colinbrislawn'),
-	)
+#SOCIAL = (
+#	('Facebook', 'https://www.facebook.com/pages/Camerata-Musica-Richland/226889204035616'),
+#	('Past Seasons', '/seasons/'),
+#	('Origional Site','http:///www.cameratamusica.com'),
+#	)
+
+DISPLAY_TAGS_ON_SIDEBAR = False
+#SIDEBAR_IMAGES = ["http://127.0.0.1:8000/images/2015-2016/StephenBeus200.jpg"]
+#SIDEBAR_CONSTANT_CONTACT = 'asdf'
 
 NEWEST_FIRST_ARCHIVES = True
 DEFAULT_PAGINATION = 10
