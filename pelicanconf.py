@@ -38,7 +38,7 @@ LINKS = (
 # Social widget
 #SOCIAL = (
 #	('Facebook', 'https://www.facebook.com/pages/Camerata-Musica-Richland/226889204035616'),
-#	('Past Seasons', '/seasons/'),
+#	('Past Seasons', '{filename}/seasons/'),
 #	('Origional Site','http:///www.cameratamusica.com'),
 #	)
 
