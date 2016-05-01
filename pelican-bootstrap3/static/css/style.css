@@ -194,7 +194,7 @@ figure.floatcenter, .align-center {
 
 #banner {
     background-repeat: no-repeat;
-    background-position: top center;
+    background-position: center;
     background-attachment: scroll;
     background-size: cover; 
     background-color: #C4C4C4;
