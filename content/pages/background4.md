@@ -7,7 +7,7 @@ Status: hidden
 
 <!-- # Chamber Music for the Tri-Cities -->
 
-# Background2
+# Background4
 <style>
 	#banner{
 	    background-image:url("./images/background4crop1.jpg");
