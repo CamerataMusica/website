@@ -8,4 +8,4 @@ Authors: Colin Brislawn
 
 ---
 
-More info coming soon!
+More info coming soon.
