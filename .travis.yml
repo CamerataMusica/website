@@ -1,11 +1,14 @@
 language: python
 branches:
   only: master
-cache: pip
+cache:
+  directories:
+    - $HOME/.pip-cache/
+
 install:
-- pip install -r requirements.txt
+  - pip install -r requirements.txt --cache-dir $HOME/.pip-cache
 script:
-- make publish github
+  - make publish github
 env:
   global:
     secure: Qio94OeIUwtZCtWrP4P3dyyMCIjQ7IvhQni6rpRl0f/Yov/VK8RJGsOR3k9td5Jy/vLfzAsg+THTs4eFHbup5LzJibuTf0NUjO0Q5qXRZdRkblc4Y0udhFv256Jg5I/V+2yhxEd45F8iQb/TT18lvNw3eU4DqZIwFjvbdi+COrcx3QYM/bt09yCmIjLrs1RlTJiaLaCSB3EVOIAvnvz3qvKT60kKQ3fhjoh3zbaM9OI5T7kBWeuKnlqADS37eT8TKsZ/qiQKc3wNPW34HK+nttk1ChXTeZa8dQZoW+NJ6OkdeeORRW/TcQaOBlIQmBNAFUX931vFUl6dnFecy8LJnEqfWeVxtFd2kwuhLTm1xPZ/Pz08IM4vAIj5b/pYSiyrCe8H4zHgipI75x7vPbkZ8/9Dm1bYD0y4ohTbCJilvccz9eSpLXxd6gW7S/LoKDUWTglomwWTKTYCfsAJQ1iDgeGiWN35tJ5CE/NF3OUFv2maO6uvoJjKJMLPSh0bQpo8ZIcfyo4qTpTN/mPV/Fn0HMI0rUO1k43Br9iyF4RuK/UGmy0IWtaL7ai/yCm4z175YoikfQqEjyHUHEKOiSG3XeGAty1lAqdZhTlTJ/d8BNZE77FiLSY5zFMbM8GGy7phOBZVX4mh88k5d/9uHnGcQN14it8hOnc7JWF3QcHu1/U=
