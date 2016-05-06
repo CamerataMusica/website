@@ -6,7 +6,6 @@ Authors: Colin Brislawn
 
 #### May 7th, 2017 2:00pm at Battelle Auditorium
 
-
 ---
 
-More info coming soon.
+More info coming soon!
