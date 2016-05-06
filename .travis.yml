@@ -1,14 +1,9 @@
 language: python
 branches:
-  only:
-  - master
-cache: 
-- pip
-- pelican
-- ghp-import
-- markdown
+  only: master
+cache: pip
 install:
-- pip install pelican ghp-import markdown
+- pip install pelican ghp-import
 script:
 - make publish github
 env:
