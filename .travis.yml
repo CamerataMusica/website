@@ -3,7 +3,6 @@ branches:
   only: master
 cache:
   directories:
-    - $HOME/.pip-cache/
     - $HOME/virtualenv/
 install:
   - pip install -r requirements.txt --cache-dir $HOME/.pip-cache
