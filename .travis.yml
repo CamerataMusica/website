@@ -2,7 +2,7 @@ language: python
 branches:
   only:
   - master
-cache: pip
+cache: pip pelican ghp-import markdown
 install:
 - pip install pelican ghp-import markdown
 script:
