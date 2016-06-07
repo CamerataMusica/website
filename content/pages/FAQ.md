@@ -80,7 +80,7 @@ Every January, Camerata’s selection committee begins the process of choosing a
 
  
 
-Musicians interested in performing on the series should send information about themselves, including a sample or proposed program and an artistic sample to Camerata Musica, PO Box 615, Richland WA99352, or by email to [cndorans@charter.net](mailto:cndorans@charter.net).
+Musicians interested in performing on the series should send information about themselves, including a sample or proposed program and an artistic sample to Camerata Musica, PO Box 615, Richland WA 99352, or by email to [cndorans@charter.net](mailto:cndorans@charter.net).
 
  
 
@@ -91,3 +91,8 @@ Submissions will not be returned unless accompanied by a SSAE.
 ### I’m a local music student. How can I be considered for your Young Artists of Distinction concert?
 
 Early each spring, Camerata sends nomination forms for the Young Artists concert to local music teachers so the first thing you should do is talk to your teacher. If your teacher is not local or is new to the area, he/she can contact us about getting a copy of the nomination packet.
+
+
+### How do I become a patron?
+
+We appreciate you support! We encourage you to [learn more]({filename}/pages/Supporting.md) or download a [contribution form (PDF)]({filename}/images/DonorForm.pdf).
