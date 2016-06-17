@@ -6,6 +6,11 @@
 
 <div id="banner">
 	<div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
+		{% if BANNER_LOGO %}
+		<div class="logo">
+			<img src="{{ SITEURL}}/{{ BANNER_LOGO}}">
+		</div>
+		{% endif %}
 		<div class="copy">
 			<h1>{{ SITENAME }}</h1>
 			{% if BANNER_SUBTITLE %}

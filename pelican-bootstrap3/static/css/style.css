@@ -203,12 +203,28 @@ figure.floatcenter, .align-center {
     position: relative;
 }
 
+#banner .logo {
+    background: #000;
+	background: none repeat scroll 0 0 rgba(22, 22, 22, 0.8);
+    display: inline;
+    float: left;
+    padding: 10px;
+    position: relative;
+    z-index: 1;
+}
+#banner .logo img {
+    height: 200px;
+	display: block;
+	margin: auto;
+}
+
 #banner .copy {
-    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7);
+    background: none repeat scroll 0 0 rgba(22, 22, 22, 0.8);
     display: inline;
     float: left;
     max-width: 600px;
-    padding: 20px;
+	height: 220px;
+    padding: 65px 30px;
     position: relative;
     z-index: 1;
 }
@@ -241,6 +257,25 @@ figure.floatcenter, .align-center {
     #banner .intro{
         font-size: 14px;
     }
+}
+
+/* removes elements of the #banner at lower depths */
+@media (max-width: 992px) {
+    #banner .logo {
+	    display: none;
+	}
+}
+@media (max-width: 768px) {
+    #banner .copy {
+	    display: none;
+	}
+	#banner .logo {
+	    background: none repeat scroll 0 0 rgba(22, 22, 22, 0.9);
+	    display: block;
+		float: none;
+        width: 270px;
+        margin: auto;
+	}
 }
 
 .container article {
