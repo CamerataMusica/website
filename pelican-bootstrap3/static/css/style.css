@@ -270,7 +270,7 @@ figure.floatcenter, .align-center {
 	    display: none;
 	}
 	#banner .logo {
-	    background: none repeat scroll 0 0 rgba(22, 22, 22, 0.9);
+	    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.9);
 	    display: block;
 		float: none;
         width: 270px;
