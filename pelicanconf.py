@@ -39,7 +39,7 @@ LINKS = (
 # Social widget
 #SOCIAL = (
 #	('Facebook', 'https://www.facebook.com/pages/Camerata-Musica-Richland/226889204035616'),
-#	('Past Seasons', '{filename}/seasons/'),
+#	('Past Seasons', 'https://colinbrislawn.github.io/CamerataMusica/seasons/'),
 #	('Origional Site','http:///www.cameratamusica.com'),
 #	)
 
@@ -63,14 +63,10 @@ SUMMARY_MAX_LENGTH = 20
 
 BANNER_ALL_PAGES = True
 BANNER_SUBTITLE = 'A Tradition of Chamber Music in the Tri-Cities'
-BANNER = 'images/banner-image.png'
+BANNER = 'images/background3crop1.png'
 BANNER_LOGO = 'images/Logo-white-500-t.png'
 
-# Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 THEME = "./pelican-bootstrap3"
-#THEME = "../pelican-themes/bootstrap2"
-#THEME = "../pelican-themes/bootstrap2-dark"
 
 PLUGIN_PATHS = ['../pelican-plugins']
-#PLUGINS=['sitemap',]
