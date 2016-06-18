@@ -64,7 +64,7 @@ SUMMARY_MAX_LENGTH = 20
 BANNER_ALL_PAGES = True
 BANNER_SUBTITLE = 'A Tradition of Chamber Music in the Tri-Cities'
 BANNER = 'images/banner-image.png'
-BANNER_LOGO = 'images/Logo-white-200-t.png'
+BANNER_LOGO = 'images/Logo-white-500-t.png'
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
