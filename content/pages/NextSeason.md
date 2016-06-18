@@ -8,9 +8,16 @@ Status: hidden
 
 ## [The Baltimore Consort]({filename}/2016-2017/BaltimoreConsort.md)
 
-[![ ]({filename}/images/2016-2017/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}/2016-2017/BaltimoreConsort.md)
+[![ ]({filename}/images/2016-2017/BaltimoreConsort400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/BaltimoreConsort.md)
+
 #### September 24th, 2016 8:00pm at Battelle Auditorium
-The Baltimore Consort
+
+Mary Anne Ballard – treble and bass viols <br>
+Mark Cudek – cittern and bass viol <br>
+Larry Lipkis – bass viol, recorder, krummhorn, gemshorn <br>
+Ronn McFarlane – lute <br>
+Mindy Rosenfeld – flutes, fifes, bagpipes, krummhorn <br>
+Danielle Svonavec – soprano
 
 ---
 
