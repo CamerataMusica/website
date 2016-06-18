@@ -11,6 +11,11 @@ Authors: Colin Brislawn
 #banner div {
 	display: none;
 }
+@media (max-width: 768px) {
+	#banner {
+		height: 300px;
+	}
+}
 </style>
 
 [![ ]({filename}/images/2016-2017/BaltimoreConsort400.jpg){:width="200px", .floatleft}]({filename}./BaltimoreConsort.md)
