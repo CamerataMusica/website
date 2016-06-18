@@ -63,7 +63,7 @@ SUMMARY_MAX_LENGTH = 20
 
 BANNER_ALL_PAGES = True
 BANNER_SUBTITLE = 'A Tradition of Chamber Music in the Tri-Cities'
-BANNER = 'images/background3crop1.png'
+BANNER = 'images/background3crop1.jpg'
 BANNER_LOGO = 'images/Logo-white-500-t.png'
 
 RELATIVE_URLS = True
