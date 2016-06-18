@@ -18,5 +18,5 @@ Program coming soon.
 
 ---
 
-### Artiest Bio
+### About the Musicians
 
