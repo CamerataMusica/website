@@ -14,7 +14,7 @@ The Minneapolis–based vocal group returns to our series with Il Poverello (“
 
 ---
 
-![ ]({filename}/images/Program.png){.floatleft}
+![ ]({filename}/images/2015-2016/Program.png){.floatleft}
 
 ---
 
