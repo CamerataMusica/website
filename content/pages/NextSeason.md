@@ -9,9 +9,7 @@ Status: hidden
 ## [The Baltimore Consort]({filename}/2016-2017/BaltimoreConsort.md)
 
 [![ ]({filename}/images/2016-2017/BaltimoreConsort400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/BaltimoreConsort.md)
-
 #### September 24th, 2016 8:00pm at Battelle Auditorium
-
 Mary Anne Ballard – treble and bass viols <br>
 Mark Cudek – cittern and bass viol <br>
 Larry Lipkis – bass viol, recorder, krummhorn, gemshorn <br>
@@ -23,9 +21,11 @@ Danielle Svonavec – soprano
 
 ## [The Vienna Piano Trio]({filename}/2016-2017/ViennaPianoTrio.md)
 
-[![ ]({filename}/images/2016-2017/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}/2016-2017/ViennaPianoTrio.md)
+[![ ]({filename}/images/2016-2017/the-vienna-piano-trio400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/ViennaPianoTrio.md)
 #### October 22nd, 2016 8:00pm at Battelle Auditorium
-The Vienna Piano Trio
+David McCarroll - violin <br>
+Matthias Gredler - cello <br>
+Stefan Mendl - piano
 
 ---
 
