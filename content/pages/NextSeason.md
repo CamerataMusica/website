@@ -57,7 +57,11 @@ The Telegraph Quartet
 
 [![ ]({filename}/images/2016-2017/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}/2016-2017/AdaskinTrio.md)
 #### March 25th, 2017 8:00pm at Battelle Auditorium
-Adaskin Trio with Tom Gallant
+Emlyn Ngai, violin <br>
+Steve Larson, viola <br>
+Mark Fraser, cello <br>
+Tom Gallant, oboe and English Horn
+
 
 ---
 
