@@ -6,14 +6,24 @@ Authors: Colin Brislawn
 
 #### February 25th, 2017 8:00pm at Battelle Auditorium
 
-The Telegraph Quartet
+Eric Chin, Violin <br>
+Joseph Maile, Violin <br>
+Pei-Ling Lin, Viola <br>
+Jeremiah Shaw, Cello
 
 
-[Stephen Beus Web Site](http://www.telegraphquartet.com/)
+[The Telegraph Quartet Web Site](http://www.telegraphquartet.com/)
 
 ---
 
-Program coming soon.
+### Program
+
+|                          |          |
+|--------------------------|---------:|
+| Op. 33 no. 3 “The Bird”  | Haydn    |
+| “Cypresses” (selections) | Dvorak   |
+| _intermission_                      |
+| Quartet no. 3            | Schumann |
 
 ---
 
