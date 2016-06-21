@@ -9,10 +9,10 @@ Authors: Colin Brislawn
 Emlyn Ngai, violin <br>
 Steve Larson, viola <br>
 Mark Fraser, cello <br>
-Tom Gallant, oboe
+Tom Gallant, oboe and English Horn
 
 
-[Adaskin Trio](http://www.adaskinstringtrio.com/)
+[Adaskin Trio web site](http://www.adaskinstringtrio.com/)
 
 ---
 
