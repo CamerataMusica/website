@@ -16,7 +16,16 @@ Tom Gallant, oboe
 
 ---
 
-Program coming soon.
+### Program
+
+|                                                 |                                  |
+|-------------------------------------------------|---------------------------------:|
+| Quator for English Horn and Strings             | Jean Francaix (1912-1997)        |
+| String Trio Op. 9, No. 2                        | L. van Beethoven (1770-1827)     |
+| Intermission                                                                       |
+| String Trio                                     | Alexis Roland-Manuel (1891-1966) |
+| Quartet in F Major for oboe and strings, K. 370 | W. A. Mozart (1756-1791)         |
+
 
 ---
 
