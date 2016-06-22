@@ -66,3 +66,6 @@ Besides its concert activities, the ensemble has been giving  master classes at 
 
 The trio won numerous prizes at international competitions and had among its most important mentors Isaac Stern,  Ralph Kirshbaum,  Joseph Kalichstein as well as members of the Trio di Trieste,  the Beaux Arts Trio, and of the La Salle and Guarneri Quartets.       
 
+---
+
+##### Photo Credit: Nancy-Horowitz
