@@ -39,3 +39,6 @@ THE BYRD ENSEMBLE is a Seattle-based vocal ensemble specializing in the  perform
 
 ARTISTIC DIRECTOR MARKDAVIN OBENZA has dedicated his career to music. In addition to the Byrd Ensemble, Markdavin is also Director and founder of Seattle-based chamber choir, Vox16, and Producer for Scribe Records, an independent record label. He is an active singer and has performed with the Tudor Choir and members of the Tallis Scholars. He is currently the Director of Choral Music at Trinity Parish Church (Seattle, WA).
 
+---
+
+##### Photo Credit: Charleen Cadelina Photography
