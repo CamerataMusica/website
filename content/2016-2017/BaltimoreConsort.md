@@ -1,4 +1,4 @@
-Title: The Baltimore Consort
+Title: The Baltimore Consort with Danielle Svonavec
 Date: 2016-09-24
 Authors: Colin Brislawn
 
