@@ -2,7 +2,28 @@ Title: The Telegraph Quartet
 Date: 2017-02-25
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/2015-2016/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}./TelegraphQuartet.md)
+<style>
+#banner {
+	background-image: url("./images/2016-2017/the-telegraph-quartet-large.jpg");
+	background-position: center;
+	height: 600px;
+}
+#banner div {
+	display: none;
+}
+@media (max-width: 768px) {
+	#banner {
+		height: 300px;
+	}
+}
+@media (min-width: 1930px) {
+	#banner {
+		height: 80%;
+	}
+}
+</style>
+
+[![ ]({filename}/images/2016-2017/the-telegraph-quartet400.jpg){:width="200px", .floatleft}]({filename}./TelegraphQuartet.md)
 
 #### February 25th, 2017 8:00pm at Battelle Auditorium
 
