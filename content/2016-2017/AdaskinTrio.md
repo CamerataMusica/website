@@ -2,9 +2,30 @@ Title: Adaskin Trio with Tom Gallant
 Date: 2017-03-25
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/2015-2016/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}./AdaskinTrio.md)
+<style>
+#banner {
+	background-image: url("./images/2016-2017/adaskin-trio-with-tom-gallant-large.jpg");
+	background-position: top;
+	height: 700px;
+}
+#banner div {
+	display: none;
+}
+@media (max-width: 768px) {
+	#banner {
+		height: 300px;
+	}
+}
+@media (min-width: 1930px) {
+	#banner {
+		height: 80%;
+	}
+}
+</style>
 
-#### March 25th, 2017 8:00pm at Battelle Auditorium
+[![ ]({filename}/images/2016-2017/adaskin-trio-with-tom-gallant400.jpg){:width="200px", .floatleft}]({filename}./AdaskinTrio.md)
+
+#### March 25th, 2017 8:00 pm at Battelle Auditorium
 
 Emlyn Ngai, violin <br>
 Steve Larson, viola <br>
