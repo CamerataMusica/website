@@ -2,6 +2,28 @@ Title: The Baltimore Consort with Danielle Svonavec
 Date: 2016-09-24
 Authors: Colin Brislawn
 
+<style>
+#banner {
+	background-image: url("./images/2016-2017/BaltimoreConsortLarge.jpg");
+	background-position: top;
+	height: 700px;
+}
+#banner div {
+	display: none;
+}
+@media (max-width: 768px) {
+	#banner {
+		height: 300px;
+	}
+}
+@media (min-width: 1930px) {
+	#banner {
+		height: 80%;
+	}
+}
+
+</style>
+
 [![ ]({filename}/images/2016-2017/BaltimoreConsort400.jpg){:width="200px", .floatleft}]({filename}./BaltimoreConsort.md)
 
 #### September 24th, 2016 8:00pm at Battelle Auditorium
