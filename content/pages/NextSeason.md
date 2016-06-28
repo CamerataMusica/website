@@ -39,7 +39,7 @@ The Los Angeles Cello Quartet
 
 ## [The Byrd Ensemble]({filename}/2016-2017/ByrdEnsemble.md)
 
-[![ ]({filename}/images/2016-2017/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}/2016-2017/ByrdEnsemble.md)
+[![ ]({filename}/images/2016-2017/the-byrd-ensemble400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/ByrdEnsemble.md)
 #### January 28th, 2017 8:00 pm at Battelle Auditorium
 Markdavin Obenza, Artistic Director
 
@@ -67,7 +67,7 @@ Tom Gallant, oboe and English Horn
 
 ## [Cotik-Lin Duo]({filename}/2016-2017/Cotik-Lin.md)
 
-[![ ]({filename}/images/2016-2017/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}/2016-2017/Cotik-Lin.md)
+[![ ]({filename}/images/2016-2017/cotiklin-duo400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/Cotik-Lin.md)
 #### April 22nd, 2017 8:00 pm at Battelle Auditorium
 Tomas Cotik, Violin <br>
 Tao Lin, Piano

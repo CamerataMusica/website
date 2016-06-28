@@ -2,9 +2,30 @@ Title: The Byrd Ensemble
 Date: 2017-01-28
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/2015-2016/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}./ByrdEnsemble.md)
+<style>
+#banner {
+	background-image: url("./images/2016-2017/the-byrd-ensemble-large.jpg");
+	background-position: center;
+	height: 750px;
+}
+#banner div {
+	display: none;
+}
+@media (max-width: 768px) {
+	#banner {
+		height: 300px;
+	}
+}
+@media (min-width: 1930px) {
+	#banner {
+		height: 80%;
+	}
+}
+</style>
 
-#### January 28th, 2017 8:00pm at Battelle Auditorium
+[![ ]({filename}/images/2016-2017/the-byrd-ensemble400.jpg){:width="200px", .floatleft}]({filename}./ByrdEnsemble.md)
+
+#### January 28th, 2017 8:00 pm at Battelle Auditorium
 
 The Byrd Ensemble
 
