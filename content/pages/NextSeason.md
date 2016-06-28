@@ -47,7 +47,7 @@ Markdavin Obenza, Artistic Director
 
 ## [The Telegraph Quartet]({filename}/2016-2017/TelegraphQuartet.md)
 
-[![ ]({filename}/images/2016-2017/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}/2016-2017/TelegraphQuartet.md)
+[![ ]({filename}/images/2016-2017/the-telegraph-quartet400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/TelegraphQuartet.md)
 #### February 25th, 2017 8:00 pm at Battelle Auditorium
 The Telegraph Quartet
 
@@ -55,7 +55,7 @@ The Telegraph Quartet
 
 ## [Adaskin Trio with Tom Gallant]({filename}/2016-2017/AdaskinTrio.md)
 
-[![ ]({filename}/images/2016-2017/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}/2016-2017/AdaskinTrio.md)
+[![ ]({filename}/images/2016-2017/adaskin-trio-with-tom-gallant400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/AdaskinTrio.md)
 #### March 25th, 2017 8:00 pm at Battelle Auditorium
 Emlyn Ngai, violin <br>
 Steve Larson, viola <br>
