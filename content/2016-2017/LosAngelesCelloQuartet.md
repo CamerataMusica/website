@@ -19,3 +19,9 @@ Program coming soon.
 
 ### About the Musicians
 
+LA Cello Quartet is a project of Positive Motions Foundation initiated by Ruslan
+Biryukov, founder of the Glendale Philharmonic Orchestra. The ensemble was
+introduced first at the Los Angeles Philharmonic Fundraiser in Palos Verdes in
+May 2010. Music making by four charismatic cellists-soloists immediately
+attracted attention of the public and the quartet was instantly placed into a
+category of the leading chamber music groups.
