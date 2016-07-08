@@ -11,8 +11,6 @@ Status: hidden
 
 ---
 
-Unless otherwise noted, all concerts will be held on Saturdays at 8:00 p.m. at the Battelle Auditorium, Battelle Blvd, Richland
-
 <!-- Copied from current season page. Full paths used.-->
 [![ ]({filename}/images/2015-2016/StephenBeus200.jpg){:height="150px"}]({filename}/2015-2016/StephenBeus.md)
 [![ ]({filename}/images/2015-2016/CheifetzGuggenheim200.png){:height="150px"}]({filename}/2015-2016/CheifetzandGuggenheim.md)
