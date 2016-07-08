@@ -33,7 +33,6 @@ LINKS = (
 # Absolute paths seem to work best
 	('Facebook', 'https://www.facebook.com/pages/Camerata-Musica-Richland/226889204035616'),
 	('Past Seasons', 'https://colinbrislawn.github.io/CamerataMusica/seasons/'),
-	('Origional Site','http:///www.cameratamusica.com'),
 	)
 
 # Social widget
