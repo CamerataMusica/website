@@ -76,7 +76,7 @@ Histoire du Tango: Night Club 1960
 
 ### About the Musicians
 
-Argentinian violinist TOMÁS COTIK and Chinese pianist TAO LIN, both Miami residents, formed their
+Argentinian violinist **TOMÁS COTIK** and Chinese pianist **TAO LIN**, both Miami residents, formed their
 duo in 2010 when they embarked on recording for Centaur Records the complete music for piano and
 violin by Franz Schubert. The first volume received numerous rave reviews in the international press,
 including one in Fanfare Magazine that compared their CD favorably with the classic recording by
