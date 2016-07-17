@@ -1,4 +1,4 @@
-Title: Adaskin Trio with Tom Gallant
+Title: Adaskin String Trio with Tom Gallant
 Date: 2017-03-25
 Authors: Colin Brislawn
 

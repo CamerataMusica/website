@@ -6,7 +6,7 @@ Template: article_list
 Status: hidden
 -->
 
-## [The Baltimore Consort with Danielle Svonavec]({filename}/2016-2017/BaltimoreConsort.md)
+## [The Baltimore Consort with Danielle Svonavec, soprano]({filename}/2016-2017/BaltimoreConsort.md)
 
 [![ ]({filename}/images/2016-2017/BaltimoreConsort400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/BaltimoreConsort.md)
 #### September 24th, 2016 8:00 pm at Battelle Auditorium
@@ -48,12 +48,12 @@ Markdavin Obenza, Artistic Director
 ## [The Telegraph Quartet]({filename}/2016-2017/TelegraphQuartet.md)
 
 [![ ]({filename}/images/2016-2017/the-telegraph-quartet400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/TelegraphQuartet.md)
-#### February 25th, 2017 8:00 pm at Battelle Auditorium
+#### February 18th, 2017 8:00 pm at Battelle Auditorium
 The Telegraph Quartet
 
 ---
 
-## [Adaskin Trio with Tom Gallant]({filename}/2016-2017/AdaskinTrio.md)
+## [Adaskin String Trio with Tom Gallant]({filename}/2016-2017/AdaskinTrio.md)
 
 [![ ]({filename}/images/2016-2017/adaskin-trio-with-tom-gallant400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/AdaskinTrio.md)
 #### March 25th, 2017 8:00 pm at Battelle Auditorium

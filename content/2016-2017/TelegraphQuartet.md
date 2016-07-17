@@ -1,5 +1,5 @@
 Title: The Telegraph Quartet
-Date: 2017-02-25
+Date: 2017-02-18
 Authors: Colin Brislawn
 
 <style>
@@ -25,7 +25,7 @@ Authors: Colin Brislawn
 
 [![ ]({filename}/images/2016-2017/the-telegraph-quartet400.jpg){:width="200px", .floatleft}]({filename}./TelegraphQuartet.md)
 
-#### February 25th, 2017 8:00pm at Battelle Auditorium
+#### February 18th, 2017 8:00pm at Battelle Auditorium
 
 Eric Chin, Violin <br>
 Joseph Maile, Violin <br>
