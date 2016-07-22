@@ -20,7 +20,7 @@ Most Camerata concerts are held at Battelle Auditorium on the Pacific Northwest 
 
 The auditorium is located behind the main buildings near the cooling ponds.
 
-Occasionally concerts are held at other locations. We suggest that you always check our website for any last minute information.
+Occasionally concerts are held at other locations. We suggest that you always check our website for any last minute information, and sign up for our mailing list (see below).
 
  
 
