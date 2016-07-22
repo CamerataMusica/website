@@ -26,9 +26,7 @@ Occasionally concerts are held at other locations. We suggest that you always ch
 
 ### Can I bring my children to the concert?
 
-Camerata’s Board believes that there is no better way to introduce children to the pleasure of listening to music than to bring them to live performances, and we welcome children at these events.
-
-Since it isn’t always easy for children to sit still and listen quietly to an entire concert, we ask that parents consider the age and maturity of their children, as well as the nature of the program being presented, when deciding whether to bring them.
+Camerata’s Board believes that there is no better way to introduce children to the pleasure of listening to music than to bring them to live performances, and we welcome children at these events.  Since it isn’t always easy for children to sit still and listen quietly to an entire concert, we ask that parents consider the age and maturity of their children, as well as the nature of the program being presented, when deciding whether to bring them.  Disruptive audience members may be asked to leave.
 
  
 
