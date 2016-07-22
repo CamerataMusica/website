@@ -6,7 +6,7 @@ Authors: Colin Brislawn
 
 ### Where can I buy tickets to Camerata concerts?
 
-Camerata doesn’t sell tickets to its concerts but is instead supported primarily by individual donors known as “patrons.” In addition to being acknowledged on the program, patrons receive a reminder card prior to each concert. By presenting this card at the concert before 7:45 p.m., they and their families (two adults and accompanying under 18) receive priority seating. At that time members of the public-at-large who have been waiting in line are admitted on a first-come, first-seated basis.
+Camerata doesn’t sell tickets to its concerts but is instead supported primarily by individual donors known as “patrons.” In addition to being acknowledged on the program, patrons receive a reminder card prior to each concert. By presenting this card at the concert before 7:45 p.m., they and their families (two adults and accompanying children under 18) receive priority seating. At that time members of the public-at-large who have been waiting in line are admitted on a first-come, first-seated basis.
 
  
 
