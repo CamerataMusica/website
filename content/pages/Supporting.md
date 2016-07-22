@@ -2,7 +2,7 @@ Title: Supporting Camerata Musica
 Date: 2016-06-06
 Authors: Colin Brislawn
 
-#Support Camerata Musica
+#Supporting Camerata Musica
 
 Camerata Musica depends on the generosity of those attending concerts to support its activities. Most of our funding comes from individual patrons, with occasional additional funding from corporate sponsorship, local foundations, and grants from organizations like ArtsWa (the Washington State Arts Commission) and the National Endowment for the Arts.
 
