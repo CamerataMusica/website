@@ -2,7 +2,7 @@ Title: Supporting Camerata Musica
 Date: 2016-06-06
 Authors: Colin Brislawn
 
-# Please Support Camerata Musica
+#Support Camerata Musica
 
 Camerata Musica depends on the generosity of those attending concerts to support its activities. Most of our funding comes from individual patrons, with occasional additional funding from corporate sponsorship, local foundations, and grants from organizations like ArtsWa (the Washington State Arts Commission) and the National Endowment for the Arts.
 
@@ -16,7 +16,7 @@ Organizational/corporate co-sponsorship is available with a minimum donation of 
 
 Donors paying the entire fee for a concert will be recognized as program sponsors. Since these costs vary from program to program, please contact us for more information.
 
-Patrons who make substantial gifts to Camerata over a five-year period are acknowledged as Benefactors at either the silver ($10,000) or gold ($20,000) level.
+Patrons who make substantial gifts to Camerata over a five-year period are acknowledged as lifetime Benefactors at either the silver ($10,000) or gold ($20,000) level.
 
 Donations to Camerata may be made at any concert or by sending a check to Camerata Musica, PO Box 615, Richland WA 99352. 
 [A contribution form is available here.](/images/DonorForm.pdf)
