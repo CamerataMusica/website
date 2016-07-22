@@ -6,11 +6,11 @@ Authors: Colin Brislawn
 
 ### Where can I buy tickets to Camerata concerts?
 
-Camerata doesn’t sell tickets to its concerts but is instead supported primarily by individual donors known as “patrons.” In addition to being acknowledged on the program, patrons receive a reminder card prior to each concert. By presenting this card at the concert before 7:45 p.m., they and their families receive priority seating. At that time members of the public-at-large who have been waiting in line are admitted on a first-come, first-seated basis.
+Camerata doesn’t sell tickets to its concerts but is instead supported primarily by individual donors known as “patrons.” In addition to being acknowledged on the program, patrons receive a reminder card prior to each concert. By presenting this card at the concert before 7:45 p.m., they and their families (two adults and accompanying under 18) receive priority seating. At that time members of the public-at-large who have been waiting in line are admitted on a first-come, first-seated basis.
 
  
 
-The Battelle auditorium, where most concerts are held, seats about 300. For most programs, there is no problem seating everyone who comes to hear the concert. Occasionally, however, seats do fill up, and limited standing room is available. To avoid disappointment, we recommend that non-patrons arrive at the auditorium between 7:30-7:45 to have a better chance of being seated.
+The Battelle auditorium, where most concerts are held, seats about 300. For some programs, there is no problem seating everyone who comes to hear the concert. Occasionally, however, seats do fill up, and limited standing room is available. To avoid disappointment, we recommend that non-patrons arrive at the auditorium between 7:30-7:45 to have a better chance of being seated.
 
  
 
@@ -95,4 +95,4 @@ Early each spring, Camerata sends nomination forms for the Young Artists concert
 
 ### How do I become a patron?
 
-We appreciate you support! We encourage you to [learn more]({filename}/pages/Supporting.md) or download a [contribution form (PDF)]({filename}/images/DonorForm.pdf).
+We appreciate your support! We encourage you to [learn more]({filename}/pages/Supporting.md) or download a [contribution form (PDF)]({filename}/images/DonorForm.pdf).
