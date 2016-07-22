@@ -40,11 +40,11 @@ Unfortunately not. The cards sent to patrons each month are reminders about the 
 
  
 
-Camerata’s policy is that the only patrons and their immediate families receive priority seating. The Board has clarified that this means a maximum of two adults and their accompanying children under 18. Single patrons may bring a companion with them to concerts.
+Camerata’s policy is that patrons contributing less than $300 per season, and their immediate families, receive priority seating. The Board has clarified that this means a maximum of two adults and their accompanying children under 18. Single patrons may bring a companion with them to concerts.  However, patrons contributing $300 or more may bring an additional two guests with them to the concert.
 
  
 
-If you invite others to join you at the concert, please explain to them that they will have to stand on line with other non-patrons until 7:45. They can of course, join Camerata prior to the concert by making a donation of $80.00 or more – about the same amount it would cost if they had to buy tickets to performances presented by other groups.
+If you also invite other people to join you at the concert, please explain to them that they will have to stand on line with other non-patrons until 7:45. They can of course, join Camerata prior to the concert by making a donation of $100.00 or more – about the same amount it would cost if they had to buy tickets to performances presented by other groups.
 
  
 
@@ -52,7 +52,7 @@ If you invite others to join you at the concert, please explain to them that the
 
 ### What do you mean by “chamber music?”
 
-Chamber music is a term used to describe music written for small groups, with each part being taken by a single instrument. This is in contrast to a symphony that often has many instruments playing the same music at the same time. Another difference is that there is usually no conductor for chamber music forcing the musicians take their cues from each other instead.
+Chamber music is a term used to describe music written for small groups, with each part being taken by a single instrument. This is in contrast to a symphony that often has many instruments playing the same music at the same time. Another difference is that there is usually no conductor for chamber music so that the musicians take their cues from each other instead.
 
  
 
@@ -62,13 +62,13 @@ In addition to presenting chamber ensembles, Camerata often features soloists on
 
 ### I’ve attended a couple of Camerata concerts and I was confused about when to clap. Can you explain the protocol?
 
-Clapping is a way of expressing our appreciation for the performance we just heard, and artists, like the rest of us, are happy to hear that we liked what they did; however concert etiquette, asks that we save our applause until a piece is completely finished, and not clap between movements. It’s sometimes easy for members of the audience to lose track of where they are, and to clap for any pause but such interruptions can disrupt the musicians’ concentration. We suggest instead that you wait for a moment and take your cues from the musicians. Generally when a piece is really completed, they will pause for a moment, then stand or in some other way acknowledge the audience.
+Clapping is a way of expressing our appreciation for the performance we just heard, and artists, like the rest of us, are happy to hear that we liked what they did. Concert etiquette asks that we save our applause until a piece is completely finished, and not clap between movements. It’s sometimes easy for members of the audience to lose track of where they are and to clap for any pause, but such interruptions can disrupt the musicians’ concentration. We suggest instead that you wait for a moment and take your cues from the musicians. Generally when a piece is really completed, they will pause for a moment, then stand or in some other way acknowledge the audience.
 
  
 
 ### Do you have a mailing list?
 
-Camerata sends a letter each fall, announcing the upcoming season’s concerts. During the year, reminder cards are sent to patrons but an email distribution list is maintained to remind interested persons of upcoming events, You can signup for our mailing list at [http://www.CamerataMusica.com/ContactUs.html](http://www.CamerataMusica.com/ContactUs.html). If you want email reminders please signup even if you have been receiving them in the past.
+Camerata sends a letter each fall announcing the upcoming season’s concerts. During the year, reminder cards are sent to patrons but an email distribution list is maintained to inform interested persons of upcoming events. You can sign up for our mailing list at http://www.CamerataMusica.com/ContactUs.html. Although we do not share your email address with other groups, we may occasionally send information about non-CM programs.
 
  
 
@@ -82,7 +82,7 @@ Musicians interested in performing on the series should send information about t
 
  
 
-Submissions will not be returned unless accompanied by a SSAE.
+Submissions will not be returned unless accompanied by a stamped self-addressed envelope.
 
  
 
