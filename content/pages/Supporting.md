@@ -19,7 +19,7 @@ Donors paying the entire fee for a concert will be recognized as program sponsor
 Patrons who make substantial gifts to Camerata over a five-year period are acknowledged as lifetime Benefactors at either the silver ($10,000) or gold ($20,000) level.
 
 Donations to Camerata may be made at any concert or by sending a check to Camerata Musica, PO Box 615, Richland WA 99352. 
-[A contribution form is available here.](./images/DonorForm.pdf)
+[A contribution form is available here.]({filename}/images/DonorForm.pdf)
 
 Camerata Musica is a 501(c)3 organization; donations are tax-deductible to the full extent of the law.
 
