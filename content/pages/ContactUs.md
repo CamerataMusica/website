@@ -11,7 +11,8 @@ Authors: Colin Brislawn
 
 Or you may contact the Board chair by phone (509-946-1175) or email ([cndorans@charter.net](mailto:cndorans@charter.net))
 
-If you would like to receive email notification of our concerts, please sign up here:
+If you would like to receive email notification of our concerts, please sign up below. <br>
+Please note, Camerata may on occasion send out information about other concerts in the Tri-Cities.
 
 **Sign up for Tri-City Concert Announcements:**
 
@@ -22,3 +23,7 @@ Email: <input type="text" name="ea" size="25" value="" style="font-size:10pt; bo
 <input type="submit" name="go" value="Go" class="submit" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10pt;">
 </form>
 
+[![ ]({filename}/images/safe-subscribe.png){:width="200px"}](http://www.constantcontact.com/safesubscribe.jsp)
+
+
+---
