@@ -33,7 +33,11 @@ Stefan Mendl - piano
 
 [![ ]({filename}/images/2016-2017/the-los-angeles-cello-quartet400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/LosAngelesCelloQuartet.md)
 #### November 19th, 2016 8:00 pm at Battelle Auditorium
-The Los Angeles Cello Quartet
+
+Ruslan Biryukov <br>
+Anne Suda <br>
+Efraín J. del Pilar <br>
+Paul Maxwell
 
 ---
 
@@ -49,7 +53,12 @@ Markdavin Obenza, Artistic Director
 
 [![ ]({filename}/images/2016-2017/the-telegraph-quartet400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/TelegraphQuartet.md)
 #### February 18th, 2017 8:00 pm at Battelle Auditorium
-The Telegraph Quartet
+
+Eric Chin - Violin <br>
+Joseph Maile - Violin <br>
+Pei-Ling Lin - Viola <br>
+Jeremiah Shaw - Cello
+
 
 ---
 
