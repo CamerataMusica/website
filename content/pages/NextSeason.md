@@ -31,7 +31,7 @@ Stefan Mendl - piano
 
 ## [The Los Angeles Cello Quartet]({filename}/2016-2017/LosAngelesCelloQuartet.md)
 
-[![ ]({filename}/images/2016-2017/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}/2016-2017/LosAngelesCelloQuartet.md)
+[![ ]({filename}/images/2016-2017/the-los-angeles-cello-quartet400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/LosAngelesCelloQuartet.md)
 #### November 19th, 2016 8:00 pm at Battelle Auditorium
 The Los Angeles Cello Quartet
 
