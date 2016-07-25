@@ -5,19 +5,20 @@ Authors: Colin Brislawn
 <style>
 #banner {
 	background-image: url("./images/2016-2017/adaskin-trio-with-tom-gallant-large.jpg");
-	height: 700px;
+	background-position: center;
+	height: 80%;
 }
 #banner div {
 	display: none;
 }
 @media (max-width: 768px) {
 	#banner {
-		height: 300px;
+		max-height: 300px;
 	}
 }
 @media (min-width: 1930px) {
 	#banner {
-		height: 80%;
+		min-height: 650px;
 	}
 }
 </style>
