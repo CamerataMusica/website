@@ -5,7 +5,7 @@ Authors: Colin Brislawn
 <style>
 #banner {
 	background-image: url("./images/2016-2017/adaskin-trio-with-tom-gallant-large.jpg");
-	background-position: center;
+	background-position: top;
 	height: 80%;
 }
 #banner div {
