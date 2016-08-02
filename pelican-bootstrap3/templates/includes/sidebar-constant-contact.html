@@ -1,7 +1,13 @@
-{% if SIDEBAR_CONSTANT_CONTACT %}
+{% if SIDEBAR_CONSTANT_CONTACT_ID %}
     <li class="list-group-item">
         <ul class="list-group" id="constantcontact">
-			<p> CC email goes here eventually.{{ SIDEBAR_CONSTANT_CONTACT }} <p>
+			<p><strong>Sign up for Tri-City Concert Announcements:</strong></p>
+			<form name="ccoptin" action="http://visitor.constantcontact.com/d.jsp" target="_blank" method="post" style="margin-bottom:2;">
+				<input type="hidden" name="m" value="{{ SIDEBAR_CONSTANT_CONTACT_ID }}">
+				<input type="hidden" name="p" value="oi">
+				<input type="text" name="ea" size="20" value=" Enter Your Email" onfocus="javascript:this.value=''" style="font-size:10pt; border:1px solid #999999;">
+				<input type="submit" name="go" value="Go" class="submit" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10pt;">
+				</form>
         </ul>
     </li>
 {% endif %}

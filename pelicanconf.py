@@ -65,6 +65,8 @@ BANNER_SUBTITLE = 'A Tradition of Chamber Music in the Tri-Cities'
 BANNER = 'images/background3crop1.jpg'
 BANNER_LOGO = 'images/Logo-white-500-t.png'
 
+SIDEBAR_CONSTANT_CONTACT_ID = 1102207044591
+
 RELATIVE_URLS = True
 THEME = "./pelican-bootstrap3"
 
