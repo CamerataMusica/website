@@ -35,6 +35,8 @@ LINKS = (
 	('Past Seasons', 'https://colinbrislawn.github.io/CamerataMusica/seasons/'),
 	)
 
+SIDEBAR_CONSTANT_CONTACT_ID = 1102207044591
+
 # Social widget
 #SOCIAL = (
 #	('Facebook', 'https://www.facebook.com/pages/Camerata-Musica-Richland/226889204035616'),
@@ -64,8 +66,6 @@ BANNER_ALL_PAGES = True
 BANNER_SUBTITLE = 'A Tradition of Chamber Music in the Tri-Cities'
 BANNER = 'images/background3crop1.jpg'
 BANNER_LOGO = 'images/Logo-white-500-t.png'
-
-SIDEBAR_CONSTANT_CONTACT_ID = 1102207044591
 
 RELATIVE_URLS = True
 THEME = "./pelican-bootstrap3"
