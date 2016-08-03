@@ -85,6 +85,33 @@
                         {% include "includes/article_info.html" %}
                     </div>
                 </div>
+				{% if BANNER_ALL_PAGES and article.banner %}
+				<!-- This is a low quality hack. -->
+				<style>
+					#banner {
+						background-image: url("{{  article.banner  }}");
+						background-position: center;
+						{% if article.bannerheight %}
+						height: {{  article.bannerheight  }};
+						{% else %}
+						height: 750px;
+						{% endif %}
+					}
+					#banner div {
+						display: none;
+					}
+					@media (max-width: 768px) {
+						#banner {
+							height: 300px;
+						}
+					}
+					@media (min-width: 1930px) {
+						#banner {
+							height: 80%;
+						}
+					}
+				</style>
+				{% endif %}
                 {{ article.content }}
             </div>
             <!-- /.entry-content -->
