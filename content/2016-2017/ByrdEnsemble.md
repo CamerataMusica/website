@@ -2,6 +2,7 @@ Title: The Byrd Ensemble
 Date: 2017-01-28
 Authors: Colin Brislawn
 Banner: ./images/2016-2017/the-byrd-ensemble-large.jpg
+Bannerposition: center
 
 [![ ]({filename}/images/2016-2017/the-byrd-ensemble400.jpg){:width="200px", .floatleft}]({filename}./ByrdEnsemble.md)
 
