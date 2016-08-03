@@ -1,27 +1,7 @@
 Title: The Telegraph Quartet
 Date: 2017-02-18
 Authors: Colin Brislawn
-
-<style>
-#banner {
-	background-image: url("./images/2016-2017/the-telegraph-quartet-large.jpg");
-	background-position: center;
-	height: 80%;
-}
-#banner div {
-	display: none;
-}
-@media (max-width: 768px) {
-	#banner {
-		max-height: 300px;
-	}
-}
-@media (min-width: 1930px) {
-	#banner {
-		min-height: 650px;
-	}
-}
-</style>
+Banner: ./images/2016-2017/the-telegraph-quartet-large.jpg
 
 [![ ]({filename}/images/2016-2017/the-telegraph-quartet400.jpg){:width="200px", .floatleft}]({filename}./TelegraphQuartet.md)
 

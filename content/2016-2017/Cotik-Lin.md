@@ -1,27 +1,7 @@
 Title: Cotik/Lin Duo
 Date: 2017-04-22
 Authors: Colin Brislawn
-
-<style>
-#banner {
-	background-image: url("./images/2016-2017/cotiklin-duo-large.jpg");
-	background-position: top;
-	height: 80%;
-}
-#banner div {
-	display: none;
-}
-@media (max-width: 768px) {
-	#banner {
-		max-height: 300px;
-	}
-}
-@media (min-width: 1930px) {
-	#banner {
-		min-height: 650px;
-	}
-}
-</style>
+Banner: ./images/2016-2017/cotiklin-duo-large.jpg
 
 [![ ]({filename}/images/2016-2017/cotiklin-duo400.jpg){:width="200px", .floatleft}]({filename}./Cotik-Lin.md)
 
