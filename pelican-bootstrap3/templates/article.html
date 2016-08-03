@@ -90,7 +90,11 @@
 				<style>
 					#banner {
 						background-image: url("{{  article.banner  }}");
+						{% if article.bannerposition %}
+						background-position: {{  article.bannerposition  }};
+						{% else %}
 						background-position: top;
+						{% endif %}
 						{% if article.bannerheight %}
 						height: {{  article.bannerheight  }};
 						{% else %}
