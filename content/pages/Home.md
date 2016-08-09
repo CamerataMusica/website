@@ -11,11 +11,10 @@ Status: hidden
 
 ---
 
-<!-- Copied from current season page. Full paths used.-->
-[![ ]({filename}/images/2015-2016/StephenBeus200.jpg){:height="150px"}]({filename}/2015-2016/StephenBeus.md)
-[![ ]({filename}/images/2015-2016/CheifetzGuggenheim200.png){:height="150px"}]({filename}/2015-2016/CheifetzandGuggenheim.md)
-[![ ]({filename}/images/2015-2016/TheRoseEnsemble200.png){:height="150px"}]({filename}/2015-2016/RoseEnsemble.md)
-[![ ]({filename}/images/2015-2016/Cosi200.png){:height="150px"}]({filename}/2015-2016/CosiQuartet.md)
-[![ ]({filename}/images/2015-2016/Tremonti200.png){:height="150px"}]({filename}/2015-2016/TrioTremonti.md)
-[![ ]({filename}/images/2015-2016/Borealis200.jpg){:height="150px"}]({filename}/2015-2016/BorealisWindQuintet.md)
-[![ ]({filename}/images/2015-2016/Simphonie200.png){:height="150px"}]({filename}/2015-2016/Simphonie.md)
+[![ ]({filename}/images/2016-2017/BaltimoreConsort400.jpg){:height="150px"}]({filename}/2016-2017/BaltimoreConsort.md)
+[![ ]({filename}/images/2016-2017/the-vienna-piano-trio400.jpg){:height="150px"}]({filename}/2016-2017/ViennaPianoTrio.md)
+[![ ]({filename}/images/2016-2017/the-los-angeles-cello-quartet400.jpg){:height="150px"}]({filename}/2016-2017/LosAngelesCelloQuartet.md)
+[![ ]({filename}/images/2016-2017/the-byrd-ensemble400.jpg){:height="150px"}]({filename}/2016-2017/ByrdEnsemble.md)
+[![ ]({filename}/images/2016-2017/the-telegraph-quartet400.jpg){:height="150px"}]({filename}/2016-2017/TelegraphQuartet.md)
+[![ ]({filename}/images/2016-2017/adaskin-trio-with-tom-gallant400.jpg){:height="150px"}]({filename}/2016-2017/AdaskinTrio.md)
+[![ ]({filename}/images/2016-2017/cotiklin-duo400.jpg){:height="150px"}]({filename}/2016-2017/Cotik-Lin.md)

@@ -1,75 +1,92 @@
-Title: Current Season 
-Date: 2015-07-18
+Title: Next Season 
+Date: 2016-05-05
 Authors: Colin Brislawn
 <!--
 Template: article_list
 Status: hidden
 -->
 
-## [Stephen Beus, piano]({filename}/2015-2016/StephenBeus.md)
+## [The Baltimore Consort with Danielle Svonavec, soprano]({filename}/2016-2017/BaltimoreConsort.md)
 
-[![ ]({filename}/images/2015-2016/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}/2015-2016/StephenBeus.md)
-#### September 26th, 2015 8:00pm and
-#### September 27th, 2015 2:00pm at Battelle Auditorium
-Stephen Beus, piano
-
----
-
-## [Cheifetz and Guggenheim]({filename}/2015-2016/CheifetzandGuggenheim.md)
-
-[![ ]({filename}/images/2015-2016/CheifetzGuggenheim200.png){:width="200px", .floatleft}]({filename}/2015-2016/CheifetzandGuggenheim.md)
-#### October 24th, 2015 8:00pm at the Battelle Auditorium
-Hamilton Cheifetz, cello and <br>
-Janet Guggenheim, piano
+[![ ]({filename}/images/2016-2017/BaltimoreConsort400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/BaltimoreConsort.md)
+#### September 24th, 2016 8:00 pm at Battelle Auditorium
+Mary Anne Ballard – treble and bass viols <br>
+Mark Cudek – cittern and bass viol <br>
+Larry Lipkis – bass viol, recorder, krummhorn, gemshorn <br>
+Ronn McFarlane – lute <br>
+Mindy Rosenfeld – flutes, fifes, bagpipes, krummhorn <br>
+Danielle Svonavec – soprano
 
 ---
 
-## [The Rose Ensemble]({filename}/2015-2016/RoseEnsemble.md)
+## [Vienna Piano Trio]({filename}/2016-2017/ViennaPianoTrio.md)
 
-[![ ]({filename}/images/2015-2016/TheRoseEnsemble200.png){:width="200px", .floatleft}]({filename}/2015-2016/RoseEnsemble.md)
-#### November 21 at 8:00pm in the Battelle Auditorium
-The Rose Ensemble
-
----
-
-## [Cosi Quartet]({filename}/2015-2016/CosiQuartet.md)
-
-[![ ]({filename}/images/2015-2016/Cosi200.png){:width="200px", .floatleft}]({filename}/2015-2016/CosiQuartet.md)
-#### January 23 at 8:00pm in the Battelle Auditorium
-Linda Melsted (Violinist), Laurel Wells (violist), Meg Brennand (cellist), and Curtis Foster (oboist)
+[![ ]({filename}/images/2016-2017/the-vienna-piano-trio400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/ViennaPianoTrio.md)
+#### October 22nd, 2016 8:00 pm at Battelle Auditorium
+David McCarroll - violin <br>
+Matthias Gredler - cello <br>
+Stefan Mendl - piano
 
 ---
 
-## [Trio Tremonti]({filename}/2015-2016/TrioTremonti.md)
+## [The Los Angeles Cello Quartet]({filename}/2016-2017/LosAngelesCelloQuartet.md)
 
-[![ ]({filename}/images/2015-2016/Tremonti200.png){:width="200px", .floatleft}]({filename}/2015-2016/TrioTremonti.md)
-#### February 27 at 8:00pm in the Battelle Auditorium
-Saul Bitrán, Violin <br>
-Jan Müller-Szeraws, Cello <br>
-Sally Pinkas, Piano
+[![ ]({filename}/images/2016-2017/the-los-angeles-cello-quartet400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/LosAngelesCelloQuartet.md)
+#### November 19th, 2016 8:00 pm at Battelle Auditorium
 
----
-
-## [Borealis Wind Quintet]({filename}/2015-2016/BorealisWindQuintet.md)
-
-[![ ]({filename}/images/2015-2016/Borealis200.jpg){:width="200px", .floatleft}]({filename}/2015-2016/BorealisWindQuintet.md)
-#### March 19 at 8:00pm in the Battelle Auditorium
-Keith Bonner, Flute <br>
-Tamar Beach Wells, Oboe <br>
-Kathryn Taylor, Clarinet <br>
-Dan Culpepper, French Horn <br>
-Wayne Hileman, Bassoon
-
-
+Ruslan Biryukov <br>
+Anne Suda <br>
+Efraín J. del Pilar <br>
+Paul Maxwell
 
 ---
 
-## [Trio Tremonti]({filename}/2015-2016/Simphonie.md)
+## [The Byrd Ensemble]({filename}/2016-2017/ByrdEnsemble.md)
 
-[![ ]({filename}/images/2015-2016/Simphonie200.png){:width="200px", .floatleft}]({filename}/2015-2016/Simphonie.md)
-#### April 23 at 8:00pm in the Battelle Auditorium
-Ingrid Matthews, baroque violin <br>
-Jeffrey Cohan, baroque flute <br>
-Hans-Jürgen Schnoor, harpsichord
+[![ ]({filename}/images/2016-2017/the-byrd-ensemble400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/ByrdEnsemble.md)
+#### January 28th, 2017 8:00 pm at Battelle Auditorium
+Markdavin Obenza, Artistic Director
+
+---
+
+## [The Telegraph Quartet]({filename}/2016-2017/TelegraphQuartet.md)
+
+[![ ]({filename}/images/2016-2017/the-telegraph-quartet400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/TelegraphQuartet.md)
+#### February 18th, 2017 8:00 pm at Battelle Auditorium
+
+Eric Chin - Violin <br>
+Joseph Maile - Violin <br>
+Pei-Ling Lin - Viola <br>
+Jeremiah Shaw - Cello
+
+
+---
+
+## [Adaskin String Trio with Tom Gallant]({filename}/2016-2017/AdaskinTrio.md)
+
+[![ ]({filename}/images/2016-2017/adaskin-trio-with-tom-gallant400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/AdaskinTrio.md)
+#### March 25th, 2017 8:00 pm at Battelle Auditorium
+Emlyn Ngai, violin <br>
+Steve Larson, viola <br>
+Mark Fraser, cello <br>
+Tom Gallant, oboe and English Horn
+
+
+---
+
+## [Cotik-Lin Duo]({filename}/2016-2017/Cotik-Lin.md)
+
+[![ ]({filename}/images/2016-2017/cotiklin-duo400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/Cotik-Lin.md)
+#### April 22nd, 2017 8:00 pm at Battelle Auditorium
+Tomas Cotik, Violin <br>
+Tao Lin, Piano
+
+---
+
+## [Young Artists of Distinction]({filename}/2016-2017/YoungArtists.md)
+
+[![ ]({filename}/images/2016-2017/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}/2016-2017/YoungArtists.md)
+#### May 7th, 2017 2:00 pm at Battelle Auditorium
+Young Artists of Distinction
 
 ---
