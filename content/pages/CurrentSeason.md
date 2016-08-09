@@ -1,4 +1,4 @@
-Title: Next Season 
+Title: Current Season 
 Date: 2016-05-05
 Authors: Colin Brislawn
 <!--
