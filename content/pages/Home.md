@@ -18,4 +18,4 @@ Status: hidden
 [![ ]({filename}/images/2016-2017/the-telegraph-quartet400.jpg){:height="200px"}]({filename}/2016-2017/TelegraphQuartet.md)
 [![ ]({filename}/images/2016-2017/adaskin-trio-with-tom-gallant400.jpg){:height="200px"}]({filename}/2016-2017/AdaskinTrio.md)
 [![ ]({filename}/images/2016-2017/cotiklin-duo400.jpg){:height="200px"}]({filename}/2016-2017/Cotik-Lin.md)
-[![ ]({filename}/images/2016-2017/StephenBeus200.jpg){:width="266px" height="200px"}]({filename}/2016-2017/YoungArtists.md)
+[![ ]({filename}/images/2016-2017/YoungArtists400.jpg){:height="200px"}]({filename}/2016-2017/YoungArtists.md)
