@@ -57,7 +57,8 @@ PAGE_ORDER_BY = 'reversed-date'
 #LOAD_CONTENT_CACHE = False
 
 
-STATIC_PATHS = ['images', 'pages', 'favicon.png', 'CamerataMusica/images']
+STATIC_PATHS = ['images', 'pages', 'favicon.png', 'CamerataMusica/images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 
 
 SUMMARY_MAX_LENGTH = 20
