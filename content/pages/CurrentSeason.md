@@ -85,7 +85,7 @@ Tao Lin, Piano
 
 ## [Young Artists of Distinction]({filename}/2016-2017/YoungArtists.md)
 
-[![ ]({filename}/images/2016-2017/StephenBeus200.jpg){:width="200px", .floatleft}]({filename}/2016-2017/YoungArtists.md)
+[![ ]({filename}/images/2016-2017/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/YoungArtists.md)
 #### May 7th, 2017 2:00 pm at Battelle Auditorium
 Young Artists of Distinction
 
