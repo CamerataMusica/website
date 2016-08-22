@@ -13,6 +13,8 @@ Stefan Mendl - piano
 
 [The Vienna Piano Trio Web Site](http://www.viennapianotrio.com/)
 
+The Vienna Piano Trio is represented by Shupp Artists Management Inc [www.shuppartists.com](http://www.shuppartists.com)
+
 ---
 
 ### Program
