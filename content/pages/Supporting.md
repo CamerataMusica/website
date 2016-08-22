@@ -23,6 +23,6 @@ Donations to Camerata may be made at any concert or by sending a check to Camera
 
 Camerata Musica is a 501(c)3 organization; donations are tax-deductible to the full extent of the law.
 
-Amazon shoppers can support Camerata by registering their preference at [smile.amazon.com](http://smile.amazon.com). After registering, start your Amazon shopping at Amazon Smile and every eligible purchase will result in a portion of the purchase price being donated to Camerata. 
+Amazon shoppers can support Camerata by registering their preference at [smile.amazon.com](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland). After registering, start your Amazon shopping at Amazon Smile and every eligible purchase will result in a portion of the purchase price being donated to Camerata. 
 
 Fred Meyer shoppers can link their Fred Meyer cards to Camerata Musica at [www.fredmeyer.com/topic/community-rewards-4](https://www.fredmeyer.com/topic/community-rewards-4) using our identifier (#87769). A portion of the profits from each purchase will be donated to Camerata. Registering to support Camerata does not affect the value of the Fred Meyer rewards you receive.
