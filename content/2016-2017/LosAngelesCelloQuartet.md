@@ -21,6 +21,7 @@ Paul Maxwell
 Wilhelm Fitzenhagen (1848-1890): Concert-Walzer, Op. 31
 
 David Popper (1843 – 1913): Suite for 4 celli, Op.16
+
 - Andante Grazioso
 - GAVOTTE (Allegro Vivace ma non troppo) 
 - SCHERZO (Quasi Presto)
@@ -29,9 +30,10 @@ David Popper (1843 – 1913): Suite for 4 celli, Op.16
 
 _Intermission_
 
-KOMITAS (1869-1935)    Five Medieval Armenian Chants 
+KOMITAS (1869-1935) Five Medieval Armenian Chants 
 
 Alexander Zemchuznikov (b.1975): “Invitation” (US Premiere)
+
 - Invitation
 - Acceptance
 - Impatience
