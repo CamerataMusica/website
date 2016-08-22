@@ -16,6 +16,9 @@ Danielle Svonavec – soprano
 
 [The Baltimore Consort Web Site](http://www.baltcons.com/)
 
+The Baltimore Consort appears by arrangement with Joanne Rile, [rilearts.com](http://rilearts.com/)
+
+
 ---
 
 ## The Food of Love: Songs for Shakespeare
