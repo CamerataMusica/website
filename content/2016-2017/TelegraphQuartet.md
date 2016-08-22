@@ -15,6 +15,8 @@ Jeremiah Shaw, Cello
 
 [The Telegraph Quartet Web Site](http://www.telegraphquartet.com/)
 
+The Telegraph Quartet appears by arrangement with Lisa Sapinkopf Artists, www.chambermuse.com
+
 ---
 
 ### Program
