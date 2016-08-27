@@ -45,3 +45,7 @@ Download the [Program Notes (PDF)]({filename}/images/2016-2017/ProgramNotesBalti
 - Music in Shakespeare's Plays
 - Detailed Program Notes
 - Baltimore	Consort	CDs
+
+---
+
+##### Photo Credit: James Skaggs
