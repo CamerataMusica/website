@@ -72,3 +72,7 @@ performances include a concert of solo and chamber music works for the oboe at t
 Congress in Washington, DC, and tours across the United States as soloist with Camerata
 Bariloche from Argentina performing concerti by J. S. Bach, Bellini and Vaughan-Williams. 
 Mr. Gallant is the solo oboist of the Wind Soloists of New York.
+
+---
+
+##### Photo Credit: Susan Wilson Photography
