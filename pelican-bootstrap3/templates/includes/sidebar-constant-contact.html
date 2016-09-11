@@ -1,13 +1,9 @@
-{% if SIDEBAR_CONSTANT_CONTACT_ID %}
+{% if SIDEBAR_CONSTANT_CONTACT_URL %}
     <li class="list-group-item">
         <ul class="list-group" id="constantcontact">
-			<p><strong>Sign up for Tri-City Concert Announcements:</strong></p>
-			<form name="ccoptin" action="http://visitor.constantcontact.com/d.jsp" target="_blank" method="post" style="margin-bottom:2;">
-				<input type="hidden" name="m" value="{{ SIDEBAR_CONSTANT_CONTACT_ID }}">
-				<input type="hidden" name="p" value="oi">
-				<input type="text" name="ea" size="20" value=" Enter Your Email" onfocus="javascript:this.value=''" style="font-size:10pt; border:1px solid #999999;">
-				<input type="submit" name="go" value="Go" class="submit" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10pt;">
-				</form>
+			<p><strong>Want to receive concert announcements by email?</strong></p>
+			<!-- BEGIN: Constant Contact Email List Form Button -->
+			<div align="center"><a href="{{ SIDEBAR_CONSTANT_CONTACT_URL }}" class="button" style="border: 1px solid rgb(91, 91, 91); color: rgb(91, 91, 91); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 10px; background-color: rgb(232, 232, 232);">Sign Up Now</a>
         </ul>
     </li>
 {% endif %}
