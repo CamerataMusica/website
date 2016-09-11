@@ -50,8 +50,8 @@ Download the [Program Notes (PDF)]({filename}/images/2016-2017/ProgramNotesBalti
 
 This program is supported in pat by a grant from [ArtsWa](http://www.arts.wa.gov/) (the [Washington State Arts Commission](http://www.arts.wa.gov/)) and the [National Endowment for the Arts](https://www.arts.gov/).
 
-![ ]({filename}/images/nea-lockup-A-small.jpg){:width="400px"}
-![ ]({filename}/images/TextOnlyAndFullName-HiRes-small.jpg){:width="400px"}
+![ ]({filename}/images/nea-lockup-A-small.jpg){:width="500px"}
+![ ]({filename}/images/TextOnlyAndFullName-HiRes-small.jpg){:width="300px"}
 
 
 ##### Photo Credit: James Skaggs
