@@ -11,6 +11,8 @@ Authors: Colin Brislawn
 
 Or you may contact the Board chair by phone (509-946-1175) or email ([cndorans@charter.net](mailto:cndorans@charter.net))
 
+You can contact the webmaster by email: [colin@cameratamusica.com](mailto:colin@cameratamusica.com). 
+
 If you would like to receive email notification of our concerts, please sign up below. <br>
 Please note, Camerata may on occasion send out information about other concerts in the Tri-Cities.
 
