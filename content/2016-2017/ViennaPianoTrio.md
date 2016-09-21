@@ -20,7 +20,7 @@ The Vienna Piano Trio is represented by Shupp Artists Management Inc [www.shuppa
 ### Program
 
 **Beethoven:** Variations for pianotrio on “Ich bin der Schneider Kakadu” op.121a <br>
-**Schönberg**:"“Verklärte Nac"t” op.4 (Piano trio-version by Eduard Steuermann) <br>
+**Schönberg:** Verklärte Nacht op.4 (Piano trio-version by Eduard Steuermann) <br>
 **Schubert:** Piano trio No.1 in B-flat major op.99,.D898
 
 ---
