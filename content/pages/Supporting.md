@@ -9,7 +9,8 @@ Camerata Musica depends on the generosity of those attending concerts to support
 Donations to Camerata may be made at any concert or by sending a check to Camerata Musica, PO Box 615, Richland WA 99352. 
 [A contribution form is available here (PDF)]({filename}/images/DonorForm.pdf).
 
-[![ ]({filename}/images/256-pdf-icon.png){:width="100px", .floatleft}]({filename}/images/DonorForm.pdf)
+[![ ]({filename}/images/256-pdf-icon.png){:width="120px", .floatleft}]({filename}/images/DonorForm.pdf)
+[![ ]({filename}/images/256-pdf-icon.png){:width="120px", .floatleft}]({filename}/images/DonorForm.pdf)
 
 Donors who contribute a minimum of $100.00 each season to Camerata are designated “patrons” and their names appear as such on the program. In addition, patrons receive a reminder card prior to each concert. By presenting this card at the concert _before_ 7:45 p.m., they receive priority seating for themselves and their family (defined as two adults and accompanying children under 18). After 7:45, members of the public and patrons are admitted on a first-come, first-seated basis.
 
