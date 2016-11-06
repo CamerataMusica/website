@@ -122,11 +122,13 @@ a, a:hover {
 .floatright, .align-right {
     float: right;
 	margin-left: 15px;
+	margin-bottom: 15px;
 }
 
 .floatleft, .align-left {
     float: left;
 	margin-right: 15px;
+	margin-bottom: 15px;
 }
 
 .floatcenter, .align-center {
