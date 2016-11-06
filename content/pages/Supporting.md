@@ -11,7 +11,6 @@ Donations to Camerata may be made at any concert or by sending a check to Camera
 **Download a contribution form**
 
 [![ ]({filename}/images/256-pdf-icon.png){:width="130px", .floatleft}]({filename}/images/DonorForm.pdf)
-[![ ]({filename}/images/256-pdf-icon.png){:width="130px", .floatleft}]({filename}/images/DonorForm.pdf)
 
 <p class="clear">Donors who contribute a minimum of $100.00 each season to Camerata are designated “patrons” and their names appear as such on the program. In addition, patrons receive a reminder card prior to each concert. By presenting this card at the concert _before_ 7:45 p.m., they receive priority seating for themselves and their family (defined as two adults and accompanying children under 18). After 7:45, members of the public and patrons are admitted on a first-come, first-seated basis.</p>
 
