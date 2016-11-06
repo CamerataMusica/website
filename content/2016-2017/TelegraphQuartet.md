@@ -22,14 +22,16 @@ The Telegraph Quartet appears by arrangement with Lisa Sapinkopf Artists, [www.c
 ### Program
 
 Franz Joseph Haydn (1732-1809) <br>
-Quartet in C major Op. 33 No. 3 "The Bird" <br>
+Quartet in C major Op. 33 No. 3 "The Bird"
+
 - Allegro moderato
 - Scherzo: Allegretto
 - Adagio
 - Presto
 
 Antonín Dvořák (1841-1904) <br>
-Cypresses, B.152 <br>
+Cypresses, B.152
+
 1. I Know that My Love to Thee (Já vím, že v sladké nadeji) <br>
 2. Death Reigns in Many a Human Breast (V tak mnohém srdci mrtvo jest) <br>
 9. Thou Only, Dear One (Ó duše drahá jedinká) <br>
@@ -40,6 +42,7 @@ _intermission_
 
 Robert Schumann (1810-1856) <br>
 String Quartet No. 3 in A major, Op. 41 No. 3
+
 - Andante espressivo - Allegro molto moderato
 - Assai agitato
 - Adagio molto
