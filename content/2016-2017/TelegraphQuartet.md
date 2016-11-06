@@ -23,10 +23,10 @@ The Telegraph Quartet appears by arrangement with Lisa Sapinkopf Artists, [www.c
 
 Franz Joseph Haydn (1732-1809) <br>
 Quartet in C major Op. 33 No. 3 "The Bird" <br>
- - Allegro moderato
- - Scherzo: Allegretto
- - Adagio
- - Presto
+- Allegro moderato
+- Scherzo: Allegretto
+- Adagio
+- Presto
 
 Antonín Dvořák (1841-1904) <br>
 Cypresses, B.152 <br>
@@ -40,10 +40,10 @@ _intermission_
 
 Robert Schumann (1810-1856) <br>
 String Quartet No. 3 in A major, Op. 41 No. 3
- - Andante espressivo - Allegro molto moderato
- - Assai agitato
- - Adagio molto
- - Finale. Allegro molto vivace
+- Andante espressivo - Allegro molto moderato
+- Assai agitato
+- Adagio molto
+- Finale. Allegro molto vivace
 
 ---
 
