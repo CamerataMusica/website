@@ -47,7 +47,7 @@ String Quartet No. 3 in A major, Op. 41 No. 3
 
 ---
 
-Download the [full program, notes, and biogrophy (PDF)]({filename}/images/2016-2017/Telegraph-Quartet-Richland-prog.pdf)
+Download the [full program, notes, and biography (PDF)]({filename}/images/2016-2017/Telegraph-Quartet-Richland-prog.pdf)
 
 ---
 
