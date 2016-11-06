@@ -47,6 +47,10 @@ String Quartet No. 3 in A major, Op. 41 No. 3
 
 ---
 
+Download the [full program, notes, and biogrophy (PDF)]({filename}/images/2016-2017/Telegraph-Quartet-Richland-prog.pdf)
+
+---
+
 ### About the Musicians
 
 The Telegraph Quartet recently won the 2016 Naumburg Chamber Music Competition, a prize that helped launch the careers of groups including the Pacifica, Brentano and Emerson string quartets and the Eroica Trio. The prize carries with it a performance at Carnegie Hall / Weill Recital Hall and a commissioned work by esteemed American composer Robert Sirota.
