@@ -32,11 +32,11 @@ Quartet in C major Op. 33 No. 3 "The Bird"
 Antonín Dvořák (1841-1904) <br>
 Cypresses, B.152
 
-1. I Know that My Love to Thee (Já vím, že v sladké nadeji) <br>
+<p>1. I Know that My Love to Thee (Já vím, že v sladké nadeji) <br>
 2. Death Reigns in Many a Human Breast (V tak mnohém srdci mrtvo jest) <br>
 9. Thou Only, Dear One (Ó duše drahá jedinká) <br>
 11. Nature Lies Peaceful in Slumber and Dreaming (Nad krajem vévodi lehký spánek) <br>
-12. You Ask Why My Songs (Ty se ptás, proc moje zpevy)
+12. You Ask Why My Songs (Ty se ptás, proc moje zpevy)</p>
 
 _intermission_
 
