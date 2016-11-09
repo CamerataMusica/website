@@ -12,8 +12,7 @@ Steve Larson, viola <br>
 Mark Fraser, cello <br>
 Tom Gallant, oboe and English Horn
 
-
-<p class="clear">[Adaskin Trio web site](http://www.adaskinstringtrio.com/)</p>
+<p class="clear"><a href="http://www.adaskinstringtrio.com/">Adaskin Trio web site</a></p>
 
 [Tom Gallant web site](http://www.thomasgallantoboist.com/)
 
