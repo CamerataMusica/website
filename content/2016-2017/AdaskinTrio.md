@@ -13,7 +13,7 @@ Mark Fraser, cello <br>
 Tom Gallant, oboe and English Horn
 
 
-[Adaskin Trio web site](http://www.adaskinstringtrio.com/)
+<p class="clear">[Adaskin Trio web site](http://www.adaskinstringtrio.com/)</p>
 
 [Tom Gallant web site](http://www.thomasgallantoboist.com/)
 
