@@ -15,6 +15,8 @@ Tom Gallant, oboe and English Horn
 
 [Adaskin Trio web site](http://www.adaskinstringtrio.com/)
 
+[Tom Gallant web site](http://www.thomasgallantoboist.com/)
+
 ---
 
 ### Program
