@@ -32,6 +32,8 @@ The peak of one of Europe’s most extraordinary ruling dynasties coincided with
 | Quis dabit oculis nostris         | arr. Ludwig SENFL  |
 | Virgo prudentissima               | ISAAC              |
 
+### Program Notes
+Download the [Full Program Notes (PDF)]({filename}/images/2016-2017/byrdprogramnotes.pdf) for more details.
 
 ---
 
