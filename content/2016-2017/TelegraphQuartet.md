@@ -71,4 +71,4 @@ The Telegraph Quartet is based in the San Francisco Bay area.
 
 ---
 
-The Telegraph Quartet appears by arrangement with Lisa Sapinkopf Artists, [www.chambermuse.com](www.chambermuse.com)
+The Telegraph Quartet appears by arrangement with Lisa Sapinkopf Artists, [www.chambermuse.com](http://www.chambermuse.com)
