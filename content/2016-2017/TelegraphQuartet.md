@@ -35,8 +35,9 @@ Cypresses, B.152
 <p>1. I Know that My Love to Thee (Já vím, že v sladké nadeji) <br>
 2. Death Reigns in Many a Human Breast (V tak mnohém srdci mrtvo jest) <br>
 9. Thou Only, Dear One (Ó duše drahá jedinká) <br>
+12. You Ask Why My Songs (Ty se ptás, proc moje zpevy) <br>
 11. Nature Lies Peaceful in Slumber and Dreaming (Nad krajem vévodi lehký spánek) <br>
-12. You Ask Why My Songs (Ty se ptás, proc moje zpevy)</p>
+</p>
 
 _intermission_
 
@@ -50,7 +51,7 @@ String Quartet No. 3 in A major, Op. 41 No. 3
 
 ---
 
-Download the [full program, notes, and biography (PDF)]({filename}/images/2016-2017/Telegraph-Quartet-Richland-prog.pdf)
+Download the [full program notes (PDF)]({filename}/images/2016-2017/cm-Teklegraph-notes.pdf)
 
 ---
 
@@ -67,3 +68,7 @@ The quartet collaborates with pianist Simone Dinnerstein, cellist Norman Fischer
 Beyond the concert stage, the Telegraph Quartet seeks to spread its music through education and audience engagement. They have given master classes at the San Francisco Conservatory of Music and the Chicago Youth Symphony Orchestra. The quartet members hold teaching positions at various music institutions including San Francisco Conservatory of Music’s Chamber Music Program and Young Chamber Musicians in San Francisco’s South Bay.  
 
 The Telegraph Quartet is based in the San Francisco Bay area.
+
+---
+
+The Telegraph Quartet appears by arrangement with Lisa Sapinkopf Artists, [www.chambermuse.com](www.chambermuse.com)
