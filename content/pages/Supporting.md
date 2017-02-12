@@ -8,12 +8,14 @@ Camerata Musica depends on the generosity of those attending concerts to support
 
 Donations to Camerata may be made at any concert or by sending a check to Camerata Musica, PO Box 615, Richland WA 99352. 
 
-**Download a contribution form**
+**Download and print a contribution form**
 
 [![ ]({filename}/images/256-pdf-icon.png){:width="130px", .floatleft}]({filename}/images/DonorForm.pdf)
 [![ ]({filename}/images/256-word-icon.png){:width="130px", .floatleft}]({filename}/images/DonorForm.doc)
 
-<p class="clear">Donors who contribute a minimum of $100.00 each season to Camerata are designated “patrons” and their names appear as such on the program. In addition, patrons receive a reminder card prior to each concert. By presenting this card at the concert _before_ 7:45 p.m., they receive priority seating for themselves and their family (defined as two adults and accompanying children under 18). After 7:45, members of the public and patrons are admitted on a first-come, first-seated basis.</p>
+<p class="clear">&nbsp;</p>
+
+Donors who contribute a minimum of $100.00 each season to Camerata are designated “patrons” and their names appear as such on the program. In addition, patrons receive a reminder card prior to each concert. By presenting this card at the concert _before_ 7:45 p.m., they receive priority seating for themselves and their family (defined as two adults and accompanying children under 18). After 7:45, members of the public and patrons are admitted on a first-come, first-seated basis.
 
 Patrons making a donation of at least $300 per year will be able to bring an additional 2 guests with them when they present their reminder card _prior_ to 7:45.
 
@@ -27,6 +29,12 @@ Patrons who make substantial gifts to Camerata over a five-year period are ackno
 
 Camerata Musica is a 501(c)3 organization; donations are tax-deductible to the full extent of the law.
 
+[![ ]({filename}/images/AmazonSmile-logo.png){:width="300px", .floatleft .clear}](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland)
+
 Amazon shoppers can support Camerata by registering their preference at [smile.amazon.com](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland). After registering, start your Amazon shopping at Amazon Smile and every eligible purchase will result in a portion of the purchase price being donated to Camerata. 
 
-Fred Meyer shoppers can link their Fred Meyer cards to Camerata Musica at [www.fredmeyer.com/topic/community-rewards-4](https://www.fredmeyer.com/topic/community-rewards-4) using our identifier (#87769). A portion of the profits from each purchase will be donated to Camerata. Registering to support Camerata does not affect the value of the Fred Meyer rewards you receive.
+<br .>
+
+[![ ]({filename}/images/FMCommunity-logo.png){:width="300px", .floatleft .clear}](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland)
+
+Fred Meyer shoppers can link their Fred Meyer cards to Camerata Musica at [www.fredmeyer.com/topic/community-rewards-4](https://www.fredmeyer.com/topic/community-rewards-4) using our identifier (**#87769**). A portion of the profits from each purchase will be donated to Camerata. Registering to support Camerata does not affect the value of the Fred Meyer rewards you receive.
