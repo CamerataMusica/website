@@ -29,11 +29,13 @@ Patrons who make substantial gifts to Camerata over a five-year period are ackno
 
 Camerata Musica is a 501(c)3 organization; donations are tax-deductible to the full extent of the law.
 
+<br>
+
 [![ ]({filename}/images/AmazonSmile-logo.png){:width="300px", .floatleft .clear}](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland)
 
 Amazon shoppers can support Camerata by registering their preference at [smile.amazon.com](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland). After registering, start your Amazon shopping at Amazon Smile and every eligible purchase will result in a portion of the purchase price being donated to Camerata. 
 
-<br .>
+<br>
 
 [![ ]({filename}/images/FMCommunity-logo.png){:width="300px", .floatleft .clear}](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland)
 
