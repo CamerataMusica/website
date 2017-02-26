@@ -11,11 +11,11 @@ Status: hidden
 
 ---
 
-[![ ]({filename}/images/2016-2017/BaltimoreConsort400.jpg){:height="200px"}]({filename}/2016-2017/BaltimoreConsort.md)
-[![ ]({filename}/images/2016-2017/the-vienna-piano-trio400.jpg){:height="200px"}]({filename}/2016-2017/ViennaPianoTrio.md)
-[![ ]({filename}/images/2016-2017/the-los-angeles-cello-quartet400.jpg){:height="200px"}]({filename}/2016-2017/LosAngelesCelloQuartet.md)
-[![ ]({filename}/images/2016-2017/the-byrd-ensemble400.jpg){:height="200px"}]({filename}/2016-2017/ByrdEnsemble.md)
-[![ ]({filename}/images/2016-2017/the-telegraph-quartet400.jpg){:height="200px"}]({filename}/2016-2017/TelegraphQuartet.md)
-[![ ]({filename}/images/2016-2017/adaskin-trio-with-tom-gallant400.jpg){:height="200px"}]({filename}/2016-2017/AdaskinTrio.md)
-[![ ]({filename}/images/2016-2017/cotiklin-duo400.jpg){:height="200px"}]({filename}/2016-2017/Cotik-Lin.md)
-[![ ]({filename}/images/2016-2017/YoungArtists400.jpg){:height="200px"}]({filename}/2016-2017/YoungArtists.md)
+[![ ]({filename}/images/2016-2017/BaltimoreConsort400.jpg){:height="200px", .floatleft}]({filename}/2016-2017/BaltimoreConsort.md)
+[![ ]({filename}/images/2016-2017/the-vienna-piano-trio400.jpg){:height="200px", .floatleft}]({filename}/2016-2017/ViennaPianoTrio.md)
+[![ ]({filename}/images/2016-2017/the-los-angeles-cello-quartet400.jpg){:height="200px", .floatleft}]({filename}/2016-2017/LosAngelesCelloQuartet.md)
+[![ ]({filename}/images/2016-2017/the-byrd-ensemble400.jpg){:height="200px", .floatleft}]({filename}/2016-2017/ByrdEnsemble.md)
+[![ ]({filename}/images/2016-2017/the-telegraph-quartet400.jpg){:height="200px", .floatleft}]({filename}/2016-2017/TelegraphQuartet.md)
+[![ ]({filename}/images/2016-2017/adaskin-trio-with-tom-gallant400.jpg){:height="200px", .floatleft}]({filename}/2016-2017/AdaskinTrio.md)
+[![ ]({filename}/images/2016-2017/cotiklin-duo400.jpg){:height="200px", .floatleft}]({filename}/2016-2017/Cotik-Lin.md)
+[![ ]({filename}/images/2016-2017/YoungArtists400.jpg){:height="200px", .floatleft}]({filename}/2016-2017/YoungArtists.md)
