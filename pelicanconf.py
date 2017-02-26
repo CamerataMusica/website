@@ -35,7 +35,7 @@ LINKS = (
 	('Past Seasons', 'https://colinbrislawn.github.io/CamerataMusica/seasons/'),
 	)
 
-SIDEBAR_CONSTANT_CONTACT_URL = 'https://visitor.r20.constantcontact.com/d.jsp?llr=p4srkqcab&amp;p=oi&amp;m=1102207044591&amp;sit=rqpqngpdb&amp;f=ecb71989-d1f8-420b-9cc4-ce725dba2096'
+SIDEBAR_EMAIL_SIGNUP_URL = 'https://visitor.r20.constantcontact.com/d.jsp?llr=p4srkqcab&amp;p=oi&amp;m=1102207044591&amp;sit=rqpqngpdb&amp;f=ecb71989-d1f8-420b-9cc4-ce725dba2096'
 
 # Social widget
 #SOCIAL = (
