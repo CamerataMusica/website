@@ -24,8 +24,8 @@ Variations on a Theme by Corelli 
 
 Wolfgang Amadeus Mozart (1756-1791) <br>
 Violin Sonata in G major, K.301 <br>
- - Allegro con spirito
- - Allegro
+  - Allegro con spirito <br>
+  - Allegro
 
 Pablo de Sarasate (1844-1908) <br>
 Romanza andaluza Op.22, No.1
@@ -43,17 +43,17 @@ Introduction and Rondo Capriccioso
 
 George Gershwin (1898-1937) <br>
 Three Preludes (arr. J. Heifetz) <br>
-1. Allegro ben ritmato e deciso
-2. Andante con moto e poco rubato
+1. Allegro ben ritmato e deciso <br>
+2. Andante con moto e poco rubato <br>
 3. Allegro ben ritmato e deciso
 
 Carlos Gardel (1890-1935) and A. Le Pera <br>
 Por una Cabeza (arr. John Williams)
 
 Ástor Piazzolla (1921-1992) <br>
-Three Tangos (arr. Cotik)
-1. La muerte del ángel
-2. Oblivión
+Three Tangos (arr. Cotik) <br>
+1. La muerte del ángel <br>
+2. Oblivión <br>
 3. Escualo
 
 ---
