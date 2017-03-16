@@ -56,12 +56,12 @@ Histoire du Tango: Night Club 1960
 
 ### About the Musicians
 
-Argentinian violinist **TOMÁS COTIK** and Chinese pianist **TAO LIN**, both Miami residents, formed their
-duo in 2010 when they embarked on recording for Centaur Records the complete music for piano and
-violin by Franz Schubert. The first volume received numerous rave reviews in the international press,
-including one in Fanfare Magazine that compared their CD favorably with the classic recording by
-Rachmaninoff and Kreisler. On the strength of the success of this recording, the duo received a long-
-term recording contract with Centaur Records to record all 17 Sonatas for Piano and Violin by
-Mozart. The duo has already completed the final CD of the Schubert project, and meanwhile has
-released a much-lauded Piazzolla CD on the Naxos label.
+Argentinian violinist **TOMÁS COTIK** and Chinese pianist **TAO LIN**, both Miami residents, formed their duo in 2010 when they embarked on recording for Centaur Records the complete music for piano and violin by Franz Schubert. The first volume received numerous rave reviews in the international press, including one in Fanfare Magazine that compared their CD favorably with the classic recording by Rachmaninoff and Kreisler. On the strength of the success of this recording, the duo received a long-term recording contract with Centaur Records to record all 17 Sonatas for Piano and Violin by Mozart. The duo has already completed the final CD of the Schubert project, and meanwhile has released a much-lauded Piazzolla CD on the Naxos label.
 
+**TOMÁS COTIK** ([www.tomascotik.com](http://www.tomascotik.com)) was the First Prize Winner of the National Broadcast Music Competition in Argentina, and the winner of the Government of Canada Award. He was educated in Germany and has worked under the guidance of the Vermeer, Tokyo and Endellion String Quartets, as well as notable artists including Midori, Christian Tetzlaff, Ana Chumachenko, Heinz Holliger, Leon Fleisher and the leaders of Vienna, Berlin, New York, Philadelphia, Boston, Cleveland and San Francisco Symphonies. A former rotating concertmaster of the New World Symphony, Tomas Cotik earned a doctorate of music from the University of Miami, where was adjunct professor until recently joining the faculty at Portland State University.
+
+Mr. Cotik has performed with several internationally prominent conductors such as Michael Tilson Thomas, Valery Gergiev, Roberto Abbado, Yakov Kreizberg, Marin Alsop, Stephan Deneve, Roger Norrington and Robert Spano at important venues including Carnegie Hall. He has been a member of the Amernet String Quartet.
+
+Shanghai native and Florida resident **TAO LIN** ([www.taolin.net](http://www.taolin.net)) has been a prize-winner at the Palm Beach International Invitational Competition, the International Piano e-Competition, the William Kapell International Piano Competition and the Osaka International Chamber Music Competition. He has given recitals at the Kennedy Center, National Gallery, 92nd Street Y, Rockefeller University, Chautauqua Institute, Minnesota Orchestra Hall, Izumi Hall (Osaka, Japan), and Norway’s Edvard Grieg Museum
+
+Mr. Lin has collaborated with the St. Petersburg, Shanghai, and Ying Quartets, as well as distinguished colleagues Elmar Oliveira, Roberto Diaz and Eugenia Zukerman. A prolific recording artist, Mr. Lin can be heard on the Naxos, Artek, Centaur, Romeo, Poinciana, and Piano Lovers labels.  He is a Visiting Professor at Shanghai Normal University School of Music and an Artist Faculty at Bowdoin International Music Festival.  Mr. Lin is a Steinway Artist.
