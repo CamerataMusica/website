@@ -22,8 +22,10 @@ The Cotik-Lin Duo appears by arrangement with Lisa Sapinkopf Artists, [www.chamb
 Giuseppe Tartini (1692-1770) <br>
 Variations on a Theme by Corelli 
 
-Franz Schubert (1797-1828) <br>
-Rondo in B minor, Op. 70, D. 895 "Rondo brilliant" 
+Wolfgang Amadeus Mozart (1756-1791) <br>
+Violin Sonata in G major, K.301 <br>
+ - Allegro con spirito
+ - Allegro
 
 Pablo de Sarasate (1844-1908) <br>
 Romanza andaluza Op.22, No.1
@@ -39,18 +41,20 @@ Romance, Op.11
 Camille Saint-Saëns (1835-1921) <br>
 Introduction and Rondo Capriccioso
 
-George Gershwin (1898-1937): Three Preludes (arr. J. Heifetz) <br>
-I. Allegro ben ritmato e deciso <br>
-II. Andante con moto e poco rubato <br>
-III. Allegro ben ritmato e deciso <br>
+George Gershwin (1898-1937) <br>
+Three Preludes (arr. J. Heifetz) <br>
+1. Allegro ben ritmato e deciso
+2. Andante con moto e poco rubato
+3. Allegro ben ritmato e deciso
 
 Carlos Gardel (1890-1935) and A. Le Pera <br>
 Por una Cabeza (arr. John Williams)
 
 Ástor Piazzolla (1921-1992) <br>
-La muerte del ángel (arr. Cotik) <br>
-Oblivión (arr. Cotik) <br>
-Histoire du Tango: Night Club 1960
+Three Tangos (arr. Cotik)
+1. La muerte del ángel
+2. Oblivión
+3. Escualo
 
 ---
 
