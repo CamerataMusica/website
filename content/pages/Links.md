@@ -27,4 +27,4 @@ In the Yakima area?
 
 ---
 
-Music teachers can download the [application form](./images/ApplicationForm.doc) for our Young Musicians of Distinction concert
+Music teachers can download the [application form]({filename}/images/ApplicationForm.doc) for our Young Artists of Distinction concert.
