@@ -27,4 +27,4 @@ In the Yakima area?
 
 ---
 
-Music teachers can download the [application form]({filename}/images/ApplicationForm.doc) for our Young Artists of Distinction concert.
+Music teachers can learn more about the [Young Artists of Distinction concert](http://cameratamusica.com/young-artists-of-distinction.html) and submit an application on behalf of one a student.
