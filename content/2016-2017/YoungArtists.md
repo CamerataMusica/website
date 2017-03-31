@@ -12,6 +12,16 @@ Every year, Camerata celebrates the end of the season with a tribute to local mu
 
 Information about requirements and the nomination form will be posted soon.
 
-Music teachers can download the [application form (Word DOC)]({filename}/images/ApplicationForm.doc).
+Music teachers can download and submit an application form on behalf of a student.
 
 If you have questions about this event or would like to submit an application, please send an email to [youngartists@cameratamusica.com](mailto:youngartists@cameratamusica.com).
+
+<!--
+
+**Download and submit an application form**
+
+[![ ]({filename}/images/256-pdf-icon.png){:width="130px", .floatleft}]({filename}/images/ApplicationForm.doc)
+[![ ]({filename}/images/256-word-icon.png){:width="130px", .floatleft}]({filename}/images/ApplicationForm.doc)
+
+
+-->
