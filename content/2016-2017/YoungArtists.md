@@ -17,3 +17,5 @@ If you have questions about this event or would like to submit an application, p
 **Download and submit an application form**
 
 [![ ]({filename}/images/256-word-icon.png){:width="130px", .floatleft}]({filename}/images/ApplicationForm2017.doc)
+
+**We have extended the application deadline to April 18th at 5 pm.**
