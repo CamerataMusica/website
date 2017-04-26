@@ -6,6 +6,8 @@ http://cameratamusica.com/
 
 This is built with [Pelican](http://docs.getpelican.com/) and deployed with Travis-CI [![Build Status](https://travis-ci.org/colinbrislawn/CamerataMusica.svg?branch=master)](https://travis-ci.org/colinbrislawn/CamerataMusica)
 
+---
+
 Here's how to set up an build environment:
 ```
 conda create --name pelican pelican ghp-import markdown
