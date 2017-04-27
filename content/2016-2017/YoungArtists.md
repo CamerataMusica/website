@@ -8,16 +8,6 @@ Authors: Colin Brislawn
 
 ---
 
-#### Teachers:
-
-Lilia Moses, Frank Lu, Sherry Danielson, Adella Hammerstrom, Holly Harty, Cathy Exarhos, Hania Dec, and Cynthia Vaughn
-
-#### Accompanists:
-
-Peggy Patchett <br>
-Holly Harty <br>
-Benjamin Walley
-
 ### Program:
 
 <table style="width:100%">
@@ -111,6 +101,16 @@ Benjamin Walley
   <td>Vittorio Mon</td>
  </tr>
 </table>
+
+#### Teachers:
+
+Lilia Moses, Frank Lu, Sherry Danielson, Adella Hammerstrom, Holly Harty, Cathy Exarhos, Hania Dec, and Cynthia Vaughn
+
+#### Accompanists:
+
+Peggy Patchett <br>
+Holly Harty <br>
+Benjamin Walley
 
 ---
 
