@@ -8,16 +8,9 @@ Authors: Colin Brislawn
 
 ---
 
-#### Teachers:
+#### Teathers:
 
-Lilia Moses <br>
-Frank Lu <br>
-Sherry Danielson <br>
-Adella Hammerstrom <br>
-Holly Harty <br>
-Cathy Exarhos	<br>
-Hania Dec	<br>
-Cynthia Vaughn
+Lilia Moses, Frank Lu, Sherry Danielson, Adella Hammerstrom, Holly Harty, Cathy Exarhos, Hania Dec, and Cynthia Vaughn
 
 #### Accompanists:
 
@@ -27,25 +20,23 @@ Benjamin Walley
 
 ### Program:
 
-<table>
+<table style="width:100%">
  <col>
  <col>
  <col>
  <tr height=16 style='height:16.0pt'>
-  <td height=16 width=213 style='height:16.0pt;width:213pt'>Audrey Xu, age 10 –
-  Piano</td>
+  <td height=16 style='height:16.0pt'>Audrey Xu, age 10 – Piano</td>
   <td>Prelude &amp; Fugue in C minor</td>
   <td>J.S. Bach</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 style='height:16.0pt'>Michelle Fu, age 14 – Violin</td>
-  <td>Sonata<span style='mso-spacerun:yes'>&nbsp; </span>No. 5, Op. 24<span
-  style='mso-spacerun:yes'>&nbsp;</span></td>
+  <td>Sonata No. 5, Op. 24</td>
   <td>Ludwig van Beethoven</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 style='height:16.0pt'>Ourania Glezakou-Elbert, age 11 – Piano</td>
-  <td>Polonaise in A-flat<span style='mso-spacerun:yes'>&nbsp;</span></td>
+  <td>Polonaise in A-flat</td>
   <td>Frédéric Chopin</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
