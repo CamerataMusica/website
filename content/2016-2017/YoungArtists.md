@@ -51,7 +51,7 @@ Authors: Colin Brislawn
   <td>Sergei Prokofiev</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
-  <td height=16 style='height:16.0pt'>Winer Mallon, age 16 – Voice, Mezzo Soprano</td>
+  <td height=16 style='height:16.0pt'>Winter Mallon, age 16 – Voice, Mezzo Soprano</td>
   <td>Liebhaber in Allen Gestalten</td>
   <td>Franz Schubert</td>
  </tr>
