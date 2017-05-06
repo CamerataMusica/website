@@ -1,6 +1,7 @@
 Title: New York Brass Arts Trio
 Date: 2017-10-28
 Authors: Colin Brislawn
+Banner: ./images/2017-2018/new-york-brass-arts-trio-large.jpg
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./NewYorkBrassArtsTrio.md) )
 

@@ -1,6 +1,8 @@
 Title: Clancy Newman, Cello
 Date: 2018-01-27
 Authors: Colin Brislawn
+Banner: ./images/2017-2018/clancy-newman-cello-large.jpg
+Bannerposition: center
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./ClancyNewman.md) )
 

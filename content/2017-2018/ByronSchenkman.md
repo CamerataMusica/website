@@ -2,6 +2,7 @@ Title: Byron Schenkman & Friends
 Date: 2018-04-28
 Authors: Colin Brislawn
 Slug: byron-schenkman-2018
+Banner: ./images/2017-2018/byron-schenkman-2018-large.jpg
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./ByronSchenkman.md) )
 
