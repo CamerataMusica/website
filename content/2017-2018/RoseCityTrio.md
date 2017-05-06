@@ -1,6 +1,7 @@
 Title: Rose City Trio
 Date: 2018-03-24
 Authors: Colin Brislawn
+Status: hidden
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./RoseCityTrio.md) )
 

@@ -1,6 +1,7 @@
 Title: sound|counterpoint
 Date: 2017-11-18
 Authors: Colin Brislawn
+Status: hidden
 Banner: ./images/2017-2018/soundcounterpoint-large.jpg
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./SoundCounterpoint.md) )
