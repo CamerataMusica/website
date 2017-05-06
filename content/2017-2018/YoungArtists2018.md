@@ -1,5 +1,5 @@
 Title: Young Artists of Distinction
-Date: 2018
+Date: 2018-05-01
 Authors: Colin Brislawn
 Status: hidden
 Slug: young-artists-2018
