@@ -1,7 +1,6 @@
 Title: Yael Weiss, Piano
 Date: 2017-09-23
 Authors: Colin Brislawn
-Status: hidden
 Banner: ./images/2017-2018/yael-weiss-piano-large.jpg
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./YaelWeiss.md) )
