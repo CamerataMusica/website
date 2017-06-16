@@ -86,9 +86,6 @@ Byron Schenkman, harpsichord
 
 ## [Young Artists of Distinction]({filename}/2017-2018/YoungArtists2018.md)
 
-
-#### Spring, 2018 2:00pm
-
 [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/YoungArtists2018.md)
 #### Spring, 2018 2:00pm
 
