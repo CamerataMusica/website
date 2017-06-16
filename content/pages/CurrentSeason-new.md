@@ -7,7 +7,7 @@ Template: article_list
 Status: hidden
 -->
 
-## [Yael Weiss, Piano]({filename}/2017-2018/YaelWeiss.md)
+## [Yael Weiss]({filename}/2017-2018/YaelWeiss.md)
 
 [![ ]({filename}/images/2017-2018/yael-weiss-piano-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/YaelWeiss.md)
 #### September 23rd, 2017 8:00 pm
@@ -39,7 +39,7 @@ Jonathan Oddie, harpsichord
 
 ---
 
-## [Clancy Newman, Cello]({filename}/2017-2018/ClancyNewman.md)
+## [Clancy Newman]({filename}/2017-2018/ClancyNewman.md)
 
 [![ ]({filename}/images/2017-2018/clancy-newman-cello-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/ClancyNewman.md)
 #### January 27th, 2018 8:00 pm

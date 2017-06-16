@@ -1,4 +1,4 @@
-Title: Clancy Newman, Cello
+Title: Clancy Newman
 Date: 2018-01-27
 Authors: Colin Brislawn
 Banner: ./images/2017-2018/clancy-newman-cello-large.jpg
@@ -9,6 +9,7 @@ Bannerposition: center
 
 #### January 27th, 2018 8:00 pm at Battelle Auditorium
 
+Clancy Newman, Cello
 
 [Clancy Newman website](http://www.clancynewman.com/)
 

@@ -1,4 +1,4 @@
-Title: Yael Weiss, Piano
+Title: Yael Weiss
 Date: 2017-09-23
 Authors: Colin Brislawn
 Banner: ./images/2017-2018/yael-weiss-piano-large.jpg
