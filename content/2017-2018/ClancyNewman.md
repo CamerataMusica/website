@@ -1,4 +1,4 @@
-Title: Clancy Newman
+Title: Clancy Newman with Natalie Zhu
 Date: 2018-01-27
 Authors: Colin Brislawn
 Banner: ./images/2017-2018/clancy-newman-cello-large.jpg
@@ -9,7 +9,8 @@ Bannerposition: center
 
 #### January 27th, 2018 8:00 pm at Battelle Auditorium
 
-Clancy Newman, Cello
+Clancy Newman, Cello <br>
+Natalie Zhu, piano
 
 [Clancy Newman website](http://www.clancynewman.com/)
 
@@ -18,10 +19,21 @@ Clancy Newman, Cello
 
 ### Program
 
-|                          |                                  |
-|--------------------------|---------------------------------:|
-| Coming soon!             |                              |
+**Beethoven:** Variations on a Theme from the Magic Flute, Wo O 46, "Bei Mannern,
+welche Liebe fuhlen" (1801)
 
+**Schumann:** Five Pieces in Folk Style, Op. 102 I: Mit Humor
+
+**Newman:** Pop-Unpopped: Inspired by the Billboard Charts <br>
+I: Meghan Trainor: *All About That Bass* <br>
+II: Fetty Wap: *Trap Queen* <br>
+III: Mark Ronson: *Uptown Funk*
+
+INTERMISSION
+
+**Prokoviev:** Sonata for Cello and Piano, Op. 119
+
+**Newman:** *From Method to Madness (2008)*
 
 ---
 

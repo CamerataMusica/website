@@ -39,7 +39,7 @@ Jonathan Oddie, harpsichord
 
 ---
 
-## [Clancy Newman]({filename}/2017-2018/ClancyNewman.md)
+## [Clancy Newman with Natalie Zhu]({filename}/2017-2018/ClancyNewman.md)
 
 [![ ]({filename}/images/2017-2018/clancy-newman-cello-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/ClancyNewman.md)
 #### January 27th, 2018 8:00 pm
@@ -50,8 +50,8 @@ Clancy Newman, Cello
 
 ## [Aeolus Quartet]({filename}/2017-2018/AeolusQuartet.md)
 
-[comment]: # (  [![ ]({filename}/images/2017-2018/clancy-newman-cello-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/AeolusQuartet.md)   )
-#### February 24th, 2018 8:00 pm
+[![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/AeolusQuartet.md)
+#### February 25th, 2018 8:00 pm
 
 Nicholas Tavani, Violin <br>
 Rachel Shapiro, Violin <br>
@@ -62,7 +62,8 @@ Alan Richardson, Cello
 
 ## [Rose City Trio]({filename}/2017-2018/RoseCityTrio.md)
 
-[comment]: # (   [![ ]({filename}/images/2017-2018/clancy-newman-cello-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/RoseCityTrio.md)  )
+[![ ]({filename}/images/2017-2018/rose-city-trio-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/RoseCityTrio.md)
+
 #### March 24th, 2018 8:00 pm
 
 Rose City Trio

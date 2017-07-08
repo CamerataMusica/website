@@ -16,10 +16,12 @@ Yael Weiss, Piano
 
 ### Program
 
-|                          |                                  |
-|--------------------------|---------------------------------:|
-| Coming soon!             |                              |
-
+Beethoven: Sonata no. 24 in F sharp major, Op. 78 <br>
+Schumann: Humoreske, Op. 20  <br>
+*Intermission*  <br>
+Chopin: Ballade in g minor, Op. 23 <br>
+Paul Chihara: Rag 109  <br>
+Beethoven: Sonata no. 30 in E major, Op. 109
 
 ---
 

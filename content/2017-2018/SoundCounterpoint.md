@@ -18,18 +18,26 @@ Jonathan Oddie, harpsichord
 
 ---
 
-### Program
+### Program: Sonate auf Concertenart
 
-|                          |                                  |
-|--------------------------|---------------------------------:|
-| Coming soon!             |                              |
-
+Johann Friedrich Fasch, Sonata in B-flat Major <br>
+Johann Sebastian Bach, Sonata for Violin and Harpsichord no. 6 in G Major <br>
+Antonio Vivaldi, Concerto in A minor <br>
+*Intermission* <br>
+Johann Sebastian Bach, Trio Sonata in G major <br>
+Georg Philipp Telemann, Concerto in A minor
 
 ---
 
 ### About the Musicians
 
-Established in 2014, **sound|counterpoint** is charming audiences throughout the Pacific Northwest and beyond with its performances of music of the late Renaissance, the Baroque, and 21st century on period instruments. Based in Seattle and Renton, this new ensemble has quickly gained a reputation for performances of expressive generosity, spontaneity, vivacity, and virtuosity. **sound|counterpoint’s** members – Miyo Aoki, recorder; Curtis Foster, oboe; Linda Melsted, violin; and Jonathan Oddie, harpsichord – regularly appear with many of North America’s top ensembles, including Seattle Baroque Orchestra, Portland Baroque Orchestra, American Bach Soloists, Pacific Music Works, and Pacific Baroque Orchestra.
+Established in 2014, **sound|counterpoint** is charming audiences throughout the Pacific
+Northwest and beyond with its performances of music from the late Renaissance,
+Baroque, and 21st century. Based in Seattle, this new ensemble has quickly gained a
+reputation for performances of expressive generosity, spontaneity, vivacity, and
+virtuosity. **sound|counterpoint’s** members play with many of North America’s top
+ensembles, including Seattle Baroque Orchestra, Portland Baroque Orchestra, American
+Bach Soloists, Pacific Music Works, and Pacific Baroque Orchestra.
 
 
 ---

@@ -14,15 +14,21 @@ Haim Avitsur, trombone
 
 [New York Brass Arts Trio website](http://www.dispeker.com/artist.php?id=nybrassarts)
 
-[Joe Burgstaller website](http://www.joeburgstaller.com/nybat.shtml)
-
 ---
 
 ### Program
 
 |                          |                                  |
 |--------------------------|---------------------------------:|
-| Coming soon!             |                              |
+| Johann Sebastian Bach (arr. Jolley) | Three Sinfonias |
+| Ludwig van Beethoven (arr. Avitsur) | Trio in C Major, Op. 87 |
+| Richard Strauss (arr. Jolley)       | *Till Eulenspiegel* |
+| *Intermission* |       |
+| Astor Piazzola (arr. Burgstaller)   | Adios Nonino |
+| Igor Stravinsky (arr. Jolley)       | Selection from Pulcinella Suite |
+| Bela Bartok                         | Romanian Folk Dances <br> *Stick Dance* <br> *Sash Dance* <br> *In One Spot* <br> *Dance from Bucsum* <br> *Romanian Polka* <br> *Fast Dance* |
+| Chick Corea (b.1941) (Arr. Burgstaller) | Three Children’s Songs |
+| Astor Piazzola (arr. Burgstaller)       | Libertango |
 
 
 ---

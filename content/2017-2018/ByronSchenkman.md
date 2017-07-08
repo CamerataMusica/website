@@ -1,5 +1,5 @@
 Title: Byron Schenkman & Friends
-Date: 2018-04-28
+Date: 2018-04-22
 Authors: Colin Brislawn
 Slug: byron-schenkman-2018
 Banner: ./images/2017-2018/byron-schenkman-2018-large.jpg
@@ -7,7 +7,7 @@ Banner: ./images/2017-2018/byron-schenkman-2018-large.jpg
 [comment]: # ( [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./ByronSchenkman.md) )
 
 
-#### April 28th, 2018 8:00 pm at Battelle Auditorium
+#### April 22nd, 2018 8:00 pm at Battelle Auditorium
 
 Joshua Romatowski, flute <br>
 Debra Nagy, oboe <br>
@@ -17,17 +17,24 @@ Nathan Whittaker, cello <br>
 Byron Schenkman, harpsichord
 
 
-[Byron Schenkman website](http://byronschenkman.com/)
+[Byron Schenkman website](http://byronschenkman.com/series/)
 
 
 ---
 
 ### Program
 
-|                          |                                  |
-|--------------------------|---------------------------------:|
-| Coming soon!             |                              |
-
+|                              |                                       |
+|------------------------------|--------------------------------------:|
+| Antonio Vivaldi              | Trio-sonata in D, RV 84               |
+| Antonio Vivaldi              | Oboe Sonata in G Minor, RV 28         |
+| Joseph Bodin de Boismortier  | Trio-sonata in G Major, op. 37, no. 1 |
+| Joseph Bodin de Boismortier  | Concerto in E Minor, op. 37, no. 6,   |
+| *Intermission*                 |                                       |
+| Anna Bon                     | Harpsichord Sonata in C, op. 2, no. 4 |
+| Giuseppe Brescianello        | Trio-sonata in C Minor                |
+| Johann Ernst Galiard         | Bassoon Sonata no. 2 in G             |
+| Antonio Vivaldi              | Concerto in D "Il Gardelino"          |
 
 ---
 
