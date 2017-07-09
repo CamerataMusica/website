@@ -1,5 +1,5 @@
 Title: Byron Schenkman & Friends
-Date: 2018-04-22
+Date: 2018-04-21
 Authors: Colin Brislawn
 Slug: byron-schenkman-2018
 Banner: ./images/2017-2018/byron-schenkman-2018-large.jpg
@@ -7,7 +7,7 @@ Banner: ./images/2017-2018/byron-schenkman-2018-large.jpg
 [comment]: # ( [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./ByronSchenkman.md) )
 
 
-#### April 22nd, 2018 8:00 pm at Battelle Auditorium
+#### April 21st, 2018 8:00 pm at Battelle Auditorium
 
 Joshua Romatowski, flute <br>
 Debra Nagy, oboe <br>

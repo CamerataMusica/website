@@ -1,5 +1,5 @@
 Title: Aeolus Quartet
-Date: 2018-02-25
+Date: 2018-02-24
 Authors: Colin Brislawn
 Banner: ./images/2017-2018/aeolus-quartet-large.jpg
 Bannerposition: center
@@ -7,7 +7,7 @@ Bannerposition: center
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
 
-#### February 25th, 2018 8:00 pm at Battelle Auditorium
+#### February 24th, 2018 8:00 pm at Battelle Auditorium
 
 Nicholas Tavani violin <br>
 Rachel Shapiro, violin <br>

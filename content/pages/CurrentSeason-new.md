@@ -51,7 +51,7 @@ Clancy Newman, Cello
 ## [Aeolus Quartet]({filename}/2017-2018/AeolusQuartet.md)
 
 [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/AeolusQuartet.md)
-#### February 25th, 2018 8:00 pm
+#### February 24th, 2018 8:00 pm
 
 Nicholas Tavani, Violin <br>
 Rachel Shapiro, Violin <br>
@@ -73,7 +73,7 @@ Rose City Trio
 ## [Byron Schenkman & Friends]({filename}/2017-2018/ByronSchenkman.md)
 
 [![ ]({filename}/images/2017-2018/byron-schenkman-2018-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/ByronSchenkman.md)
-#### April 28th, 2018 8:00 pm
+#### April 21st, 2018 8:00 pm
 
 Joshua Romatowski, flute <br>
 Debra Nagy, oboe <br>
