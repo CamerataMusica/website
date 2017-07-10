@@ -12,7 +12,7 @@ Status: hidden
 [![ ]({filename}/images/2017-2018/yael-weiss-piano-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/YaelWeiss.md)
 #### September 23rd, 2017 8:00 pm
 
-Yael Weiss, Piano
+Yael Weiss, piano
 
 ---
 
@@ -44,7 +44,8 @@ Jonathan Oddie, harpsichord
 [![ ]({filename}/images/2017-2018/clancy-newman-cello-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/ClancyNewman.md)
 #### January 27th, 2018 8:00 pm
 
-Clancy Newman, Cello
+Clancy Newman, cello
+Natalie Zhu, piano
 
 ---
 
@@ -53,10 +54,10 @@ Clancy Newman, Cello
 [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/AeolusQuartet.md)
 #### February 24th, 2018 8:00 pm
 
-Nicholas Tavani, Violin <br>
-Rachel Shapiro, Violin <br>
-Gregory Luce, Viola <br>
-Alan Richardson, Cello
+Nicholas Tavani, violin <br>
+Rachel Shapiro, violin <br>
+Gregory Luce, viola <br>
+Alan Richardson, cello
 
 ---
 
@@ -66,21 +67,24 @@ Alan Richardson, Cello
 
 #### March 24th, 2018 8:00 pm
 
-Rose City Trio
+Sarah Kwak, violin <br>
+Nancy Ives, cello <br>
+Susan Chan, piano
 
 ---
 
 ## [Byron Schenkman & Friends]({filename}/2017-2018/ByronSchenkman.md)
 
 [![ ]({filename}/images/2017-2018/byron-schenkman-2018-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/ByronSchenkman.md)
+
 #### April 21st, 2018 8:00 pm
 
-Joshua Romatowski, flute <br>
-Debra Nagy, oboe <br>
+Byron Schenkman, harpsichord <br>
 Anna Marsh, bassoon <br>
 Ingrid Matthews, violin <br>
-Nathan Whittaker, cello <br>
-Byron Schenkman, harpsichord
+Debra Nagy, oboe <br>
+Joshua Romatowski, flute <br>
+Nathan Whittaker, cello
 
 ---
 
@@ -88,7 +92,8 @@ Byron Schenkman, harpsichord
 ## [Young Artists of Distinction]({filename}/2017-2018/YoungArtists2018.md)
 
 [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/YoungArtists2018.md)
-#### Spring, 2018 2:00pm
+
+#### May 6th, 2018 2:00 pm
 
 Young Artists of Distinction
 

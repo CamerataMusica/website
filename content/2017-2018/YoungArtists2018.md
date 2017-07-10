@@ -1,12 +1,12 @@
 Title: Young Artists of Distinction
-Date: 2018-05-01
+Date: 2018-05-06
 Authors: Colin Brislawn
 Slug: young-artists-2018
 
 
 [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./YoungArtists2018.md)
 
-#### Spring, 2018 2:00pm
+#### May 6th, 2018 2:00 pm
 
 ---
 

@@ -40,7 +40,3 @@ Three world-class virtuoso soloists have come together to revolutionize the bras
 The members of the New York Brass Arts Trio bring some serious experience to the table. Burgstaller is a former featured trumpeter and arranger with the legendary Canadian Brass, has performed in front of more than 40 orchestras, and has recording credentials that include solo CDs, three Top-10 Billboard hits, and a Top-50 JazzRadio hit. Jolley is a pre-eminent horn soloist of his generation, performing as a soloist with major orchestras, collaborating with major string quartets (Guarnieri, Orion and American), and is a founding member of the Grammy-winning Orpheus Chamber Orchestra. Avitsur is the only trombonist named a 2005 and 2007 Emerging Artist by Symphony Magazine and has premiered over 80 compositions.
 
 In addition to their individual performance accomplishments, the members of the Trio all maintain teaching posts at major American musical institutions (Peabody Institute, Manhattan School, Mannes, North Carolina School for the Arts, Queens College and Westchester University).
-
----
-
-##### Photo Credit:

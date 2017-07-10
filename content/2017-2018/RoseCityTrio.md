@@ -37,7 +37,3 @@ Symphony, and Susan Chan serves as Associate Professor of Music and Piano Area
 Coordinator at Portland State University. The Trio has been performing in various
 venues in Portland, including Portland State University and on the Classical Up Close
 Series of the Oregon Symphony.
-
----
-
-##### Photo Credit:

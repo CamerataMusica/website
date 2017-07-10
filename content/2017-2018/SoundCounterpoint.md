@@ -38,8 +38,3 @@ reputation for performances of expressive generosity, spontaneity, vivacity, and
 virtuosity. **sound|counterpoint’s** members play with many of North America’s top
 ensembles, including Seattle Baroque Orchestra, Portland Baroque Orchestra, American
 Bach Soloists, Pacific Music Works, and Pacific Baroque Orchestra.
-
-
----
-
-##### Photo Credit:

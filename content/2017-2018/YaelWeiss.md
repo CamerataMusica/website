@@ -28,7 +28,3 @@ Beethoven: Sonata no. 30 in E major, Op. 109
 ### About the Musician
 
 Coming soon!
-
----
-
-##### Photo Credit:
