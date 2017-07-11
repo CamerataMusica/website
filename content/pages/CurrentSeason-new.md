@@ -44,7 +44,7 @@ Jonathan Oddie, harpsichord
 [![ ]({filename}/images/2017-2018/clancy-newman-cello-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/ClancyNewman.md)
 #### January 27th, 2018 8:00 pm
 
-Clancy Newman, cello
+Clancy Newman, cello <br>
 Natalie Zhu, piano
 
 ---
