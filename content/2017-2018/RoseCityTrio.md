@@ -1,8 +1,6 @@
 Title: Rose City Trio
 Date: 2018-03-24
 Authors: Colin Brislawn
-Banner: ./images/2017-2018/rose-city-trio-large.jpg
-Bannerposition: top
 
 [![ ]({filename}/images/2017-2018/rose-city-trio-400.jpg){:width="200px", .floatleft}]({filename}./RoseCityTrio.md)
 
