@@ -20,7 +20,7 @@ Susan Chan, piano
 | Piano Trio No. 39 in G Major, Hob. XV/25 "Gypsy" | Franz Joseph Haydn |
 | Piano Trio in G Minor, Op. 17 | Clara Schumann |
 | *Intermission* |   |
-| Trio No. 2 in C Major for Piano, Violin and Cello, Op. 87 <br> Allegro | Johannes Brahms |
+| Trio No. 2 in C Major for Piano, Violin and Cello, Op. 87 | Johannes Brahms |
 
 ---
 
