@@ -1,4 +1,4 @@
-Title: Supporting Camerata Musica 
+Title: Supporting Camerata Musica
 Date: 2016-06-06
 Authors: Colin Brislawn
 
@@ -6,7 +6,7 @@ Authors: Colin Brislawn
 
 Camerata Musica depends on the generosity of those attending concerts to support its activities. Most of our funding comes from individual patrons, with occasional additional funding from corporate sponsorship, local foundations, and grants from organizations like ArtsWa (the Washington State Arts Commission) and the National Endowment for the Arts.
 
-Donations to Camerata may be made at any concert or by sending a check to Camerata Musica, PO Box 615, Richland WA 99352. 
+Donations to Camerata may be made at any concert or by sending a check to Camerata Musica, PO Box 615, Richland WA 99352.
 
 **Download and print a contribution form**
 
@@ -18,6 +18,8 @@ Donations to Camerata may be made at any concert or by sending a check to Camera
 Donors who contribute a minimum of $100.00 each season to Camerata are designated “patrons” and their names appear as such on the program. In addition, patrons receive a reminder card prior to each concert. By presenting this card at the concert _before_ 7:45 p.m., they receive priority seating for themselves and their family (defined as two adults and accompanying children under 18). After 7:45, members of the public and patrons are admitted on a first-come, first-seated basis.
 
 Patrons making a donation of at least $300 per year will be able to bring an additional 2 guests with them when they present their reminder card _prior_ to 7:45.
+
+[Please note - these cards are not tickets; they do not guarantee a seat nor can they be transferred to others.]
 
 Individuals making a minimum donation of $500 will be acknowledged as concert co-sponsors and invited to join the Board at a reception for the artists.  
 
@@ -33,7 +35,7 @@ Camerata Musica is a 501(c)3 organization; donations are tax-deductible to the f
 
 [![ ]({filename}/images/AmazonSmile-logo.png){:width="300px", .floatleft .clear}](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland)
 
-Amazon shoppers can support Camerata by registering their preference at [smile.amazon.com](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland). After registering, start your Amazon shopping at Amazon Smile and every eligible purchase will result in a portion of the purchase price being donated to Camerata. 
+Amazon shoppers can support Camerata by registering their preference at [smile.amazon.com](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland). After registering, start your Amazon shopping at Amazon Smile and every eligible purchase will result in a portion of the purchase price being donated to Camerata.
 
 <br>
 

@@ -12,6 +12,8 @@ Status: hidden
 [![ ]({filename}/images/2017-2018/yael-weiss-piano-400.jpg){:width="200px", .floatleft}]({filename}/2017-2018/YaelWeiss.md)
 #### September 23rd, 2017 8:00 pm
 
+##### This concert will be held at Kennewick First United Methodist Church, 2 S. Dayton Street, Kennewick
+
 Yael Weiss, piano
 
 ---
