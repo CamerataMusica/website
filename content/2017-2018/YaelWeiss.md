@@ -20,7 +20,7 @@ Yael Weiss, Piano
 
 Beethoven: Sonata no. 24 in F sharp major, Op. 78 <br>
 Schumann: Humoreske, Op. 20  <br>
-*Intermission*  <br>
+*Intermission* <br>
 Chopin: Ballade in g minor, Op. 23 <br>
 Paul Chihara: Rag 109  <br>
 Beethoven: Sonata no. 30 in E major, Op. 109
@@ -29,4 +29,4 @@ Beethoven: Sonata no. 30 in E major, Op. 109
 
 ### About the Musician
 
-Coming soon!
+Acclaimed as a pianist of "consummate artistry" (*Washington Post*) **Yael Weiss** has performed across the United States, Europe, Japan, Korea and South America at such venues as the Kennedy Center, Carnegie Hall, Alice Tully Hall and London's Wigmore Hall. Her New York recital debut, presented by the Metropolitan Museum, was acclaimed by the *New York Times* as "remarkably powerful and intense... fine technique and musicianship in the service of an arresting array of music."
