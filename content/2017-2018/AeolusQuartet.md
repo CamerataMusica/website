@@ -32,4 +32,4 @@ Alan Richardson, cello
 
 ### About the Musicians
 
-Praised by the Baltimore Sun for combining “smoothly meshed technique with a sense of spontaneity and discovery,” the Aeolus Quartet is committed to presenting time-seasoned masterworks and new cutting-edge works to widely diverse audiences with equal freshness, dedication, and fervor.
+Praised by the *Baltimore Sun* for combining “smoothly meshed technique with a sense of spontaneity and discovery,” the **Aeolus Quartet** is committed to presenting time-seasoned masterworks and new cutting-edge works to widely diverse audiences with equal freshness, dedication, and fervor.
