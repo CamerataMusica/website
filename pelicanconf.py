@@ -22,6 +22,7 @@ CATEGORY_URL = 'seasons/{slug}.html'
 CATEGORY_SAVE_AS = 'seasons/{slug}.html'
 CATEGORIES_SAVE_AS = 'seasons/index.html'
 # We could also have this save over the archive, which could be quite elegant.
+# ^^ Nope; Overwriting an existing page throws an error. Maybe better to chage the theme
 
 MENUITEMS = (
     #('Current Season', 'https://colinbrislawn.github.io/CamerataMusica/seasons/current-season.html'),
