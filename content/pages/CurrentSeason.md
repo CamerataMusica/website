@@ -1,6 +1,5 @@
 Title: Current Season
 Date: 2017-08-03
-Status: hidden
 Authors: Colin Brislawn
 <!--
 Template: article_list
