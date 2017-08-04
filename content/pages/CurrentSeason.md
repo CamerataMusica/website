@@ -1,92 +1,115 @@
-Title: Current Season 
-Date: 2016-05-05
+Title: Current Season
+Date: 2017-08-03
+Status: hidden
 Authors: Colin Brislawn
 <!--
 Template: article_list
 Status: hidden
 -->
 
-## [The Baltimore Consort with Danielle Svonavec, soprano]({filename}/2016-2017/BaltimoreConsort.md)
+<style>
 
-[![ ]({filename}/images/2016-2017/BaltimoreConsort400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/BaltimoreConsort.md)
-#### September 24th, 2016 8:00 pm at Battelle Auditorium
-Mary Anne Ballard – treble and bass viols <br>
-Mark Cudek – cittern and bass viol <br>
-Larry Lipkis – bass viol, recorder, krummhorn, gemshorn <br>
-Ronn McFarlane – lute <br>
-Mindy Rosenfeld – flutes, fifes, bagpipes, krummhorn <br>
-Danielle Svonavec – soprano
+.entry-content a img {
+	width: 270px;
+	/* This is similar to the .floadleft class ****/
+	float: left;
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+}
 
----
+</style>
 
-## [Vienna Piano Trio]({filename}/2016-2017/ViennaPianoTrio.md)
+## [Yael Weiss]({filename}/2017-2018/YaelWeiss.md)
 
-[![ ]({filename}/images/2016-2017/the-vienna-piano-trio400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/ViennaPianoTrio.md)
-#### October 22nd, 2016 8:00 pm at Battelle Auditorium
-David McCarroll - violin <br>
-Matthias Gredler - cello <br>
-Stefan Mendl - piano
+[![ ]({filename}/images/2017-2018/yael-weiss-piano-400.jpg){}]({filename}/2017-2018/YaelWeiss.md)
+#### September 23rd, 2017 8:00 pm
 
----
+#### This concert will be held at: <br> Kennewick First United Methodist Church <br> 2 S. Dayton Street, Kennewick
 
-## [The Los Angeles Cello Quartet]({filename}/2016-2017/LosAngelesCelloQuartet.md)
-
-[![ ]({filename}/images/2016-2017/the-los-angeles-cello-quartet400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/LosAngelesCelloQuartet.md)
-#### November 19th, 2016 8:00 pm at Battelle Auditorium
-
-Ruslan Biryukov <br>
-Anne Suda <br>
-Efraín J. del Pilar <br>
-Paul Maxwell
+Yael Weiss, piano
 
 ---
 
-## [The Byrd Ensemble]({filename}/2016-2017/ByrdEnsemble.md)
+## [New York Brass Arts Trio]({filename}/2017-2018/NewYorkBrassArtsTrio.md)
 
-[![ ]({filename}/images/2016-2017/the-byrd-ensemble400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/ByrdEnsemble.md)
-#### January 28th, 2017 8:00 pm at Battelle Auditorium
-Markdavin Obenza, Artistic Director
+[![ ]({filename}/images/2017-2018/new-york-brass-arts-trio-400.jpg){}]({filename}/2017-2018/NewYorkBrassArtsTrio.md)
+#### October 28th, 2017 8:00 pm
 
----
-
-## [The Telegraph Quartet]({filename}/2016-2017/TelegraphQuartet.md)
-
-[![ ]({filename}/images/2016-2017/the-telegraph-quartet400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/TelegraphQuartet.md)
-#### February 18th, 2017 8:00 pm at Battelle Auditorium
-
-Eric Chin - Violin <br>
-Joseph Maile - Violin <br>
-Pei-Ling Lin - Viola <br>
-Jeremiah Shaw - Cello
-
+Joe Burgstaller, trumpet <br>
+David Jolley, french horn <br>
+Haim Avitsur, trombone  
 
 ---
 
-## [Adaskin String Trio with Tom Gallant]({filename}/2016-2017/AdaskinTrio.md)
+## [sound|counterpoint]({filename}/2017-2018/SoundCounterpoint.md)
 
-[![ ]({filename}/images/2016-2017/adaskin-trio-with-tom-gallant400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/AdaskinTrio.md)
-#### March 25th, 2017 8:00 pm at Battelle Auditorium
-Emlyn Ngai, violin <br>
-Steve Larson, viola <br>
-Mark Fraser, cello <br>
-Tom Gallant, oboe and English Horn
+[![ ]({filename}/images/2017-2018/soundcounterpoint-400.jpg){}]({filename}/2017-2018/SoundCounterpoint.md)
+#### November 18th, 2017 8:00 pm
 
-
----
-
-## [Cotik-Lin Duo]({filename}/2016-2017/Cotik-Lin.md)
-
-[![ ]({filename}/images/2016-2017/cotiklin-duo400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/Cotik-Lin.md)
-#### April 22nd, 2017 8:00 pm at Battelle Auditorium
-Tomas Cotik, Violin <br>
-Tao Lin, Piano
+Miyo Aoki, recorder <br>
+Linda Melsted, violin <br>
+Curtis Foster, oboe <br>
+Jonathan Oddie, harpsichord
 
 ---
 
-## [Young Artists of Distinction]({filename}/2016-2017/YoungArtists.md)
+## [Clancy Newman with Natalie Zhu]({filename}/2017-2018/ClancyNewman.md)
 
-[![ ]({filename}/images/2016-2017/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}/2016-2017/YoungArtists.md)
-#### May 7th, 2017 2:00 pm at Battelle Auditorium
+[![ ]({filename}/images/2017-2018/clancy-newman-cello-400.jpg){}]({filename}/2017-2018/ClancyNewman.md)
+#### January 27th, 2018 8:00 pm
+
+Clancy Newman, cello <br>
+Natalie Zhu, piano
+
+---
+
+## [Aeolus Quartet]({filename}/2017-2018/AeolusQuartet.md)
+
+[![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){}]({filename}/2017-2018/AeolusQuartet.md)
+#### February 24th, 2018 8:00 pm
+
+Nicholas Tavani, violin <br>
+Rachel Shapiro, violin <br>
+Gregory Luce, viola <br>
+Alan Richardson, cello
+
+---
+
+## [Rose City Trio]({filename}/2017-2018/RoseCityTrio.md)
+
+[![ ]({filename}/images/2017-2018/rose-city-trio-400.jpg){}]({filename}/2017-2018/RoseCityTrio.md)
+
+#### March 24th, 2018 8:00 pm
+
+Sarah Kwak, violin <br>
+Nancy Ives, cello <br>
+Susan Chan, piano
+
+---
+
+## [Byron Schenkman & Friends]({filename}/2017-2018/ByronSchenkman.md)
+
+[![ ]({filename}/images/2017-2018/byron-schenkman-2018-400.jpg){}]({filename}/2017-2018/ByronSchenkman.md)
+
+#### April 21st, 2018 8:00 pm
+
+Byron Schenkman, harpsichord <br>
+Anna Marsh, bassoon <br>
+Ingrid Matthews, violin <br>
+Debra Nagy, oboe <br>
+Joshua Romatowski, flute <br>
+Nathan Whittaker, cello
+
+---
+
+
+## [Young Artists of Distinction]({filename}/2017-2018/YoungArtists2018.md)
+
+[![ ]({filename}/images/2017-2018/YoungArtists400.jpg){}]({filename}/2017-2018/YoungArtists2018.md)
+
+#### May 6th, 2018 2:00 pm
+
 Young Artists of Distinction
 
 ---

@@ -1,35 +1,37 @@
-Title: Home 
-Date: 2015-07-18
+Title: Home
+Date: 2017-07-30
 Authors: Colin Brislawn
 URL:
-save_as: index.html 
+save_as: index.html
 Status: hidden
 
 <!-- # Chamber Music for the Tri-Cities -->
 
-#### Camerata Musica, the only organization in the Tri-Cities that regularly schedules chamber music concerts, announces its 2016-2017 season.
+#### Camerata Musica, the only organization in the Tri-Cities that regularly schedules chamber music concerts, announces its 2017-2018 season.
 
 ---
 
 <style>
-.entry-content a, .entry-content a:hover {
+
+.entry-content a,
+.entry-content a:hover {
     text-decoration: none;
     border-bottom: none;
 }
 
 .entry-content a img {
-	height: 200px;
-	margin-right: 10px;
+	width: 270px;
+	margin-right: 5px;
 	margin-bottom: 10px;
 }
 
 </style>
 
-[![ ]({filename}/images/2016-2017/BaltimoreConsort400.jpg){:.homepageimage}]({filename}/2016-2017/BaltimoreConsort.md)
-[![ ]({filename}/images/2016-2017/the-vienna-piano-trio400.jpg){}]({filename}/2016-2017/ViennaPianoTrio.md)
-[![ ]({filename}/images/2016-2017/the-los-angeles-cello-quartet400.jpg){}]({filename}/2016-2017/LosAngelesCelloQuartet.md)
-[![ ]({filename}/images/2016-2017/the-byrd-ensemble400.jpg){}]({filename}/2016-2017/ByrdEnsemble.md)
-[![ ]({filename}/images/2016-2017/the-telegraph-quartet400.jpg){}]({filename}/2016-2017/TelegraphQuartet.md)
-[![ ]({filename}/images/2016-2017/adaskin-trio-with-tom-gallant400.jpg){}]({filename}/2016-2017/AdaskinTrio.md)
-[![ ]({filename}/images/2016-2017/cotiklin-duo400.jpg){}]({filename}/2016-2017/Cotik-Lin.md)
-[![ ]({filename}/images/2016-2017/YoungArtists400.jpg){}]({filename}/2016-2017/YoungArtists.md)
+[![ ]({filename}/images/2017-2018/yael-weiss-piano-400.jpg){:.homepageimage}]({filename}/2017-2018/YaelWeiss.md)
+[![ ]({filename}/images/2017-2018/new-york-brass-arts-trio-400.jpg){}]({filename}/2017-2018/NewYorkBrassArtsTrio.md)
+[![ ]({filename}/images/2017-2018/soundcounterpoint-400.jpg){}]({filename}/2017-2018/SoundCounterpoint.md)
+[![ ]({filename}/images/2017-2018/clancy-newman-cello-400.jpg){}]({filename}/2017-2018/ClancyNewman.md)
+[![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){}]({filename}/2017-2018/AeolusQuartet.md)
+[![ ]({filename}/images/2017-2018/rose-city-trio-400.jpg){}]({filename}/2017-2018/RoseCityTrio.md)
+[![ ]({filename}/images/2017-2018/byron-schenkman-2018-400.jpg){}]({filename}/2017-2018/ByronSchenkman.md)
+[![ ]({filename}/images/2017-2018/YoungArtists400.jpg){}]({filename}/2017-2018/YoungArtists2018.md)
