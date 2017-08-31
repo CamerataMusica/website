@@ -33,6 +33,8 @@ Camerata Musica is a 501(c)3 organization; donations are tax-deductible to the f
 
 <br>
 
+<a name="shop"></a>
+
 [![ ]({filename}/images/AmazonSmile-logo.png){:width="300px", .floatleft .clear}](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland)
 
 Amazon shoppers can support Camerata by registering their preference at [smile.amazon.com](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland). After registering, start your Amazon shopping at Amazon Smile and every eligible purchase will result in a portion of the purchase price being donated to Camerata.
