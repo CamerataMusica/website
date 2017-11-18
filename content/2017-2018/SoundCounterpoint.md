@@ -24,7 +24,7 @@ Johann Friedrich Fasch, Sonata in B-flat Major <br>
 Johann Sebastian Bach, Sonata for Violin and Harpsichord no. 6 in G Major <br>
 Antonio Vivaldi, Concerto in A minor <br>
 *Intermission* <br>
-Johann Sebastian Bach, Trio Sonata in G major <br>
+Johann Sebastian Bach, Trio Sonata BWV 1039 in B-flat major <br>
 Georg Philipp Telemann, Concerto in A minor
 
 ---
