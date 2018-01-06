@@ -2,7 +2,7 @@ Title: Aeolus Quartet
 Date: 2018-02-24
 Authors: Colin Brislawn
 Banner: ./images/2017-2018/aeolus-quartet-large.jpg
-Bannerposition: center
+Bannerposition: top
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
