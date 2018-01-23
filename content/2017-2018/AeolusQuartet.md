@@ -22,27 +22,11 @@ Alan Richardson, cello
 
 ### Program
 
-**F. Joseph Haydn (1732-1809):** String Quartet in F, Op. 74 no. 2 <br>
-Allegro spirituoso  <br>
-Andante grazioso  <br>
-Menuetto: Allegro  <br>
-Finale: Presto
+**F. Joseph Haydn (1732-1809):** String Quartet in F, Op. 74 no. 2
 
-**F. Mendelssohn (1809-1847):** String Quartet No. 2 in A minor, Op. 13	 <br>
-Adagio – Allegro vivace <br>
-Adagio non lento <br>
-Intermezzo: Allegretto con moto – Allegro di molto <br>
-Presto – Adagio non lento
+**F. Mendelssohn (1809-1847):** String Quartet No. 2 in A minor, Op. 13
 
-**L.V. Beethoven (1770-1827):** String Quartet in C# minor, Op. 131 <br>
-Adagio ma non troppo e molto espressivo <br>
-Allegro molto vivace <br>
-Allegro moderato – Adagio <br>
-Andante ma non troppo e molto cantabile Presto <br>
-Adagio quasi un poco andante <br>
-Allegro 
-
-
+**L.V. Beethoven (1770-1827):** String Quartet in C# minor, Op. 131
 
 ---
 
