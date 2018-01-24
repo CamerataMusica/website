@@ -6,7 +6,8 @@ Slug: young-artists-2018
 
 [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./YoungArtists2018.md)
 
-#### May 6th, 2018 2:00 pm at The Gallery at the Richland Public Library
+#### May 6th, 2018 2:00 pm at <br>
+The Gallery at the Richland Public Library
 
 ---
 
