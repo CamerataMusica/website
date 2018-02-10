@@ -41,6 +41,6 @@ Amazon shoppers can support Camerata by registering their preference at [smile.a
 
 <br>
 
-[![ ]({filename}/images/FMCommunity-logo.png){:width="300px", .floatleft .clear}](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland)
+[![ ]({filename}/images/FMCommunity-logo.png){:width="300px", .floatleft .clear}](https://www.fredmeyer.com/topic/community-rewards-4)
 
 Fred Meyer shoppers can link their Fred Meyer cards to Camerata Musica at [www.fredmeyer.com/topic/community-rewards-4](https://www.fredmeyer.com/topic/community-rewards-4) using our identifier (**#87769**). A portion of the profits from each purchase will be donated to Camerata. Registering to support Camerata does not affect the value of the Fred Meyer rewards you receive.
