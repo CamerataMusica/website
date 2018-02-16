@@ -1,6 +1,6 @@
 The Camerata Musica website!
 
-http://cameratamusica.com/
+https://cameratamusica.com/
 
 (Also http://colinbrislawn.github.io/CamerataMusica/)
 
