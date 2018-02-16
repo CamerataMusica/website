@@ -6,19 +6,6 @@ Template: article_list
 Status: hidden
 -->
 
-<style>
-
-.entry-content a img {
-	width: 270px;
-	/* This is similar to the .floadleft class ****/
-	float: left;
-	padding-top: 5px;
-	padding-right: 15px;
-	padding-bottom: 15px;
-}
-
-</style>
-
 ## [Yael Weiss]({filename}/2017-2018/YaelWeiss.md)
 
 [![ ]({filename}/images/2017-2018/yael-weiss-piano-400.jpg){}]({filename}/2017-2018/YaelWeiss.md)
@@ -112,3 +99,17 @@ Nathan Whittaker, cello
 Young Artists of Distinction
 
 ---
+
+
+<style>
+
+.entry-content a img {
+	width: 270px;
+	/* This is similar to the .floadleft class ****/
+	float: left;
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+}
+
+</style>
