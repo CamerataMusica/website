@@ -1,6 +1,8 @@
 language: python
 branches:
   only: master
+git:
+  depth: 1
 install:
   - pip install pelican ghp-import markdown
 script:
