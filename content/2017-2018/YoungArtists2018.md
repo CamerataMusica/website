@@ -16,3 +16,8 @@ Every year, Camerata celebrates the end of the season with a tribute to local mu
 Music teachers can submit an application form on behalf of a student.
 
 If you have questions about this event, please send an email to [youngartists@cameratamusica.com](mailto:youngartists@cameratamusica.com).
+
+**Submit an application**
+
+Applications are due by April 13th, 2018 and can be submitted online. You can complete [the Word document]({filename}/images/YoungArtists2018-Application.docx) and email it to [youngartists@cameratamusica.com](mailto:youngartists@cameratamusica.com), or [submit an application online](https://docs.google.com/forms/d/e/1FAIpQLSe8Bl139fU91Afa3KjJgaNMUqrWUhdkKHZm1_cbUe7CGexUrQ/viewform?usp=sf_link). Please [send us an email](mailto:youngartists@cameratamusica.com) if you have any questions.
+
