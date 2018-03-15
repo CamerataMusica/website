@@ -85,9 +85,9 @@ European music was becoming increasingly international in flavor and his
 C Minor trio sonata incorporates French dotted rhythms in the first
 movement, Italian virtuosity in the second, and German *empfindsamkeit* (a
 kind of expressive sensitivity) in the third. Meanwhile Johann Ernst Galliard
-
 was a German musician who settled in England where he became the
 principal oboist in George Friderick Handel’s opera orchestra.
+
 
 ---
 
