@@ -5,6 +5,8 @@ git:
   depth: 1
 install:
   - pip install pelican ghp-import markdown
+cache:
+  - pip
 script:
   - make publish github
 env:
