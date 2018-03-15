@@ -6,8 +6,8 @@ git:
 install:
   - pip install pelican ghp-import markdown
 cache:
-  - pip
   directories:
+    - /home/travis/.cache/pip
     - /home/travis/build/colinbrislawn/CamerataMusica/cache
 script:
   - make publish github
