@@ -55,7 +55,12 @@ DEFAULT_PAGINATION = 10
 #ARTICLE_ORDER_BY = 'reversed-date'
 
 PAGE_ORDER_BY = 'reversed-date'
-#LOAD_CONTENT_CACHE = False
+
+# caching options 
+CACHE_CONTENT = True
+CHECK_MODIFIED_METHOD = 'mtime'
+LOAD_CONTENT_CACHE = True
+GZIP_CACHE = False
 
 
 STATIC_PATHS = ['images', 'pages', 'favicon.png', 'CamerataMusica/images', 'extra/CNAME']
