@@ -21,17 +21,8 @@ put this back into styles to fix images on homepage
 
 -->
 
-<style>
 
-.entry-content a img {
-	width: 270px;
-	margin-right: 5px;
-	margin-bottom: 10px;
-}
-
-</style>
-
-### Camerata Update
+### Camerata Update:
 
 Next season’s concerts are scheduled for two different locations.  Some will take place in the [Performance Theatre at Columbia Basin College in Pasco](https://www.google.com/maps/place/CBC+Arts+Center,+Pasco,+WA+99301/@46.2508062,-119.1227316,19z/), while others will be held at [First Presbyterian Church in Kennewick](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church/@46.2086615,-119.1480316,17z/).  We are very grateful to both institutions for welcoming us so warmly to their facilities.
 
@@ -54,3 +45,13 @@ Next season’s concerts are scheduled for two different locations.  Some will t
 [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){}]({filename}/2017-2018/YoungArtists2018.md)
 
 -->
+
+<style>
+
+.entry-content a img {
+	width: 270px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+
+</style>
