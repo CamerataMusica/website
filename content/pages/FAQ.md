@@ -6,22 +6,29 @@ Authors: Colin Brislawn
 
 ### Where can I buy tickets to Camerata concerts?
 
-Camerata doesn’t sell tickets to its concerts but is instead supported primarily by individual donors known as “patrons.” In addition to being acknowledged on the program, patrons receive a reminder card prior to each concert. By presenting this card at the concert before 7:45 p.m., they and their families (two adults and accompanying children under 18) receive priority seating. At that time members of the public-at-large who have been waiting in line are admitted on a first-come, first-seated basis.
+Camerata doesn’t sell tickets to its concerts but is instead supported
+primarily by individual donors known as “patrons.” In addition to being
+acknowledged on the program, patrons receive a reminder card prior
+to each concert. By presenting this card at the concert before 7:15
+p.m., they and their families (two adults and accompanying children
+under 18) receive priority seating. At that time members of the public-
+at-large who have been waiting in line are admitted on a first-come,
+first-seated basis.
 
-
-
-The Battelle auditorium, where most concerts are held, seats about 300. For some programs, there is no problem seating everyone who comes to hear the concert. Occasionally, however, seats do fill up, and limited standing room is available. To avoid disappointment, we recommend that non-patrons arrive at the auditorium between 7:30-7:45 to have a better chance of being seated.
-
+For some programs, there is no problem seating everyone who
+comes to hear the concert. Occasionally, however, seats do fill up.
+To avoid disappointment, we recommend that non-patrons arrive at
+the auditorium between 6:45-7:15 to have a better chance of being
+seated.
 
 
 ### Where are the concerts held?
 
-Most Camerata concerts are held at Battelle Auditorium on the Pacific Northwest National Laboratory Campus, Battelle Blvd, Richland. You can learn more about [visiting PNNL](http://www.pnnl.gov/contacts/visitors.asp) or view a map on our [FAQ page]({filename}/pages/FAQ.md).
-
-The auditorium is located behind the main buildings near the cooling ponds.
-
-Occasionally concerts are held at other locations. We suggest that you always check our website for any last minute information, and sign up for our mailing list (see below).
-
+Beginning with the 2018-19 season, Camerata concerts will be held
+either at the [Columbia Basin College (CBC) Performance Theatre](https://goo.gl/maps/BZDawJuNMRM2) on
+the Pasco campus  (2600 N 20th Ave, Pasco, WA 99301) or at
+[Kennewick First Presbyterian Church]((https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)) in Kennewick (2001 W
+Kennewick Ave, Kennewick, WA 99336.)
 
 
 ### Can I bring my children to the concert?
@@ -35,19 +42,27 @@ Camerata’s Board believes that there is no better way to introduce children to
 Unfortunately not. The cards sent to patrons each month are reminders about the upcoming performance that we send for their convenience. They are not transferable tickets.
 
 
-
 ### I’m a Camerata Patron. Can I bring my neighbors/friends as guests to the concerts?
 
+Camerata’s policy is that patrons – those contributing at least $100 per
+season, and their immediate families - receive priority seating. The Board has
+clarified that this means a maximum of two adults and their accompanying
+children under 18. Single patrons may bring a companion with them to
+concerts.
 
+Patrons contributing $300 or more may bring an additional two guests with
+them to the concert. The address label on the reminder cards will indicate if
+patrons are eligible for this bonus.
 
-Camerata’s policy is that patrons contributing less than $300 per season, and their immediate families, receive priority seating. The Board has clarified that this means a maximum of two adults and their accompanying children under 18. Single patrons may bring a companion with them to concerts.  However, patrons contributing $300 or more may bring an additional two guests with them to the concert.
+If you invite other people to join you at the concert, please explain to them
+that they will have to stand on line with other non-patrons until 7:15. They can
+of course, join Camerata prior to the concert by making a donation of $100.00
+or more – about the same amount it would cost if they had to buy tickets to
+performances presented by other groups.
 
-
-
-If you also invite other people to join you at the concert, please explain to them that they will have to stand on line with other non-patrons until 7:45. They can of course, join Camerata prior to the concert by making a donation of $100.00 or more – about the same amount it would cost if they had to buy tickets to performances presented by other groups.
-
-
-
+Because our goal is to extend the courtesy of priority seating to those who
+provide our support, we ask that patrons not try to save seats for guests who
+have to stand on line.
 
 
 ### What do you mean by “chamber music?”
@@ -68,7 +83,7 @@ Clapping is a way of expressing our appreciation for the performance we just hea
 
 ### Do you have a mailing list?
 
-Camerata sends a letter each fall announcing the upcoming season’s concerts. During the year, reminder cards are sent to patrons but an email distribution list is maintained to inform interested persons of upcoming events. You can sign up for our mailing list at http://www.CamerataMusica.com/ContactUs.html. Although we do not share your email address with other groups, we may occasionally send information about non-CM programs.
+Camerata sends a letter each fall announcing the upcoming season’s concerts. During the year, reminder cards are sent to patrons but an [email distribution list](http://eepurl.com/cD1Zvv) is maintained to inform interested persons of upcoming events. You can [sign up for our mailing list](http://eepurl.com/cD1Zvv) even if you are not a patron. Although we do not share your email address with other groups, we may occasionally send information about non-CM programs.
 
 
 

@@ -7,7 +7,7 @@ Bannerposition: top
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
 
-#### March 23, 2019 7:30 pm at [CBC](https://www.google.com/maps/place/CBC+Arts+Center,+Pasco,+WA+99301)
+#### March 23, 2019 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 Annie Jacobs-Perkins, cello <br>
 Vijay Venkatesh, piano  <br>
@@ -50,7 +50,7 @@ Micah Wright, clarinet
 
 ---
 
-### About the Musician
+### About the Musicians
 
 **Aristeia Trio** is a newly-formed trio based in Los Angeles. Annie Jacobs-Perkins (cello), Vijay Venkatesh (piano), and Micah Wright (clarinet) met as students at the USC Thornton School of Music. While Aristeia Trio has only existed since 2016, the trio has already given dozens of performances in Los Angeles, Seattle, and Washington state. As winners of the 2016 Frances Walton Competition, the trio performed a live, nationally-broadcast concert on KING FM 98.1.
 

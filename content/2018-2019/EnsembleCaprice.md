@@ -7,7 +7,7 @@ Bannerposition: top
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
 
-#### February 23, 2019 7:30 pm at [CBC](https://www.google.com/maps/place/CBC+Arts+Center,+Pasco,+WA+99301)
+#### February 23, 2019 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 #### There is an additional performance at 4:00 pm in the afternoon
 
@@ -22,7 +22,7 @@ Ziya Tabassian, percussion
 
 ---
 
-### Program
+### Main Program
 
 |                                             |                                                                 |
 |---------------------------------------------|-----------------------------------------------------------------|
@@ -39,7 +39,9 @@ Ziya Tabassian, percussion
 | Andrea and his wife                         |                                                                 |
 | Johann Heinrich Schmelzer                   | Sonata seconda op.III,3 (1660)                                  |
 | Andrea Falconieri                           | Battalla de Barabaso yerno de Satanas (1650)                    |
-| (entracte)                                  |                                                                 |
+|                                             |                                                                 |
+| (Intermission)                              |                                                                 |
+|                                             |                                                                 |
 | Johann Sebastian and Maria Barbara          |                                                                 |
 | J.S.Bach (1685-1750)                        | Chaconne BWV 1004 (arr.M.Maute)                                 |
 | Henry and Frances                           |                                                                 |
@@ -53,9 +55,14 @@ Ziya Tabassian, percussion
 | Antonio, Paula and Ana                      |                                                                 |
 | Antonio Vivaldi (1681-1741)                 | Sonate op.I,12 La Follia                                        |
 
+
+### 4:00 pm Program
+
+To be announced!
+
 ---
 
-### About the Musician
+### About the Musicians
 
 
 Ensemble Caprice has been hailed by the New York Times as “an ensemble, that encourages the listener to rehear the world”.

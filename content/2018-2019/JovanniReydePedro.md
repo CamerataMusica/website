@@ -1,4 +1,4 @@
-Title: Jovanni-Rey dePedro
+Title: Jovanni-Rey de Pedro
 Date: 2018-09-22
 Authors: Colin Brislawn
 Banner: ./images/2018-2019/Jovanni-Rey-dePedro-large.jpg
@@ -7,16 +7,16 @@ Bannerposition: top
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
 
-#### September 22, 2018 7:30 pm at [CBC](https://www.google.com/maps/place/CBC+Arts+Center,+Pasco,+WA+99301)
+#### September 22, 2018 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
-[Jovanni-Rey dePedro website](http://www.jdepedro.com/)
+[Jovanni-Rey de Pedro website](http://www.jdepedro.com/)
 
 ---
 
 ### Program
 
 STRAUSS II/DOHNANYI
-Schatzwalzer from Der Zigeunerbaron
+_Schatzwalzer_ from "Der Zigeunerbaron"
 
 F. HAYDN
 Sonata in E-flat, Hob. 52

@@ -1,5 +1,5 @@
 Title: Maxwell Quartet
-Date: 2019-01-23
+Date: 2019-01-26
 Authors: Colin Brislawn
 Banner: ./images/2018-2019/Maxwell-Quartet-large.jpg
 Bannerposition: top
@@ -7,14 +7,14 @@ Bannerposition: top
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
 
-#### January 23, 2019 7:30 pm at [CBC](https://www.google.com/maps/place/CBC+Arts+Center,+Pasco,+WA+99301)
+#### January 26, 2019 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 Colin Scobie, 1st violin <br>
 George Smith, 2nd violin <br>
 Elliot Perks, viola <br>
 Duncan Strachan, cello
 
-[Jovanni-Rey dePedro website](http://www.jdepedro.com/)
+[Maxwell Quartet website](http://www.maxwellstringquartet.com/)
 
 ---
 
@@ -39,9 +39,7 @@ The Maxwell Quartet appears by arrangement with Lisa Sapinkopf Artists, [www.cha
 
 ---
 
-### About the Musician
-
-# Long version:
+### About the Musicians
 
 1st Prize winner and Audience Prize winner at the Trondheim (Norway) International Chamber Music Competition in 2017, the Maxwell Quartet has been hailed for "great communication" by The Strad Magazine and as “brilliantly fresh, unexpected and exhilarating” by The Scottish Herald. The Glasgow-based Maxwell Quartet is now firmly regarded as one of Britain's finest string quartets, with a strong connection to their folk music heritage and a commitment to bringing together wide-ranging projects and programmes to expand the string quartet repertoire.
 
@@ -54,19 +52,6 @@ Performing widely across Scotland, the quartet has established a reputation for 
 Passionate about collaborating with other musicians and art forms, the quartet has worked with world-renowned pianists Benjamin Grosvenor and Jeremy Menuhin as well as a global roster of artists and institutions including Cryptic Theatre, the experimental performance space Wintour’s Leap, the Royal Ballet School, the Scottish-German soul duo Lunir, cinematographer Herman Kolgen, and many more. They have also commissioned works by some of the UK's most dynamic composers including Anna Meredith, Tom Harrold, Mark Simpson and Colin Broom. The quartet regularly broadcasts on BBC Radio Scotland, as well as giving school workshops and children's concerts.
 
 The Maxwell Quartet was mentored by the Endellion Quartet at King's Place, London, and studied privately with Hatto Beyerle, founding member of the Alban Berg Quartet, in Germany.
-
-
-
-# Short version:
-
-Winner of both the First Prize and Audience Prize at the 2017 Trondheim (Norway) International Chamber Music Competition, the Glasgow-based Maxwell Quartet is now firmly regarded as one of Britain's finest string quartets.
-
-The Quartet consists of four great friends who grew up playing classical and folk music together across Scotland. They have performed at London’s Wigmore Hall, Purcell Room, St Martin-in-the-Fields, and the BBC Chamber Music Proms, and at many chamber music festivals across the UK, including their own Loch Shiel Festival in the Scottish highlands. Their current season takes them to Denmark, Norway, Germany, the Netherlands, France and China. Their first North American tour, in January 2019, will coincide with the release of their début CD, featuring works by Haydn and traditional Scottish folk music.
-
-Passionate about collaborating with other musicians and art forms, the quartet has performed with world-renowned pianists Benjamin Grosvenor and Jeremy Menuhin as well as a global roster of artists and institutions, from the Scottish-German soul duo Lunir to theatre groups, ballet dancers and cinematographers.
-
-The Maxwell Quartet has held residencies at Oxford University as well as giving many school workshops and children's concerts. The Quartet has been mentored by the Endellion Quartet and Hatto Beyerle, founding member of the Alban Berg Quartet.
-
 
 
 ---

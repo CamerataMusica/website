@@ -8,7 +8,7 @@ Bannerposition: top
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
 
-#### October 27, 2018 7:30 pm at [CBC](https://www.google.com/maps/place/CBC+Arts+Center,+Pasco,+WA+99301)
+#### October 27, 2018 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 The Byrd Ensemble
 
@@ -34,7 +34,7 @@ MUSICAL POLITICS: Motets of Influence
 
 ---
 
-### About the Musician
+### About the Musicians
 
 Sacred music generally served a liturgical purpose, and often also a _political_ one. Whether it was Tallis and Byrd dedicating large collections of motets to the Queen in return for a monopoly on music printing rights, or the music from Tallis’s _Gaude gloriosa_ used as a battle rallying cry when the King was at war with France, each piece on the program comes with an interesting story and gives us a peek into the composers’ allegiances and a sense of the intertwined religious and political turbulence of the time.
 
@@ -46,13 +46,11 @@ The Byrd Ensemble became part of the Scribe Records label in 2011 and has since 
 
 ARTISTIC DIRECTOR MARKDAVIN OBENZA has dedicated his career to music. In addition to the Byrd Ensemble, Markdavin is also Director and founder of Seattle-based chamber choir Vox16 and Producer for Scribe Records, an independent record label. He is an active freelance singer who performs with the Byrd Ensemble and has performed with the Tudor Choir, Early Music Vancouver, and members of the Tallis Scholars. He is the Director of Choral Music at Trinity Parish Church in Seattle, WA.
 
-ARTISTIC DIRECTOR MARKDAVIN OBENZA has dedicated his career to music. In addition to the Byrd Ensemble, Markdavin is also Director and founder of Seattle-based chamber choir Vox16 and Producer for Scribe Records, an independent record label. He is an active freelance singer who performs with the Byrd Ensemble and has performed with the Tudor Choir, Early Music Vancouver, and members of the Tallis Scholars. He is the Director of Choral Music at Trinity Parish Church in Seattle, WA.
-
 
 SOPRANO <br>
 Ruth Schauble <br>
 Margaret Obenza <br>
-tba
+Christina Siemens
 
 ALTO <br>
 Sarra Sharif <br>
