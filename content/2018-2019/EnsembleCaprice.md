@@ -1,5 +1,5 @@
 Title: Ensemble Caprice
-Date: 2019-02-23
+Date: 2019-02-23T19:30
 Authors: Colin Brislawn
 Banner: ./images/2018-2019/Ensemble-Caprice-large.jpg
 Bannerposition: top
@@ -9,7 +9,7 @@ Bannerposition: top
 
 #### February 23, 2019 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
-#### There is an additional performance at 4:00 pm in the afternoon
+#### There is an additional [family performance in the afternoon]({filename}/2018-2019/EnsembleCapriceFamily.md)
 
 Matthias Maute et Sophie Larivière, recorder <br>
 Susie Napper, violoncello <br>

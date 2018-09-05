@@ -22,7 +22,22 @@ Ronn McFarlane
 
 For Two Lutes: Virtuoso Duets from Italy and England
 
-Complete program coming soon.
+Saltarello &amp; Piva                          Joanambrosio Dalza (pub. 1508) <br>
+Contrapunto Primo                     Vincenzo Galilei (c. 1520-1591) <br>
+Canzona Prima à doi liutti unisoni          Claudio Merulo/ arr. Giovanni Antonio Terzi (pub. 1593) <br>
+Passacaglia                                    Alessandro Piccinini   (1566-1638) <br>
+Toccata à dui Liuti                        Alessandro Piccinini
+
+Intermission
+
+ 
+Dreweries accordes        Anonymous (c.1600)   <br>
+Galliard after Laveche                    Anonymous <br>
+De la Tromba Pavin                         Anonymous <br>
+The Earl of Essex Galliard            John Dowland  (1563-1626) <br>
+A Fancy                                            John Danyel (1564-after 1625) <br>
+Fantasie #7                                       John Dowland  <br>
+Chi Passa                                          John Johnson (? - 1594) <br>
 
 ---
 

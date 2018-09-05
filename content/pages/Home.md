@@ -5,21 +5,21 @@ URL:
 save_as: index.html
 Status: hidden
 
-<!-- # Chamber Music for the Tri-Cities -->
+Chamber Music for the Tri-Cities
 
-<!--
 #### Camerata Musica, the only organization in the Tri-Cities that regularly schedules chamber music concerts, announces its 2017-2018 season.
 
 ---
 
-put this back into styles to fix images on homepage
-.entry-content a,
-.entry-content a:hover {
-    text-decoration: none;
-    border-bottom: none;
-}
+[![ ]({filename}/images/2018-2019/Jovanni-Rey-dePedro-400.jpg){:.homepageimage}]({filename}/2018-2019/JovanniReydePedro.md)
+[![ ]({filename}/images/2018-2019/The-Byrd-Ensemble-400.jpg){}]({filename}/2018-2019/ByrdEnsemble2018.md)
+[![ ]({filename}/images/2018-2019/Frisson-400.jpg){}]({filename}/2018-2019/Frisson.md)
+[![ ]({filename}/images/2018-2019/Maxwell-Quartet-400.jpg){}]({filename}/2018-2019/MaxwellQuartet.md)
+[![ ]({filename}/images/2018-2019/Ensemble-Caprice-400.jpg){}]({filename}/2018-2019/EnsembleCaprice.md)
+[![ ]({filename}/images/2018-2019/Aristeia-Trio-400.jpg){}]({filename}/2018-2019/AristeiaTrio.md)
+[![ ]({filename}/images/2018-2019/PaulandRon-400.jpg){}]({filename}/2018-2019/PaulandRon.md)
+[![ ]({filename}/images/2018-2019/YoungArtists400.jpg){}]({filename}/2018-2019/YoungArtists2019.md)
 
--->
 
 
 ### Camerata Update:
@@ -33,25 +33,16 @@ Next season’s concerts are scheduled for two different locations.  Some will t
  We look forward to having you join us for another season of chamber music.
 
 
-<!--
-
-[![ ]({filename}/images/2017-2018/yael-weiss-piano-400.jpg){:.homepageimage}]({filename}/2017-2018/YaelWeiss.md)
-[![ ]({filename}/images/2017-2018/new-york-brass-arts-trio-400.jpg){}]({filename}/2017-2018/NewYorkBrassArtsTrio.md)
-[![ ]({filename}/images/2017-2018/soundcounterpoint-400.jpg){}]({filename}/2017-2018/SoundCounterpoint.md)
-[![ ]({filename}/images/2017-2018/clancy-newman-cello-400.jpg){}]({filename}/2017-2018/ClancyNewman.md)
-[![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){}]({filename}/2017-2018/AeolusQuartet.md)
-[![ ]({filename}/images/2017-2018/rose-city-trio-400.jpg){}]({filename}/2017-2018/RoseCityTrio.md)
-[![ ]({filename}/images/2017-2018/byron-schenkman-2018-400.jpg){}]({filename}/2017-2018/ByronSchenkman.md)
-[![ ]({filename}/images/2017-2018/YoungArtists400.jpg){}]({filename}/2017-2018/YoungArtists2018.md)
-
--->
 
 <style>
 
-.entry-content a img {
+.entry-content a img,
+.entry-content a img:hover {
 	width: 270px;
 	margin-right: 5px;
 	margin-bottom: 10px;
+    text-decoration: none;
+    border-bottom: none;
 }
 
 </style>
