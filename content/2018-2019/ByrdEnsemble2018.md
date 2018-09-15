@@ -28,6 +28,9 @@ Willimark Obenza <br>
 Kevin Wyatt <br>
 Clayton Moser
 
+DIRECTOR <br>
+Markdavin Obenza
+ 
 [The Byrd Ensemble Web Site](http://www.byrdensemble.com/)
 
 ---
