@@ -5,9 +5,10 @@ URL:
 save_as: index.html
 Status: hidden
 
+
 Chamber Music for the Tri-Cities
 
-#### Camerata Musica, the only organization in the Tri-Cities that regularly schedules chamber music concerts, announces its 2017-2018 season.
+#### Camerata Musica, the only organization in the Tri-Cities that regularly schedules chamber music concerts, announces its 2018-2019 season.
 
 ---
 

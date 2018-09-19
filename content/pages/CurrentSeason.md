@@ -6,97 +6,54 @@ Template: article_list
 Status: hidden
 -->
 
-## [Yael Weiss]({filename}/2017-2018/YaelWeiss.md)
 
-[![ ]({filename}/images/2017-2018/yael-weiss-piano-400.jpg){}]({filename}/2017-2018/YaelWeiss.md)
-#### September 23rd, 2017 8:00 pm
+## [Jovanni-Rey de Pedro]({filename}/2018-2019/JovanniReydePedro.md)
 
-#### This concert will be held at: <br> Kennewick First United Methodist Church <br> 2 S. Dayton Street, Kennewick
-
-Yael Weiss, piano
+[![ ]({filename}/images/2018-2019/Jovanni-Rey-dePedro-400.jpg){:.homepageimage}]({filename}/2018-2019/JovanniReydePedro.md)
+#### September 22, 2018 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 ---
 
-## [New York Brass Arts Trio]({filename}/2017-2018/NewYorkBrassArtsTrio.md)
-
-[![ ]({filename}/images/2017-2018/new-york-brass-arts-trio-400.jpg){}]({filename}/2017-2018/NewYorkBrassArtsTrio.md)
-#### October 28th, 2017 8:00 pm
-
-Joe Burgstaller, trumpet <br>
-David Jolley, french horn <br>
-Haim Avitsur, trombone  
+## [The Byrd Ensemble]({filename}/2018-2019/ByrdEnsemble2018.md)
+[![ ]({filename}/images/2018-2019/The-Byrd-Ensemble-400.jpg){}]({filename}/2018-2019/ByrdEnsemble2018.md)
+#### October 27, 2018 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 ---
 
-## [sound|counterpoint]({filename}/2017-2018/SoundCounterpoint.md)
-
-[![ ]({filename}/images/2017-2018/soundcounterpoint-400.jpg){}]({filename}/2017-2018/SoundCounterpoint.md)
-#### November 18th, 2017 8:00 pm
-
-Miyo Aoki, recorder <br>
-Linda Melsted, violin <br>
-Curtis Foster, oboe <br>
-Jonathan Oddie, harpsichord
+## [Frisson]({filename}/2018-2019/Frisson.md)
+[![ ]({filename}/images/2018-2019/Frisson-400.jpg){}]({filename}/2018-2019/Frisson.md)
+#### November 17, 2018 7:30 pm at <br>[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
 
 ---
 
-## [Clancy Newman with Natalie Zhu]({filename}/2017-2018/ClancyNewman.md)
-
-[![ ]({filename}/images/2017-2018/clancy-newman-cello-400.jpg){}]({filename}/2017-2018/ClancyNewman.md)
-#### January 27th, 2018 8:00 pm
-
-Clancy Newman, cello <br>
-Natalie Zhu, piano
+## [Maxwell Quartet]({filename}/2018-2019/MaxwellQuartet.md)
+[![ ]({filename}/images/2018-2019/Maxwell-Quartet-400.jpg){}]({filename}/2018-2019/MaxwellQuartet.md)
+#### January 26, 2019 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 ---
 
-## [Aeolus Quartet]({filename}/2017-2018/AeolusQuartet.md)
-
-[![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){}]({filename}/2017-2018/AeolusQuartet.md)
-#### February 24th, 2018 8:00 pm
-
-Nicholas Tavani, violin <br>
-Rachel Shapiro, violin <br>
-Gregory Luce, viola <br>
-Alan Richardson, cello
+## [Ensemble Caprice]({filename}/2018-2019/EnsembleCaprice.md)
+[![ ]({filename}/images/2018-2019/Ensemble-Caprice-400.jpg){}]({filename}/2018-2019/EnsembleCaprice.md)
+#### February 23, 2019 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 ---
 
-## [Rose City Trio]({filename}/2017-2018/RoseCityTrio.md)
-
-[![ ]({filename}/images/2017-2018/rose-city-trio-400.jpg){}]({filename}/2017-2018/RoseCityTrio.md)
-
-#### March 24th, 2018 8:00 pm
-
-Sarah Kwak, violin <br>
-Nancy Ives, cello <br>
-Susan Chan, piano
+## [Aristeia Trio]({filename}/2018-2019/AristeiaTrio.md)
+[![ ]({filename}/images/2018-2019/Aristeia-Trio-400.jpg){}]({filename}/2018-2019/AristeiaTrio.md)
+#### March 23, 2019 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 ---
 
-## [Byron Schenkman & Friends]({filename}/2017-2018/ByronSchenkman.md)
-
-[![ ]({filename}/images/2017-2018/byron-schenkman-2018-400.jpg){}]({filename}/2017-2018/ByronSchenkman.md)
-
-#### April 21st, 2018 8:00 pm
-
-Byron Schenkman, harpsichord <br>
-Anna Marsh, bassoon <br>
-Ingrid Matthews, violin <br>
-Debra Nagy, oboe <br>
-Joshua Romatowski, flute <br>
-Nathan Whittaker, cello
+## [Paul O’Dette and Ronn McFarlane]({filename}/2018-2019/PaulandRon.md)
+[![ ]({filename}/images/2018-2019/PaulandRon-400.jpg){}]({filename}/2018-2019/PaulandRon.md)
+#### April 27, 2019 7:30 pm at <br>[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
 
 ---
 
+## [Young Artists of Distinction]({filename}/2018-2019/YoungArtists2019.md)
+[![ ]({filename}/images/2018-2019/YoungArtists400.jpg){}]({filename}/2018-2019/YoungArtists2019.md)
+#### May, 2019 2:00 pm at <br>[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
 
-## [Young Artists of Distinction]({filename}/2017-2018/YoungArtists2018.md)
-
-[![ ]({filename}/images/2017-2018/YoungArtists400.jpg){}]({filename}/2017-2018/YoungArtists2018.md)
-
-#### May 6th, 2018 2:00 pm
-
-Young Artists of Distinction
 
 ---
 
