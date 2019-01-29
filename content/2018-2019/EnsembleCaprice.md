@@ -80,3 +80,10 @@ In 2015 and 2016 the ensemble went twice to China and represented Canada at the 
 Ensemble Caprice produces videos for the website noncerto which promote classical music in a new way. The videos have been viewed in more than 150 countries around the world.
 
 In the USA the CD Chaconne-Voices of Eternity has been selected CD of the year 2016 by Radio WBRB in Boston.
+
+---
+
+_Ensemble Caprice is supported by the Conseil des arts et des lettres du Québec_
+
+![ ]({filename}/images/2018-2019/calq-logo.jpg){.floatleft}
+
