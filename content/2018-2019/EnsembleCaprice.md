@@ -9,7 +9,8 @@ Bannerposition: top
 
 #### February 23, 2019 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
-#### There is an additional [family performance in the afternoon]({filename}/2018-2019/EnsembleCapriceFamily.md)
+**There is an additional [family performance in the afternoon]({filename}/2018-2019/EnsembleCapriceFamily.md) and a [lecture demonstration]({filename}/2018-2019/EnsembleCapriceLecture.md) on Friday.**
+
 
 Matthias Maute et Sophie Larivière, recorder <br>
 Susie Napper, violoncello <br>
@@ -55,10 +56,8 @@ Ziya Tabassian, percussion
 | Antonio, Paula and Ana                      |                                                                 |
 | Antonio Vivaldi (1681-1741)                 | Sonate op.I,12 La Follia                                        |
 
+**<br>There is an additional [family performance in the afternoon]({filename}/2018-2019/EnsembleCapriceFamily.md) and a [lecture demonstration]({filename}/2018-2019/EnsembleCapriceLecture.md) on Friday.**
 
-### 4:00 pm Program
-
-To be announced!
 
 ---
 

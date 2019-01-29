@@ -9,7 +9,9 @@ Bannerposition: top
 
 #### February 23, 2019 4:00 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
-#### This performance is in addition to the [evening performance]({filename}/2018-2019/EnsembleCaprice.md)
+### This performance is in addition to the [evening performance]({filename}/2018-2019/EnsembleCaprice.md) and the [lecture demonstration]({filename}/2018-2019/EnsembleCapriceLecture.md)
+
+---
 
 Matthias Maute et Sophie Larivière, recorder <br>
 Susie Napper, violoncello <br>
@@ -22,7 +24,7 @@ Ziya Tabassian, percussion
 
 ---
 
-### Main Program
+### Family Program
 
 #### A baroque feast: Music and stories
 
