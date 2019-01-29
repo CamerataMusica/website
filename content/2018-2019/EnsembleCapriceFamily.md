@@ -28,6 +28,10 @@ Ziya Tabassian, percussion
 
 Music tells stories. What is the story hidden behind J.H.Schmelzer’s _Serenata con altre arie_ or A.Vivaldi’s _La Follia_? Ensemble Caprice performs and tells musical stories which reach out to us today throughout the centuries. The program **A baroque feast** celebrates the magic of music!
 
+This event is ideal for parents and children.
+
+There is no admission charge.  First-come, first-seated.
+
 ---
 
 ### About the Musicians
