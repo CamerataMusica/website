@@ -39,6 +39,10 @@ A Fancy                                            John Da
 Fantasie #7                                       John Dowland  <br>
 Chi Passa                                          John Johnson (? - 1594) <br>
 
+
+**[Program Notes (PDF)]({filename}/images/images/2018-2019/lute-essay.pdf)**
+
+
 ---
 
 ### About the Musicians
