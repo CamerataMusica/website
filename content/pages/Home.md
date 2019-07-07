@@ -18,7 +18,7 @@ October 26, 2019, **Park Brothers Guitar Duo** at CBC
 
 November 23, 2019, **Kouzov Duo** at Kennewick First Presbyterian Church
 
-Date January 25, 2020, **Carpe Diem String Quartet with Cameron Bennett** at CBC
+January 25, 2020, **Carpe Diem String Quartet with Cameron Bennett** at CBC
 
 February 22, 2020, **Axiom Brass** at CBC
 
