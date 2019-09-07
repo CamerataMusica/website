@@ -16,8 +16,7 @@ source activate pelican
 
 Here's how to test the site locally (Linux):
 ```
-pelican content --debug --autoreload  --output output --settings pelicanconf.py &
-pushd output; python -m pelican.server; popd
+pelican -lr & sleep 2; open http://127.0.0.1:8000/
 ```
 Then view your preview here: http://127.0.0.1:8000/
 
