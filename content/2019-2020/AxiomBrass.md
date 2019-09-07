@@ -1,26 +1,16 @@
 Title: Axiom Brass
 Date: 2020-02-22
 Authors: Colin Brislawn
-Banner: ./images/2018-2019/PaulandRon-large.jpg
 Bannerposition: top
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
+#### February 22, 2020 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
-#### February 22, 2020 xxx pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+Dorival Puccini, Jr. (Trunpet) <br>
+Michael Hawes (Trunpet) <br>
+Michael Bronstein (Horn) <br>
+Corey Sansalo (Trombone) <br>
+Kevin Harrison (Tuba)
 
-Dmitry Kouzov
-
-[Kouzov Duo website](https://www.chambermuse.com/kouzov-duo)
-
-
----
-
-### Program
-
-
-
----
-
-### About the Musicians
-
+[Axiom Brass website](http://www.axiombrass.com)
