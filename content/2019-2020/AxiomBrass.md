@@ -1,6 +1,7 @@
 Title: Axiom Brass
 Date: 2020-02-22
 Authors: Colin Brislawn
+Banner: ./images/2019-2020/axiom-brass-large.jpg
 Bannerposition: top
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )

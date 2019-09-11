@@ -6,75 +6,61 @@ Template: article_list
 Status: hidden
 -->
 
-September 28, 2019, **Baltimore Consort** at CBC
+## [Baltimore Consort]({filename}/2019-2020/BaltimoreConsort.md)
 
-October 26, 2019, **Park Brothers Guitar Duo** at CBC
+[![Baltimore Consort members standing against a wall]({filename}/images/2019-2020/baltimore-consort-2019-400.jpg){}]({filename}/2019-2020/BaltimoreConsort.md)
 
-November 23, 2019, **Kouzov Duo** at Kennewick First Presbyterian Church
-
-January 25, 2020, **Carpe Diem String Quartet with Cameron Bennett** at CBC
-
-February 22, 2020, **Axiom Brass** at CBC
-
-March 28, 2020, **St Petersburg Piano Quartet** at CBC
-
-April 25, 2020, **Byron Schenkman & Friends** at Kennewick First Presbyterian Church
+#### September 28, 2018 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 ---
 
-More information coming soon.
+## [Park Brothers Guitar Duo]({filename}/2019-2020/ParkBrothersGuitarDuo.md)
 
-<!--
-## [Jovanni-Rey de Pedro]({filename}/2018-2019/JovanniReydePedro.md)
+[![Park Brothers Guitar Duo headheadshot]({filename}/images/2019-2020/park-brothers-guitar-duo-400.jpg){}]({filename}/2019-2020/ParkBrothersGuitarDuo.md)
 
-[![ ]({filename}/images/2018-2019/Jovanni-Rey-dePedro-400.jpg){:.homepageimage}]({filename}/2018-2019/JovanniReydePedro.md)
-#### September 22, 2018 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+#### October 26, 2019 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 ---
 
-## [The Byrd Ensemble]({filename}/2018-2019/ByrdEnsemble2018.md)
-[![ ]({filename}/images/2018-2019/The-Byrd-Ensemble-400.jpg){}]({filename}/2018-2019/ByrdEnsemble2018.md)
-#### October 27, 2018 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+## [Kouzov Duo]({filename}/2019-2020/KouzovDuo.md)
+
+[![Yulia Kouzova leaning on the scholder of Dmitry Kouzov]({filename}/images/2019-2020/kouzov-duo-400.jpg){}]({filename}/2019-2020/KouzovDuo.md)
+
+#### November 23, 2019 7:30 pm at <br>[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
 
 ---
 
-## [Frisson]({filename}/2018-2019/Frisson.md)
-[![ ]({filename}/images/2018-2019/Frisson-400.jpg){}]({filename}/2018-2019/Frisson.md)
-#### November 17, 2018 7:30 pm at <br>[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
+## [Carpe Diem String Quartet with Cameron Bennett]({filename}/2019-2020/CarpeDiemStringQuartet.md)
+
+[![Carpe Diem String Quartet standing with their instruments, and without Cameron Bennett]({filename}/images/2019-2020/carpe-diem-string-quartet-with-cameron-bennett-400.jpg){}]({filename}/2019-2020/CarpeDiemStringQuartet.md)
+
+#### January 25, 2020 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 ---
 
-## [Maxwell Quartet]({filename}/2018-2019/MaxwellQuartet.md)
-[![ ]({filename}/images/2018-2019/Maxwell-Quartet-400.jpg){}]({filename}/2018-2019/MaxwellQuartet.md)
-#### January 26, 2019 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+## [Axiom Brass]({filename}/2019-2020/AxiomBrass.md)
+
+[![The members of Axiom Brass standing in a NYC subway car]({filename}/images/2019-2020/axiom-brass-400.jpg){}]({filename}/2019-2020/AxiomBrass.md)
+
+#### February 22, 2020 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 ---
 
-## [Ensemble Caprice]({filename}/2018-2019/EnsembleCaprice.md)
-[![ ]({filename}/images/2018-2019/Ensemble-Caprice-400.jpg){}]({filename}/2018-2019/EnsembleCaprice.md)
-#### February 23, 2019 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+## [St Petersburg Piano Quartet]({filename}/2019-2020/StPetersburgPianoQuartet.md)
+
+[![The members of St Petersburg Piano Quartet standing outside]({filename}/images/2019-2020/st-petersburg-piano-quartet-400.jpg){}]({filename}/2019-2020/StPetersburgPianoQuartet.md)
+
+#### March 28, 2020 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 ---
 
-## [Aristeia Trio]({filename}/2018-2019/AristeiaTrio.md)
-[![ ]({filename}/images/2018-2019/Aristeia-Trio-400.jpg){}]({filename}/2018-2019/AristeiaTrio.md)
-#### March 23, 2019 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+## [Byron Schenkman & Friends]({filename}/2019-2020/ByronSchenkman2020.md)
+
+[![Byron Schenkman playing a harpsichord]({filename}/images/2019-2020/byron-schenkman-2019-400.jpg){}]({filename}/2019-2020/ByronSchenkman2020.md)
+
+#### April 25, 2019 7:30 pm at <br>[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
 
 ---
-
-## [Paul O’Dette and Ronn McFarlane]({filename}/2018-2019/PaulandRon.md)
-[![ ]({filename}/images/2018-2019/PaulandRon-400.jpg){}]({filename}/2018-2019/PaulandRon.md)
-#### April 27, 2019 7:30 pm at <br>[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
-
----
-
-## [Young Artists of Distinction]({filename}/2018-2019/YoungArtists2019.md)
-[![ ]({filename}/images/2018-2019/YoungArtists400.jpg){}]({filename}/2018-2019/YoungArtists2019.md)
-#### May, 2019 2:00 pm at <br>[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
-
----
-
--->
 
 <style>
 

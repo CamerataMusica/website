@@ -1,6 +1,8 @@
 Title: Baltimore Consort
 Date: 2019-09-28
 Authors: Colin Brislawn
+Banner: ./images/2019-2020/baltimore-consort-2019-large.jpg
+Bannerposition: middle
 Slug: baltimore-consort-2019
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )

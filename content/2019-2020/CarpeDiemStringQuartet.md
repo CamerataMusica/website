@@ -1,9 +1,12 @@
 Title: Carpe Diem String Quartet with Cameron Bennett
 Date: 2020-01-25
 Authors: Colin Brislawn
+Banner: ./images/2019-2020/carpe-diem-string-quartet-with-cameron-bennett-large.jpg
 Bannerposition: top
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
+
+![ ]({static}/images/2019-2020/cameron-bennett-small.jpg){:width="200px", .floatright}
 
 #### January 25, 2020 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 

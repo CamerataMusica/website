@@ -1,6 +1,7 @@
 Title: Byron Schenkman & Friends
 Date: 2020-04-25
 Authors: Colin Brislawn
+Banner: ./images/2019-2020/byron-schenkman-2019-large.jpg
 Bannerposition: top
 Slug: byron-schenkman-2020
 

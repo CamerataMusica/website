@@ -12,30 +12,13 @@ Chamber Music for the Tri-Cities
 
 ---
 
-September 28, 2019, **Baltimore Consort** at CBC
-
-October 26, 2019, **Park Brothers Guitar Duo** at CBC
-
-November 23, 2019, **Kouzov Duo** at Kennewick First Presbyterian Church
-
-January 25, 2020, **Carpe Diem String Quartet with Cameron Bennett** at CBC
-
-February 22, 2020, **Axiom Brass** at CBC
-
-March 28, 2020, **St Petersburg Piano Quartet** at CBC
-
-April 25, 2020, **Byron Schenkman & Friends** at Kennewick First Presbyterian Church
-
-<!--
-[![ ]({filename}/images/2018-2019/Jovanni-Rey-dePedro-400.jpg){:.homepageimage}]({filename}/2018-2019/JovanniReydePedro.md)
-[![ ]({filename}/images/2018-2019/The-Byrd-Ensemble-400.jpg){}]({filename}/2018-2019/ByrdEnsemble2018.md)
-[![ ]({filename}/images/2018-2019/Frisson-400.jpg){}]({filename}/2018-2019/Frisson.md)
-[![ ]({filename}/images/2018-2019/Maxwell-Quartet-400.jpg){}]({filename}/2018-2019/MaxwellQuartet.md)
-[![ ]({filename}/images/2018-2019/Ensemble-Caprice-400.jpg){}]({filename}/2018-2019/EnsembleCaprice.md)
-[![ ]({filename}/images/2018-2019/Aristeia-Trio-400.jpg){}]({filename}/2018-2019/AristeiaTrio.md)
-[![ ]({filename}/images/2018-2019/PaulandRon-400.jpg){}]({filename}/2018-2019/PaulandRon.md)
-[![ ]({filename}/images/2018-2019/YoungArtists400.jpg){}]({filename}/2018-2019/YoungArtists2019.md)
--->
+[![Baltimore Consort members standing against a wall]({filename}/images/2019-2020/baltimore-consort-2019-400.jpg){}]({filename}/2019-2020/BaltimoreConsort.md)
+[![Park Brothers Guitar Duo headheadshot]({filename}/images/2019-2020/park-brothers-guitar-duo-400.jpg){}]({filename}/2019-2020/ParkBrothersGuitarDuo.md)
+[![Yulia Kouzova leaning on the scholder of Dmitry Kouzov]({filename}/images/2019-2020/kouzov-duo-400.jpg){}]({filename}/2019-2020/KouzovDuo.md)
+[![Carpe Diem String Quartet standing with their instruments, and without Cameron Bennett]({filename}/images/2019-2020/carpe-diem-string-quartet-with-cameron-bennett-400.jpg){}]({filename}/2019-2020/CarpeDiemStringQuartet.md)
+[![The members of Axiom Brass standing in a NYC subway car]({filename}/images/2019-2020/axiom-brass-400.jpg){}]({filename}/2019-2020/AxiomBrass.md)
+[![The members of St Petersburg Piano Quartet standing outside]({filename}/images/2019-2020/st-petersburg-piano-quartet-400.jpg){}]({filename}/2019-2020/StPetersburgPianoQuartet.md)
+[![Byron Schenkman playing a harpsichord]({filename}/images/2019-2020/byron-schenkman-2019-400.jpg){}]({filename}/2019-2020/ByronSchenkman2020.md)
 
 ---
 
