@@ -10,11 +10,11 @@ Slug: baltimore-consort-2019
 #### September 28, 2019 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 Mary Ann Ballard (viol, rebec) <br>
-Mark Cudek (Cittern, Viol, Crumhorn, Recorder &amp; Whistle , Renaissance Guitar, Percussion) <br>
+Mark Cudek (Cittern, Viol, Crumhorn, Recorder &amp; Whistle, Renaissance Guitar, Percussion) <br>
 Larry Lipkis (Viol, Recorder &amp; Whistle, Crumhorn, Gemshorn) <br>
 Ronn McFarlne (Lute) <br>
-Mindy Rosenfeld (Flute &amp; Fife Bagpipes) <br>
-Danielle Svonanec, guest artist (soprano)
+Mindy Rosenfeld (Flute &amp; Fife, Bagpipes) <br>
+Danielle Svonanec, guest artist (Soprano)
 
 [Baltimore Consort website](https://baltimoreconsort.com/)
 
@@ -24,5 +24,7 @@ Danielle Svonanec, guest artist (soprano)
 
 _Crossing to the New World - Early and Traditional Music in the British Isles, France, and
 North America_
+
+[Program notes (PDF)]({attach}/2019-2020/BaltimoreConsort-notes.pdf)
 
 ---
