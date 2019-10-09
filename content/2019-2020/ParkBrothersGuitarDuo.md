@@ -13,3 +13,7 @@ Alex and Wesley Park
 [Park Brothers Guitar Duo website](https://www.parkbrothersguitar.com/)
 
 ---
+
+### Program
+
+[Program notes (PDF)]({attach}/2019-2020/ParkBrothersPROGRAMWashington.pdf)
