@@ -14,3 +14,9 @@ Yulia (Fedoseeva) Kouzova. (Piano)
 [Kouzov Duo website](https://www.chambermuse.com/kouzov-duo)
 
 ---
+
+### Program
+
+[Full program (Word Document)]({attach}/2019-2020/Kouzov program.docx)
+
+[Program notes (Word Document)]({attach}/2019-2020/Kouzov Duo Pasco Program notes.docx)
