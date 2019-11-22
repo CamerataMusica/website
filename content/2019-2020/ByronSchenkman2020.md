@@ -12,6 +12,24 @@ Slug: byron-schenkman-2020
 
 Byron Schenkman (Piano) <br>
 Nathan Whittaker (Cello) <br>
-Rachel Wong. (Violin)
+Rachel Wong (Violin)
 
 [Byron Schenkman website](https://byronandfriends.org)
+
+---
+
+### Program
+
+[Download full program (Word Document)]({attach}/2019-2020/BS2020/BSandF program.docx)
+
+[Download program notes (Word Document)]({attach}/2019-2020/BS2020/2019 Archduke Trio notes.docx)
+
+---
+
+### Performer Biographies
+
+[Byron Schenkman bio (Word Document)]({attach}/2019-2020/BS2020/Schenkman new bio 2019.docx)
+
+[Nathan Whittaker bio (Word Document)]({attach}/2019-2020/BS2020/whittaker bio.docx)
+
+[Rachel Wong bio (Word Document)]({attach}/2019-2020/BS2020/Rachell 199 word bio.docx)
