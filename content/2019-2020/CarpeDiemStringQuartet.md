@@ -25,7 +25,7 @@ Gregory Sauer (Cello)
 
 _Piano Quintet in E flat Major_, Op. 47 Robert Schumann <br>
 _Positive Energy_ Bradley Sowash <br>
-_Fiddle Suite: Montana_ Korine Fujiwara <br>
+_Fiddle Suite Montana_ Korine Fujiwara <br>
 _String Quartet No. 6, Giga_ Sergei Taneyev
 
 ---
@@ -34,3 +34,14 @@ This program is supported in part by a grant from [ArtsWa](http://www.arts.wa.go
 
 ![ ]({filename}/images/nea-lockup-A-small.jpg){:width="500px"}
 ![ ]({filename}/images/TextOnlyAndFullName-HiRes-small.jpg){:width="300px"}
+
+---
+
+### Performer Biographies
+
+[Carpe Diem bio (Word Document)]({attach}/2019-2020/CarpeDiemBios/Carpe Diem bio.docx)
+[Cameron Bennett bio (Word Document)]({attach}/2019-2020/CarpeDiemBios/Cameron Bennett bio.docx)
+[Charles Wetherbee bio (Word Document)]({attach}/2019-2020/CarpeDiemBios/Chas+250.docx)
+[Marisa Ishikawa bio (Word Document)]({attach}/2019-2020/CarpeDiemBios/Marisa+Short+Bio.docx)
+[Korine Fujiwara bio (Word Document)]({attach}/2019-2020/CarpeDiemBios/Korine+150.docx)
+[Gregory Sauer bio (Word Document)]({attach}/2019-2020/CarpeDiemBios/Gregory+Short+Bio.docx)
