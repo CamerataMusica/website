@@ -40,8 +40,13 @@ This program is supported in part by a grant from [ArtsWa](http://www.arts.wa.go
 ### Performer Biographies
 
 [Carpe Diem bio (Word Document)]({attach}/2019-2020/CarpeDiemBios/Carpe Diem bio.docx)
+
 [Cameron Bennett bio (Word Document)]({attach}/2019-2020/CarpeDiemBios/Cameron Bennett bio.docx)
+
 [Charles Wetherbee bio (Word Document)]({attach}/2019-2020/CarpeDiemBios/Chas+250.docx)
+
 [Marisa Ishikawa bio (Word Document)]({attach}/2019-2020/CarpeDiemBios/Marisa+Short+Bio.docx)
+
 [Korine Fujiwara bio (Word Document)]({attach}/2019-2020/CarpeDiemBios/Korine+150.docx)
+
 [Gregory Sauer bio (Word Document)]({attach}/2019-2020/CarpeDiemBios/Gregory+Short+Bio.docx)
