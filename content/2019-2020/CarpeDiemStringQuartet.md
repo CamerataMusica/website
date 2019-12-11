@@ -23,7 +23,7 @@ Gregory Sauer (Cello)
 
 ### Program
 
-_Piano Quintet in E flat Major_, Op. 47 Robert Schumann <br>
+_Piano Quintet in E flat Major_, Op. 44 Robert Schumann <br>
 _Positive Energy_ Bradley Sowash <br>
 _Fiddle Suite Montana_ Korine Fujiwara <br>
 _String Quartet No. 6, Giga_ Sergei Taneyev
