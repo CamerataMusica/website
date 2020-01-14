@@ -27,3 +27,6 @@ _Fiddle Suite: Montana_ Korine Fujiwara <br>
 _String Quartet No. 6, Giga_ Sergei Taneyev
 
 ---
+
+![ ]({filename}/images/nea-lockup-A-small.jpg){:width="400px"}
+![ ]({filename}/images/TextOnlyAndFullName-HiRes-small.jpg){:width="300px"}
