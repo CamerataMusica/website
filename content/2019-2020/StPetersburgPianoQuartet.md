@@ -6,11 +6,19 @@ Bannerposition: middle
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
-#### March 28, 2020 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+# This concert has been canceled
 
-Alla Aranovskaya (Violin)
-Thomas Mesa (Violin)
-Boris Vayner (Viola)
+Please keep yourselves safe - we hope to see you all at our next concert.
+
+You can [reach out to us](mailto:colin@cameratamusica.com) if you have any questions.
+
+---
+
+<h4><del>March 28, 2020 7:30 pm at Columbia Basin College, Performing Arts Theatre</del></h4>
+
+Alla Aranovskaya (Violin) <br>
+Thomas Mesa (Violin) <br>
+Boris Vayner (Viola) <br>
 Tao Lin (Piano)
 
 [St Petersburg Piano Quartet website](http://www.chambermuse.com/st-petersburg-quartet)
