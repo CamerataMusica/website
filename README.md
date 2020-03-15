@@ -10,8 +10,8 @@ This is built with [Pelican](http://docs.getpelican.com/) and deployed with Trav
 
 Here's how to set up the build environment:
 ```
-conda create --name pelican pelican ghp-import markdown
-source activate pelican
+conda create --name pelican python=3.7 pelican ghp-import markdown
+conda activate pelican
 ```
 
 Here's how to test the site locally (Linux):
