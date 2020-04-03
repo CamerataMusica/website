@@ -7,8 +7,15 @@ Slug: byron-schenkman-2020
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
+# This concert has been canceled
 
-#### April 25, 2020 7:30 pm at [Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
+Please keep yourselves safe - we hope to see you all at our next concert.
+
+You can [reach out to us](mailto:colin@cameratamusica.com) if you have any questions.
+
+---
+
+<h4><del>April 25, 2020 7:30 pm at Kennewick First Presbyterian Church</del></h4>
 
 Byron Schenkman (Piano) <br>
 Nathan Whittaker (Cello) <br>

@@ -50,7 +50,9 @@ Status: hidden
 
 [![The members of St Petersburg Piano Quartet standing outside]({filename}/images/2019-2020/st-petersburg-piano-quartet-400.jpg){}]({filename}/2019-2020/StPetersburgPianoQuartet.md)
 
-#### March 28, 2020 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+<h4><del>March 28, 2020 7:30 pm at <br>Columbia Basin College, Performing Arts Theatre</del></h4>
+
+This concert has been canceled.
 
 ---
 
@@ -58,7 +60,9 @@ Status: hidden
 
 [![Byron Schenkman playing a harpsichord]({filename}/images/2019-2020/byron-schenkman-2019-400.jpg){}]({filename}/2019-2020/ByronSchenkman2020.md)
 
-#### April 25, 2019 7:30 pm at <br>[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
+<h4><del>April 25, 2019 7:30 pm at <br>Kennewick First Presbyterian Church</del></h4>
+
+This concert has been canceled.
 
 ---
 
