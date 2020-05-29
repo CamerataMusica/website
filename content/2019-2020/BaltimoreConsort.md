@@ -14,7 +14,8 @@ Mark Cudek (Cittern, Viol, Crumhorn, Recorder &amp; Whistle, Renaissance Guitar,
 Larry Lipkis (Viol, Recorder &amp; Whistle, Crumhorn, Gemshorn) <br>
 Ronn McFarlne (Lute) <br>
 Mindy Rosenfeld (Flute &amp; Fife, Bagpipes) <br>
-Danielle Svonanec, guest artist (Soprano)
+Danielle Svonanec, guest artist (Soprano) <br>
+Colin Brislwan, guest artist (vocals)
 
 [Baltimore Consort website](https://baltimoreconsort.com/)
 
