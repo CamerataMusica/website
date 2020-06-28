@@ -6,6 +6,18 @@ Template: article_list
 Status: hidden
 -->
 
+### Because of the conditions created by the Covid-19 virus, the Camerata Musica Board has cancelled plans for the 2020-2021 season.
+
+### We will continue to monitor the situation to determine when we can safely present chamber music concerts again.
+
+---
+
+You can connect with us on [Facebook](https://www.facebook.com/pages/Camerata-Musica-Richland/226889204035616), review our [previous seasons](https://cameratamusica.com/seasons/), or contact us by [email](colin@cameratamusica.com).
+
+Stay safe.
+
+<!--
+
 ## [Baltimore Consort]({filename}/2019-2020/BaltimoreConsort.md)
 
 [![Baltimore Consort members standing against a wall]({filename}/images/2019-2020/baltimore-consort-2019-400.jpg){}]({filename}/2019-2020/BaltimoreConsort.md)
@@ -65,6 +77,8 @@ This concert has been canceled.
 This concert has been canceled.
 
 ---
+
+-->
 
 <style>
 

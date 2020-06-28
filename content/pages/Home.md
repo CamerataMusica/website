@@ -1,5 +1,5 @@
 Title: Home
-Date: 2019-07-07
+Date: 2020-06-28
 Authors: Colin Brislawn
 URL:
 save_as: index.html
@@ -11,45 +11,23 @@ Chamber Music for the Tri-Cities
 #### Camerata Musica, the only organization in the Tri-Cities that regularly schedules chamber music concerts, announces its 2019-2020 season
 -->
 
+Dear Camerata Musica Supporter,
 
-Unfortunately, our April concert featuring [Byron Schenkman &amp; Friends](https://cameratamusica.com/byron-schenkman-2020.html) has been canceled.
-This wasn’t so much a Board decision as the inevitable result of several factors converging.
+I thought that canceling the [March](https://cameratamusica.com/st-petersburg-piano-quartet.html) and [April](https://cameratamusica.com/byron-schenkman-2020.html) concerts was the hardest thing the Board would ever have to do. Unfortunately, I was wrong. As the Covid-19 situation continued to evolve, we realized that we needed to look more closely at options for the coming season and determine how to proceed. 
 
-1. Two of the musicians live on the east coast; flying into Seattle would be neither safe
-nor prudent.
-2. Although the Church has not yet informed us of any decision about using its facility,
-current federal guidelines extend the isolation recommendations through the month
-of April.
-3. Even if we were able to hold the concert, we suspect that many of you would stay
-home “out of an abundance of caution”.
+We have had such a discussion, and reluctantly made the decision to suspend concerts for the 2020-21 season. Several factors were considered. For starters, the CBC auditorium will not be available until January 2021 at best. Our audience, like that of other classical music groups, is largely composed of older adults who fall into the category of being more susceptible to the disease. Given the uncertainty of when social distancing guidelines will be suspended based on scientific and medical advice, and the possibility of a resurgence of cases during flu season, we felt that it would be wrong to go ahead with planning even half a season that might ultimately have to be canceled.
 
-Canceling concerts in the age of Covid-19 is unfortunate, but for all the musicians who were to
-perform on our series and at other venues, the current crisis is close to catastrophic. Many of
-these performers are freelance musicians who work from engagement to engagement without
-benefits, including unemployment insurance. During our (online) Board meeting Monday
-night, we decided to pay the performers for the March and April concerts half their fees. Using
-the logic that the concert cancellations were neither their nor our fault, this seemed like the
-right thing to do. We are not alone in this. Many presenters are similarly trying to support their
-musicians even as they are unable to have them play.
+We will monitor the situation throughout the fall. If it looks as if concerts can be safely presented, we will consider ad hoc programs rather than a fully scheduled season. Any such events will be announced through email (Thank you for signing up!), Facebook, and on our webpage. If we can, we will send cards to those of you who are currently patrons. We hope to be able to resume something resembling a normal concert season for 2021-22 but we recognize that the future is uncertain, and we will have to be flexible.
 
-As I read the news from and about the arts community, I am struck by the number of
-organizations for whom this situation is extraordinarily worrisome. Some of them will not
-survive, and the world will be the worse for their loss. Thanks to the support of our patrons, we
-are still planning concerts for next season.
+The volunteers who make up our Board have close to 200 years of collective experience putting on chamber music concerts – it’s what they love to do, and they do it well. Making a decision like this goes against everything we have done for 51 years, yet we all agreed that it was the only safe and rational decision we could make.
 
-Like you, we regret that the cancellations have been necessary. To get your musical fix, take
-advantage of the many YouTube offerings by Camerata performers and other musicians. Check
-out [YoYo Ma’s #SongsOfComfort](https://twitter.com/YoYo_Ma/status/1245393608498438148).
-Watch the Rotterdam Philharmonic [perform “Ode to Joy” from their homes](https://www.youtube.com/watch?v=unUcOsYapEI).
-Like us on [Facebook](https://www.facebook.com/pages/Camerata-Musica-Richland/226889204035616) and
-check out some of the links we have been posting several times a week.
+These are difficult times. We all miss the excitement and vibrancy of live performances - theatre, concerts, dance. Online streaming, which lacks the intimacy of being there in person, is still pretty phenomenal however, and there are many great performances available. I hope you will take advantage of them. Check out our Facebook page for suggestions; we will be updating it often with news and links we like – particularly from musicians who have been on our series. 
 
-Take care. Stay well. We are looking forward to seeing you at a concert as soon as possible.
+Stay safe.  
 
-If you have any comments or questions, please feel free to contact us at
-[cndorans@charter.net](mailto:cndorans@charter.net).
+~Nancy Doran
 
-~ Nancy Doran
+<!--
 
 ---
 
@@ -74,6 +52,8 @@ This season’s concerts are scheduled for two different locations.  Some will t
  Information about each concert’s location will be included on this website, our Facebook page, next season’s flyers and posters, and our [announcement emails](http://eepurl.com/cD1Zvv), as well as on the reminder cards we send to [patrons](https://www.cameratamusica.com/pages/supporting-camerata-musica.html).
 
  We look forward to having you join us for another season of chamber music.
+
+-->
 
 <style>
 
