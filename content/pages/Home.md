@@ -1,5 +1,5 @@
 Title: Home
-Date: 2020-06-28
+Date: 2021-09-18
 Authors: Colin Brislawn
 URL:
 save_as: index.html
@@ -13,19 +13,19 @@ Chamber Music for the Tri-Cities
 
 Dear Camerata Musica Supporter,
 
-I thought that canceling the [March](https://cameratamusica.com/st-petersburg-piano-quartet.html) and [April](https://cameratamusica.com/byron-schenkman-2020.html) concerts was the hardest thing the Board would ever have to do. Unfortunately, I was wrong. As the Covid-19 situation continued to evolve, we realized that we needed to look more closely at options for the coming season and determine how to proceed. 
+First things, first – I hope you are all healthy and surviving this plague year as well as possible.
+ 
+This has traditionally been the time of the year to sit down and write to Camerata supporters about our upcoming season, telling you about our upcoming season, and asking for your support. Things are a little different this year - this isn’t a fundraiser but an opportunity to tell you about Camerata’s current situation.
+ 
+Several months ago, the Board of Directors made the decision that the earliest we would consider having a concert would be January 2022. Unfortunately, Benton and Franklin counties are not doing well: Our Covid-19 case rates are high and our vaccination rates are low. The New York Times currently describes our area as having “extremely high risk” of contracting the disease. Keeping in mind that a large percentage of our audience is older, and therefore at higher risk than the population at large, we honestly don’t know when we will restart. We don’t plan to book artists until we can feel comfortable that having a concert will be reasonably safe for everyone. What does a safe concert look like? Masks? Proof of vaccination? These are good questions that we don’t have any answers for now, but they are questions that we will be exploring.
 
-We have had such a discussion, and reluctantly made the decision to suspend concerts for the 2020-21 season. Several factors were considered. For starters, the CBC auditorium will not be available until January 2021 at best. Our audience, like that of other classical music groups, is largely composed of older adults who fall into the category of being more susceptible to the disease. Given the uncertainty of when social distancing guidelines will be suspended based on scientific and medical advice, and the possibility of a resurgence of cases during flu season, we felt that it would be wrong to go ahead with planning even half a season that might ultimately have to be canceled.
+As you know, it’s been our practice for many years to designate as patrons those who donate at least $100 annually, and to extend priority seating privileges to them for one year. We decided to freeze the patron list as of February 2019, and to extend everyone’s status through the end of whatever spring 2022 season we have. If you were a patron then, you are a patron now. Our next fundraising letter will go out in about a year, at the start of the 2022-2023 season.
 
-We will monitor the situation throughout the fall. If it looks as if concerts can be safely presented, we will consider ad hoc programs rather than a fully scheduled season. Any such events will be announced through email (Thank you for signing up!), Facebook, and on our webpage. If we can, we will send cards to those of you who are currently patrons. We hope to be able to resume something resembling a normal concert season for 2021-22 but we recognize that the future is uncertain, and we will have to be flexible.
+Thank you for your patience as we try to sort out the options. We will get back to presenting live chamber music as soon as we can. As always, if you have any questions or comments, feel free to contact me via email ((cndorans@charter.net)[mailto:cndorans@charter.net]).
 
-The volunteers who make up our Board have close to 200 years of collective experience putting on chamber music concerts – it’s what they love to do, and they do it well. Making a decision like this goes against everything we have done for 51 years, yet we all agreed that it was the only safe and rational decision we could make.
+Sincerely,
 
-These are difficult times. We all miss the excitement and vibrancy of live performances - theatre, concerts, dance. Online streaming, which lacks the intimacy of being there in person, is still pretty phenomenal however, and there are many great performances available. I hope you will take advantage of them. Check out our Facebook page for suggestions; we will be updating it often with news and links we like – particularly from musicians who have been on our series. 
-
-Stay safe.  
-
-~Nancy Doran
+Nancy Doran
 
 <!--
 
