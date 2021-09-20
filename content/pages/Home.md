@@ -21,7 +21,7 @@ Several months ago, the Board of Directors made the decision that the earliest w
 
 As you know, it’s been our practice for many years to designate as patrons those who donate at least $100 annually, and to extend priority seating privileges to them for one year. We decided to freeze the patron list as of February 2019, and to extend everyone’s status through the end of whatever spring 2022 season we have. If you were a patron then, you are a patron now. Our next fundraising letter will go out in about a year, at the start of the 2022-2023 season.
 
-Thank you for your patience as we try to sort out the options. We will get back to presenting live chamber music as soon as we can. As always, if you have any questions or comments, feel free to contact me via email ((cndorans@charter.net)[mailto:cndorans@charter.net]).
+Thank you for your patience as we try to sort out the options. We will get back to presenting live chamber music as soon as we can. As always, if you have any questions or comments, feel free to contact me via email ([cndorans@charter.net](mailto:cndorans@charter.net)).
 
 Sincerely,
 
