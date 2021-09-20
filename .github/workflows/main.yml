@@ -13,8 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - uses: nelsonjchen/gh-pages-pelican-action@0.1.10
+    - name: checkout
+      uses: actions/checkout@v2
+    - name: Set up Pip cache (Linux)
+      uses: actions/cache@v2
+      if: startsWith(runner.os, 'Linux')
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements/*') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name:gh-pages-pelican-action
+      uses: nelsonjchen/gh-pages-pelican-action@0.1.10
       env:
         GH_PAGES_CNAME: cameratamusica.com
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
