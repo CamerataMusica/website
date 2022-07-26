@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from datetime import date
 
 AUTHOR = u'Camerata Musica'
 SITENAME = u'Camerata Musica'
@@ -8,6 +9,7 @@ SITEURL = ''
 PATH = 'content'
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = u'en'
+DCOPY_DATE = date.today().year
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

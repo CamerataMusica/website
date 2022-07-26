@@ -2,12 +2,7 @@
    <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
       <hr>
       <div class="row">
-         {% if articles %}
-            {% set copy_date = articles[0].date.strftime('%Y') %}
-         {% else %}
-            {% set copy_date = '' %}
-         {% endif %}
-         <div class="col-xs-10">&copy; {{ copy_date }} {{ AUTHOR }}
+         <div class="col-xs-10">&copy; {{ DCOPY_DATE }} {{ AUTHOR }}
             
 			&middot; Powered by <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
 			<a href="https://travis-ci.org/" target="_blank">Travis CI</a>,
