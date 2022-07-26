@@ -108,4 +108,4 @@ Early each spring, Camerata sends nomination forms for the Young Artists concert
 
 ### How do I become a patron?
 
-We appreciate your support! We encourage you to [learn more]({filename}/pages/Supporting.md) or download a [contribution form (PDF)]({filename}/images/DonorForm.pdf).
+We appreciate your support! We encourage you to [learn more]({filename}/pages/Supporting.md) or download a [contribution form (PDF)]({static}/images/DonorForm.pdf).

@@ -10,8 +10,8 @@ Donations to Camerata may be made at any concert or by sending a check to Camera
 
 **Download and print a contribution form**
 
-[![ ]({filename}/images/256-pdf-icon.png){:width="130px", .floatleft}]({filename}/images/DonorForm.pdf)
-[![ ]({filename}/images/256-word-icon.png){:width="130px", .floatleft}]({filename}/images/DonorForm.doc)
+[![ ](/images/256-pdf-icon.png){:width="130px", .floatleft}]({static}/images/DonorForm.pdf)
+[![ ](/images/256-word-icon.png){:width="130px", .floatleft}]({static}/images/DonorForm.doc)
 
 <p class="clear">&nbsp;</p>
 
@@ -35,12 +35,12 @@ Camerata Musica is a 501(c)3 organization; donations are tax-deductible to the f
 
 <a name="shop"></a>
 
-[![ ]({filename}/images/AmazonSmile-logo.png){:width="300px", .floatleft .clear}](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland)
+[![ ](/images/AmazonSmile-logo.png){:width="300px", .floatleft .clear}](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland)
 
 Amazon shoppers can support Camerata by registering their preference at [smile.amazon.com](https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_ssr_srch_stsr?q=camerata+musica+richland). After registering, start your Amazon shopping at Amazon Smile and every eligible purchase will result in a portion of the purchase price being donated to Camerata.
 
 <br>
 
-[![ ]({filename}/images/FMCommunity-logo.png){:width="300px", .floatleft .clear}](https://www.fredmeyer.com/topic/community-rewards-4)
+[![ ](/images/FMCommunity-logo.png){:width="300px", .floatleft .clear}](https://www.fredmeyer.com/topic/community-rewards-4)
 
 Fred Meyer shoppers can link their Fred Meyer cards to Camerata Musica at [www.fredmeyer.com/topic/community-rewards-4](https://www.fredmeyer.com/topic/community-rewards-4) using our identifier (**#FM644**). A portion of the profits from each purchase will be donated to Camerata. Registering to support Camerata does not affect the value of the Fred Meyer rewards you receive.
