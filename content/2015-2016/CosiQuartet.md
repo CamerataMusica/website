@@ -2,7 +2,7 @@ Title: Cosi Quartet
 Date: 2016-01-23
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/2015-2016/Cosi200.png){:width="200px", .floatleft}]({filename}./CosiQuartet.md)
+[![ ](/images/2015-2016/Cosi200.png){:width="200px", .floatleft}]({filename}./CosiQuartet.md)
 
 #### January 23 at 8:00pm in the Battelle Auditorium
 

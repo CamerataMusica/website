@@ -2,7 +2,7 @@ Title: Simphonie
 Date: 2016-04-23
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/2015-2016/Simphonie200.png){:width="200px", .floatleft}]({filename}./Simphonie.md)
+[![ ](/images/2015-2016/Simphonie200.png){:width="200px", .floatleft}]({filename}./Simphonie.md)
 
 #### April 23 at 8:00pm in the Battelle Auditorium
 

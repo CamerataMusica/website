@@ -2,7 +2,7 @@ Title: Trio Tremonti
 Date: 2016-02-27
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/2015-2016/Tremonti200.png){:width="200px", .floatleft}]({filename}./TrioTremonti.md)
+[![ ](/images/2015-2016/Tremonti200.png){:width="200px", .floatleft}]({filename}./TrioTremonti.md)
 
 #### February 27 at 8:00pm in the Battelle Auditorium
 
