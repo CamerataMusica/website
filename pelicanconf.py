@@ -65,7 +65,7 @@ LOAD_CONTENT_CACHE = True
 GZIP_CACHE = False
 
 
-STATIC_PATHS = ['images', 'pages', 'favicon.png', 'CamerataMusica/images', 'extra/CNAME']
+STATIC_PATHS = ['images', 'pages', 'CamerataMusica/images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 
 
