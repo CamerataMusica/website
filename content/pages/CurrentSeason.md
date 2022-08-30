@@ -1,87 +1,94 @@
 Title: Current Season
-Date: 2017-08-03
+Date: 1999-01-01
 Authors: Colin Brislawn
 <!--
 Template: article_list
 Status: hidden
 -->
 
-### Because of the conditions created by the Covid-19 virus, the Camerata Musica Board has cancelled plans for the 2020-2021 season.
+## [Canova Winds]({filename}/2022-2023/CanovaWinds.md)
 
-### We will continue to monitor the situation to determine when we can safely present chamber music concerts again.
+[![Canova Winds photo](/images/2022-2023/CanovaWinds-small.jpg)]({filename}/2022-2023/CanovaWinds.md)
 
----
+Sat, September 24, 2022
 
-You can connect with us on [Facebook](https://www.facebook.com/pages/Camerata-Musica-Richland/226889204035616), review our [previous seasons](https://cameratamusica.com/seasons/), or contact us by [email](colin@cameratamusica.com).
+Family Concert: 4:00PM and Evening Concert: 7:30PM at
 
-Stay safe.
-
-<!--
-
-## [Baltimore Consort]({filename}/2019-2020/BaltimoreConsort.md)
-
-[![Baltimore Consort members standing against a wall]({filename}/images/2019-2020/baltimore-consort-2019-400.jpg){}]({filename}/2019-2020/BaltimoreConsort.md)
-
-#### September 28, 2018 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 ---
 
-## [Park Brothers Guitar Duo]({filename}/2019-2020/ParkBrothersGuitarDuo.md)
+## [Balourdet Quartet]({filename}/2022-2023/BalourdetQuartet.md)
 
-[![Park Brothers Guitar Duo headheadshot]({filename}/images/2019-2020/park-brothers-guitar-duo-400.jpg){}]({filename}/2019-2020/ParkBrothersGuitarDuo.md)
+[![Balourdet Quartet photo](/images/2022-2023/BalourdetQuartet-small.jpg)]({filename}/2022-2023/BalourdetQuartet.md)
 
-#### October 26, 2019 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+Sat, October 22, 2022
 
----
+7:30 PM
 
-## [Kouzov Duo]({filename}/2019-2020/KouzovDuo.md)
-
-[![Yulia Kouzova leaning on the scholder of Dmitry Kouzov]({filename}/images/2019-2020/kouzov-duo-400.jpg){}]({filename}/2019-2020/KouzovDuo.md)
-
-#### November 23, 2019 7:30 pm at <br>[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
+[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
 
 ---
 
-## [Carpe Diem String Quartet with Cameron Bennett]({filename}/2019-2020/CarpeDiemStringQuartet.md)
+## [Byron Schenkman and Friends]({filename}/2022-2023/ByronSchenkman2022.md)
 
-[![Carpe Diem String Quartet standing with their instruments, and without Cameron Bennett]({filename}/images/2019-2020/carpe-diem-string-quartet-with-cameron-bennett-400.jpg){}]({filename}/2019-2020/CarpeDiemStringQuartet.md)
+[![Byron Schenkman at piano](/images/2022-2023/ByronSchenkman-small.jpg)]({filename}/2022-2023/ByronSchenkman2022.md)
 
-#### January 25, 2020 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+Sat, November 19, 2022
 
----
+7:30 PM
 
-## [Axiom Brass]({filename}/2019-2020/AxiomBrass.md)
-
-[![The members of Axiom Brass standing in a NYC subway car]({filename}/images/2019-2020/axiom-brass-400.jpg){}]({filename}/2019-2020/AxiomBrass.md)
-
-#### February 22, 2020 7:30 pm at <br>[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
 
 ---
 
-## [St Petersburg Piano Quartet]({filename}/2019-2020/StPetersburgPianoQuartet.md)
+## [Cheng² Duo]({filename}/2022-2023/Cheng2Duo.md)
 
-[![The members of St Petersburg Piano Quartet standing outside]({filename}/images/2019-2020/st-petersburg-piano-quartet-400.jpg){}]({filename}/2019-2020/StPetersburgPianoQuartet.md)
+[![Cheng² Duo, back to back](/images/2022-2023/Cheng2Duo-small.jpg)]({filename}/2022-2023/Cheng2Duo.md)
 
-<h4><del>March 28, 2020 7:30 pm at <br>Columbia Basin College, Performing Arts Theatre</del></h4>
+Sat, January 14, 2023
 
-This concert has been canceled.
+7:30 PM
 
----
-
-## [Byron Schenkman & Friends]({filename}/2019-2020/ByronSchenkman2020.md)
-
-[![Byron Schenkman playing a harpsichord]({filename}/images/2019-2020/byron-schenkman-2019-400.jpg){}]({filename}/2019-2020/ByronSchenkman2020.md)
-
-<h4><del>April 25, 2019 7:30 pm at <br>Kennewick First Presbyterian Church</del></h4>
-
-This concert has been canceled.
+[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 ---
 
--->
+## [Fandango!]({filename}/2022-2023/Fandango.md)
+
+[![Fandango group photo](/images/2022-2023/Fandango-small.jpg)]({filename}/2022-2023/Fandango.md)
+
+Sat, February 25, 2023
+
+7:30 PM
+
+[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+
+---
+
+## [Vieness Piano Duo]({filename}/2022-2023/VienessPianoDuo.md)
+
+[![Vieness Piano Duo back to back at pianos](/images/2022-2023/VienessPianoDuo-small.jpg)]({filename}/2022-2023/VienessPianoDuo.md)
+
+Sat, March 25, 2023
+
+7:30 PM
+
+[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+
+---
+
+## [Tomás Cotik/Susan Chan]({filename}/2022-2023/TomasCotikandSusanChan.md)
+
+[![Tomás Cotik and Susan Chan](/images/2022-2023/TomasCotikandSusanChan-small.jpg)]({filename}/2022-2023/TomasCotikandSusanChan.md)
+
+Sat, April 22, 2023
+
+7:30 PM
+
+[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
 
 <style>
-
 .entry-content a img {
     width: 270px;
     /* This is similar to the .floadleft class ****/
@@ -91,4 +98,11 @@ This concert has been canceled.
     padding-bottom: 15px;
 }
 
+/* style p like H4 */
+.entry-content p {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
 </style>
