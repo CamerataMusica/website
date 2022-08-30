@@ -4,7 +4,7 @@ on:
   # Trigger the workflow only on push to master
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
