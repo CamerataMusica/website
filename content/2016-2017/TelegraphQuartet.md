@@ -3,7 +3,7 @@ Date: 2017-02-18
 Authors: Colin Brislawn
 Banner: ./images/2016-2017/the-telegraph-quartet-large.jpg
 
-[![ ]({filename}/images/2016-2017/the-telegraph-quartet400.jpg){:width="200px", .floatleft}]({filename}./TelegraphQuartet.md)
+[![ ](/images/2016-2017/the-telegraph-quartet400.jpg){:width="200px", .floatleft}]({filename}./TelegraphQuartet.md)
 
 #### February 18th, 2017 8:00pm at Battelle Auditorium
 
@@ -51,7 +51,7 @@ String Quartet No. 3 in A major, Op. 41 No. 3
 
 ---
 
-Download the [full program notes (PDF)]({filename}/images/2016-2017/cm-Teklegraph-notes.pdf)
+Download the [full program notes (PDF)](/images/2016-2017/cm-Teklegraph-notes.pdf)
 
 ---
 

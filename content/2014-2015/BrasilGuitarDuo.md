@@ -2,12 +2,11 @@ Title: Brasil Guitar Duo
 Date: 2014-9-27
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/2014-2015/Brasil200.png){:width="200px", .floatleft}]({filename}./BrasilGuitarDuo.md)
+[![Portrait of Brasil Guitar Duo](/images/2014-2015/Brasil200.png){:width="200px", .floatleft}]({filename}./BrasilGuitarDuo.md)
 
 #### September 27, 2014 8:00pm at Battelle Auditorium
 
 The Brasil Guitar Duo, winner of the 2006 Concert Artists Guild International Competion comes to the Tri Cities
-
 
 [Brasil Guitar Duo Web Site](http://www.brasilguitarduo.org/)
 

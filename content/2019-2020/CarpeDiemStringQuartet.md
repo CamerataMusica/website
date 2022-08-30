@@ -4,8 +4,6 @@ Authors: Colin Brislawn
 Banner: ./images/2019-2020/carpe-diem-string-quartet-with-cameron-bennett-large.jpg
 Bannerposition: top
 
-[comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
-
 ![ ]({static}/images/2019-2020/cameron-bennett-small.jpg){:width="200px", .floatright}
 
 #### January 25, 2020 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
@@ -32,8 +30,8 @@ _String Quartet No. 6, Giga_ Sergei Taneyev
 
 This program is supported in part by a grant from [ArtsWa](http://www.arts.wa.gov/) (the [Washington State Arts Commission](http://www.arts.wa.gov/)) and the [National Endowment for the Arts](https://www.arts.gov/).
 
-![ ]({filename}/images/nea-lockup-A-small.jpg){:width="400px"}
-![ ]({filename}/images/TextOnlyAndFullName-HiRes-small.jpg){:width="300px"}
+![NEA Logo](/images/nea-lockup-A-small.jpg){:width="400px"}
+![ArtsWA logo](/images/TextOnlyAndFullName-HiRes-small.jpg){:width="300px"}
 
 ---
 

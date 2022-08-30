@@ -3,7 +3,7 @@ Date: 2017-03-25
 Authors: Colin Brislawn
 Banner: ./images/2016-2017/adaskin-trio-with-tom-gallant-large.jpg
 
-[![ ]({filename}/images/2016-2017/adaskin-trio-with-tom-gallant400.jpg){:width="200px", .floatleft}]({filename}./AdaskinTrio.md)
+[![ ](/images/2016-2017/adaskin-trio-with-tom-gallant400.jpg){:width="200px", .floatleft}]({filename}./AdaskinTrio.md)
 
 #### March 25th, 2017 8:00 pm at Battelle Auditorium
 

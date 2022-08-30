@@ -4,22 +4,16 @@ Authors: Colin Brislawn
 Banner: ./images/2018-2019/Ensemble-Caprice-large.jpg
 Bannerposition: top
 
-[comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
-
-
 #### February 23, 2019 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
 
 **There is an additional [family performance in the afternoon]({filename}/2018-2019/EnsembleCapriceFamily.md) and a [lecture demonstration]({filename}/2018-2019/EnsembleCapriceLecture.md) on Friday.**
-
 
 Matthias Maute et Sophie Larivière, recorder <br>
 Susie Napper, violoncello <br>
 David Jacques, baroque guitar <br>
 Ziya Tabassian, percussion
 
-
 [Ensemble Caprice website](http://ensemblecaprice.com/en/)
-
 
 ---
 
@@ -58,11 +52,9 @@ Ziya Tabassian, percussion
 
 **<br>There is an additional [family performance in the afternoon]({filename}/2018-2019/EnsembleCapriceFamily.md) and a [lecture demonstration]({filename}/2018-2019/EnsembleCapriceLecture.md) on Friday.**
 
-
 ---
 
 ### About the Musicians
-
 
 Ensemble Caprice has been hailed by the New York Times as “an ensemble, that encourages the listener to rehear the world”.
 
@@ -84,5 +76,4 @@ In the USA the CD Chaconne-Voices of Eternity has been selected CD of the year 2
 
 _Ensemble Caprice is supported by the Conseil des arts et des lettres du Québec_
 
-![ ]({filename}/images/2018-2019/calq-logo.jpg){.floatleft}
-
+![Conseil des arts et des lettres du Québec logo](/images/2018-2019/calq-logo.jpg){.floatleft}

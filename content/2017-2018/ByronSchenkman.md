@@ -4,9 +4,6 @@ Authors: Colin Brislawn
 Slug: byron-schenkman-2018
 Banner: ./images/2017-2018/byron-schenkman-2018-large.jpg
 
-[comment]: # ( [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./ByronSchenkman.md) )
-
-
 #### April 21st, 2018 8:00 pm at Battelle Auditorium
 
 Joshua Romatowski, flute <br>
@@ -16,9 +13,7 @@ Ingrid Matthews, violin <br>
 Nathan Whittaker, cello <br>
 Byron Schenkman, harpsichord
 
-
 [Byron Schenkman website](http://byronschenkman.com/series/)
-
 
 ---
 
@@ -87,7 +82,6 @@ movement, Italian virtuosity in the second, and German *empfindsamkeit* (a
 kind of expressive sensitivity) in the third. Meanwhile Johann Ernst Galliard
 was a German musician who settled in England where he became the
 principal oboist in George Friderick Handel’s opera orchestra.
-
 
 ---
 

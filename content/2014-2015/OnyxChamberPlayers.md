@@ -3,7 +3,7 @@ Date: 2014-10-25
 Authors: Colin Brislawn
 
 
-[![ ]({filename}/images/2014-2015/OnyxMerge200.jpg){:width="200px", .floatleft}]({filename}./OnyxChamberPlayers.md)
+[![ ](/images/2014-2015/OnyxMerge200.jpg){:width="200px", .floatleft}]({filename}./OnyxChamberPlayers.md)
 
 #### October 25, 2014 8:00pm at Battelle Auditorium
 

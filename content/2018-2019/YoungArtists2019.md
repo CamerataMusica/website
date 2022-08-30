@@ -3,8 +3,7 @@ Date: 2019-05-05
 Authors: Colin Brislawn
 Slug: young-artists-2019
 
-
-[![ ]({filename}/images/2018-2019/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./YoungArtists2019.md)
+[![ ](/images/2018-2019/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./YoungArtists2019.md)
 
 #### May 5th, 2019 2:00 pm at [Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
 

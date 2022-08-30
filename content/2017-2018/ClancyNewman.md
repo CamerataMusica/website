@@ -4,16 +4,12 @@ Authors: Colin Brislawn
 Banner: ./images/2017-2018/clancy-newman-cello-large.jpg
 Bannerposition: center
 
-[comment]: # ( [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./ClancyNewman.md) )
-
-
 #### January 27th, 2018 8:00 pm at Battelle Auditorium
 
 Clancy Newman, cello <br>
 Natalie Zhu, piano
 
 [Clancy Newman website](http://www.clancynewman.com/)
-
 
 ---
 

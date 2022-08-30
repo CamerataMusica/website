@@ -2,7 +2,7 @@ Title: Seattle Baroque Orchestra
 Date: 2015-04-12
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/2014-2015/SeattleBaroque300.jpg){:width="200px", .floatleft}]({filename}./SeattleBaroqueOrchestra.md)
+[![ ](/images/2014-2015/SeattleBaroque300.jpg){:width="200px", .floatleft}]({filename}./SeattleBaroqueOrchestra.md)
 
 #### April 12, 2015 3:00pm at Battelle Auditorium
 

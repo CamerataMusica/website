@@ -3,9 +3,6 @@ Date: 2017-11-18
 Authors: Colin Brislawn
 Banner: ./images/2017-2018/soundcounterpoint-large.jpg
 
-[comment]: # ( [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./SoundCounterpoint.md) )
-
-
 #### November 18th, 2017 8:00 pm at Battelle Auditorium
 
 Miyo Aoki, recorder <br>
@@ -14,7 +11,6 @@ Curtis Foster, oboe <br>
 Jonathan Oddie, harpsichord
 
 [sound|counterpoint website](http://soundcounterpoint.org/)
-
 
 ---
 
@@ -43,5 +39,5 @@ Bach Soloists, Pacific Music Works, and Pacific Baroque Orchestra.
 
 This program is supported in part by a grant from [ArtsWa](http://www.arts.wa.gov/) (the [Washington State Arts Commission](http://www.arts.wa.gov/)) and the [National Endowment for the Arts](https://www.arts.gov/).
 
-![ ]({filename}/images/nea-lockup-A-small.jpg){:width="500px"}
-![ ]({filename}/images/TextOnlyAndFullName-HiRes-small.jpg){:width="300px"}
+![ ](/images/nea-lockup-A-small.jpg){:width="500px"}
+![ ](/images/TextOnlyAndFullName-HiRes-small.jpg){:width="300px"}

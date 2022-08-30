@@ -2,7 +2,7 @@ Title: Blue Moon Trio Buxtehude: The Fantastic Style
 Date: 2015-03-28
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/2014-2015/Merge400.jpg){:width="200px", .floatleft}]({filename}./BlueMoonTrio.md)
+[![ ](/images/2014-2015/Merge400.jpg){:width="200px", .floatleft}]({filename}./BlueMoonTrio.md)
 
 #### March 28, 2015 8:00pm at Battelle Auditorium
 

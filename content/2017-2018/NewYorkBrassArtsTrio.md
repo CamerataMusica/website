@@ -3,9 +3,6 @@ Date: 2017-10-28
 Authors: Colin Brislawn
 Banner: ./images/2017-2018/new-york-brass-arts-trio-large.jpg
 
-[comment]: # ( [![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./NewYorkBrassArtsTrio.md) )
-
-
 #### October 28th, 2017 8:00 pm at Battelle Auditorium
 
 Joe Burgstaller, trumpet <br>
@@ -31,7 +28,6 @@ This concert is made possible in part by a grant from Battelle.
 | Bela Bartok                         | Romanian Folk Dances <br> *Stick Dance* <br> *Sash Dance* <br> *In One Spot* <br> *Dance from Bucsum* <br> *Romanian Polka* <br> *Fast Dance* |
 | Chick Corea (b.1941) (Arr. Burgstaller) | Three Children’s Songs |
 | Astor Piazzola (arr. Burgstaller)       | Libertango |
-
 
 ---
 

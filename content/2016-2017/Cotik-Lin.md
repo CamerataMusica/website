@@ -3,7 +3,7 @@ Date: 2017-04-22
 Authors: Colin Brislawn
 Banner: ./images/2016-2017/cotiklin-duo-large.jpg
 
-[![ ]({filename}/images/2016-2017/cotiklin-duo400.jpg){:width="200px", .floatleft}]({filename}./Cotik-Lin.md)
+[![ ](/images/2016-2017/cotiklin-duo400.jpg){:width="200px", .floatleft}]({filename}./Cotik-Lin.md)
 
 #### April 22nd, 2017 8:00 pm at Battelle Auditorium
 

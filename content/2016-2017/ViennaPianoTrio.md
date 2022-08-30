@@ -3,7 +3,7 @@ Date: 2016-10-22
 Authors: Colin Brislawn
 Banner: ./images/2016-2017/the-vienna-piano-trio-large.jpg
 
-[![ ]({filename}/images/2016-2017/the-vienna-piano-trio400.jpg){:width="200px", .floatleft}]({filename}./ViennaPianoTrio.md)
+[![ ](/images/2016-2017/the-vienna-piano-trio400.jpg){:width="200px", .floatleft}]({filename}./ViennaPianoTrio.md)
 
 #### October 22nd, 2016 8:00pm at Battelle Auditorium
 

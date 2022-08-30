@@ -3,7 +3,7 @@ Date: 2016-09-24
 Authors: Colin Brislawn
 Banner: ./images/2016-2017/BaltimoreConsortLarge.jpg
 
-[![ ]({filename}/images/2016-2017/BaltimoreConsort400.jpg){:width="200px", .floatleft}]({filename}./BaltimoreConsort.md)
+[![ ](/images/2016-2017/BaltimoreConsort400.jpg){:width="200px", .floatleft}]({filename}./BaltimoreConsort.md)
 
 #### September 24th, 2016 8:00pm at Battelle Auditorium
 
@@ -37,7 +37,7 @@ Besides touring in the U.S. and abroad, they often perform on such syndicated ra
 Sunday, Performance Today, Harmonia_ and the CBC’s _OnStage_.
 
 ### Program Notes
-Download the [Program Notes (PDF)]({filename}/images/2016-2017/ProgramNotesBaltimoreConsort.pdf). These notes contain
+Download the [Program Notes (PDF)](/images/2016-2017/ProgramNotesBaltimoreConsort.pdf). These notes contain
 
 - Full Program
 - Detailed Artist Biographies
@@ -50,8 +50,8 @@ Download the [Program Notes (PDF)]({filename}/images/2016-2017/ProgramNotesBalti
 
 This program is supported in part by a grant from [ArtsWa](http://www.arts.wa.gov/) (the [Washington State Arts Commission](http://www.arts.wa.gov/)) and the [National Endowment for the Arts](https://www.arts.gov/).
 
-![ ]({filename}/images/nea-lockup-A-small.jpg){:width="500px"}
-![ ]({filename}/images/TextOnlyAndFullName-HiRes-small.jpg){:width="300px"}
+![NEA logo](/images/nea-lockup-A-small.jpg){:width="500px"}
+![ArtsWA logo](/images/TextOnlyAndFullName-HiRes-small.jpg){:width="300px"}
 
 
 ##### Photo Credit: James Skaggs

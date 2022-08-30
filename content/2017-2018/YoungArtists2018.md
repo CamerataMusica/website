@@ -3,10 +3,10 @@ Date: 2018-05-06
 Authors: Colin Brislawn
 Slug: young-artists-2018
 
+[![ ](/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./YoungArtists2018.md)
 
-[![ ]({filename}/images/2017-2018/YoungArtists400.jpg){:width="200px", .floatleft}]({filename}./YoungArtists2018.md)
+#### May 6th, 2018 2:00 pm at
 
-#### May 6th, 2018 2:00 pm at <br>
 The Gallery at the Richland Public Library <br>
 955 Northgate Dr, Richland, WA 99352 ([map](https://www.google.com/maps/place/Richland+Public+Library/@46.279784,-119.278918,15z/data=!4m5!3m4!1s0x0:0xf2400b4831762b5a!8m2!3d46.279784!4d-119.278918))
 
@@ -31,8 +31,6 @@ The Gallery at the Richland Public Library <br>
 | Sofia Marina             | Edvard Grieg: Piano Sonata in E minor, Op. 7, I. Allegro Moderato   |
 | Audrey Xu                | W. A. Mozart: Fantasie                                              |
 | Ourania Glezakou-Elbert  | V. Kalinnikov: Elégie                                               |
-
-
 
 ---
 

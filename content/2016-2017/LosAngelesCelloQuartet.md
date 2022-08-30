@@ -3,7 +3,7 @@ Date: 2016-11-19
 Authors: Colin Brislawn
 Banner: ./images/2016-2017/the-los-angeles-cello-quartet-large.jpg
 
-[![ ]({filename}/images/2016-2017/the-los-angeles-cello-quartet400.jpg){:width="200px", .floatleft}]({filename}./LosAngelesCelloQuartet.md)
+[![ ](/images/2016-2017/the-los-angeles-cello-quartet400.jpg){:width="200px", .floatleft}]({filename}./LosAngelesCelloQuartet.md)
 
 #### November 19th, 2016 8:00pm at Battelle Auditorium
 

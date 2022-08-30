@@ -2,8 +2,7 @@ Title: Rose City Trio
 Date: 2018-03-24
 Authors: Colin Brislawn
 
-[![ ]({filename}/images/2017-2018/rose-city-trio-400.jpg){:width="200px", .floatleft}]({filename}./RoseCityTrio.md)
-
+[![ ](/images/2017-2018/rose-city-trio-400.jpg){:width="200px", .floatleft}]({filename}./RoseCityTrio.md)
 
 #### March 24th, 2018 8:00 pm at Battelle Auditorium
 
