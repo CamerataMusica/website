@@ -102,10 +102,10 @@ The Brasil Guitar Duo, winner of the 2006 Concert Artists Guild International Co
 
 **dedicated to the Brasil Guitar Duo
 
-This program is supported, in part, by a grant from the Washington State Arts Commission (now also known as “ArtsWA”) and the National Endowment for the Arts.
+This program is supported, in part, by a grant from the Washington State Arts Commission and the National Endowment for the Arts.
 
-![ ]({filename}/images/nea-lockup-A.jpg){:width="400px"}
-![ ]({filename}/images/StateAndFullName-HiRes.jpg){:width="350px"}
+![Washington State Arts Commission logo](/images/TextOnlyAndFullName-HiRes-small.jpg){:width="350px"}
+![National Endowment for the Arts logo](/images/nea-lockup-A-small.jpg){:width="400px"}
 
 The Brasil Guitar Duo appears by arrangement with Sciolino Artist Management.
 
