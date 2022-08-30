@@ -1,10 +1,8 @@
 Title: Fandango!
 Date: 2023-02-25
 Authors: Colin Brislawn
-<!-- Banner: ./images/2022-2023/CanovaWinds-large.jpg
-Bannerposition: top -->
-
-[comment]: # ( [![ ]({filename}/images/2022-2023/BalourdetQuartet-400.jpg){:width="200px", .floatleft}]({filename}./BalourdetQuartet.md) )
+Banner: images/2022-2023/Fandango-large.jpg
+Bannerposition: top
 
 #### Sat, February 25, 2023
 

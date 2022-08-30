@@ -1,10 +1,8 @@
 Title: Canova Winds
 Date: 2022-09-24
 Authors: Colin Brislawn
-<!-- Banner: ./images/2022-2023/CanovaWinds-large.jpg
-Bannerposition: top -->
-
-[comment]: # ( [![ ]({filename}/images/2022-2023/CanovaWinds-400.jpg){:width="200px", .floatleft}]({filename}./CanovaWinds.md) )
+Banner: /images/2022-2023/CanovaWinds-large.jpg
+Bannerposition: top
 
 #### Sat, September 24, 2022
 

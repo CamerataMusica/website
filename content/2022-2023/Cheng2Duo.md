@@ -2,8 +2,8 @@ Title: Cheng² Duo
 Date: 2023-01-14
 Authors: Colin Brislawn
 Slug: Cheng-2-Duo
-<!-- Banner: ./images/2022-2023/CanovaWinds-large.jpg
-Bannerposition: top -->
+Banner: images/2022-2023/Cheng2Duo-large.jpg
+Bannerposition: top
 
 [comment]: # ( [![ ]({filename}/images/2022-2023/BalourdetQuartet-400.jpg){:width="200px", .floatleft}]({filename}./BalourdetQuartet.md) )
 

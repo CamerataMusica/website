@@ -1,10 +1,8 @@
 Title: Balourdet Quartet
 Date: 2022-10-22
 Authors: Colin Brislawn
-<!-- Banner: ./images/2022-2023/CanovaWinds-large.jpg
-Bannerposition: top -->
-
-[comment]: # ( [![ ]({filename}/images/2022-2023/BalourdetQuartet-400.jpg){:width="200px", .floatleft}]({filename}./BalourdetQuartet.md) )
+Banner: images/2022-2023/BalourdetQuartet-large.jpg
+Bannerposition: top
 
 #### Sat, October 22, 2022
 
