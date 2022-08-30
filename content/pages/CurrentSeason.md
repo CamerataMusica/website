@@ -1,5 +1,5 @@
 Title: Current Season
-Date: 1999-01-01
+Date: 2022-01-01
 Authors: Colin Brislawn
 <!--
 Template: article_list
