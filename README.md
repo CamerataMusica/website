@@ -9,8 +9,8 @@ This is built with [Pelican](http://docs.getpelican.com/) and deployed to GitHub
 Here's how to set up the build environment:
 
 ```bash
-conda create --name pelican472 python=3.7 pelican ghp-import markdown
-conda activate pelican472
+conda create --name pelican480 python=3.7 pelican=4.8.0 ghp-import markdown
+conda activate pelican480
 ```
 
 Here's how to test the site locally (Linux):
