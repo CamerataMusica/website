@@ -1,3 +1,2 @@
-python==3
 pelican==4.8.0
 Markdown
