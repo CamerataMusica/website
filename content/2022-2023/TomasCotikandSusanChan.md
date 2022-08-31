@@ -1,8 +1,8 @@
 Title: Tomás Cotik/Susan Chan
 Date: 2023-04-22
 Authors: Colin Brislawn
-<!-- Banner: ./images/2022-2023/CanovaWinds-large.jpg
-Bannerposition: top -->
+Banner: images/2022-2023/TomasCotikandSusanChan-large.jpg
+Bannerposition: top
 
 [comment]: # ( [![ ]({filename}/images/2022-2023/BalourdetQuartet-400.jpg){:width="200px", .floatleft}]({filename}./BalourdetQuartet.md) )
 
