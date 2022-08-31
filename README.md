@@ -6,20 +6,14 @@ This is built with [Pelican](http://docs.getpelican.com/) and deployed to GitHub
 
 ---
 
-Here's how to set up the build environment:
+Here's how to set up the build environment (Linux, OSX, WSL):
 
 ```bash
 conda create --name pelican480 python=3.7 pelican=4.8.0 ghp-import markdown
 conda activate pelican480
 ```
 
-Here's how to test the site locally (Linux):
-
-```bash
-pelican -lr & sleep 2; open http://127.0.0.1:8000/
-```
-
-Then view your preview here: [http://127.0.0.1:8000](http://127.0.0.1:8000)
+Then run `pelican -lr` to build the site and serve it at [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ---
 
