@@ -65,9 +65,9 @@ LOAD_CONTENT_CACHE = True
 GZIP_CACHE = False
 
 
-STATIC_PATHS = ['images', 'pages', 'CamerataMusica/images', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
-
+STATIC_PATHS = ['images', 'pages', 'root']
+EXTRA_PATH_METADATA = {'root': {'path': ''}} # Put root in root of output
+ARTICLE_EXCLUDES = ['root'] # Don't try to render root files
 
 SUMMARY_MAX_LENGTH = 20
 
