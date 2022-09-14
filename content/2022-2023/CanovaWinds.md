@@ -10,7 +10,7 @@ Bannerposition: top
 
 #### Evening Concert: 7:30PM
 
-#### [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+#### [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
 Joshua Romatowski, flute <br>
 Sand Dalton, oboe  <br>

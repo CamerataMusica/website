@@ -7,7 +7,7 @@ Bannerposition: top
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
 
-#### February 23, 2019 4:00 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+#### February 23, 2019 4:00 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
 **This performance is in addition to the [evening performance]({filename}/2018-2019/EnsembleCaprice.md) and the [lecture demonstration]({filename}/2018-2019/EnsembleCapriceLecture.md) **
 

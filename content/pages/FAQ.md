@@ -24,7 +24,7 @@ seated.
 ### Where are the concerts held?
 
 Beginning with the 2018-19 season, Camerata concerts will be held
-either at the [Columbia Basin College (CBC) Performance Theatre](https://goo.gl/maps/BZDawJuNMRM2) on
+either at the [Columbia Basin College (CBC) Performance Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6) on
 the Pasco campus  (2600 N 20th Ave, Pasco, WA 99301) or at
 [Kennewick First Presbyterian Church]((https://goo.gl/maps/quHQSkdBnScDHqh26)) in Kennewick (2001 W
 Kennewick Ave, Kennewick, WA 99336.)

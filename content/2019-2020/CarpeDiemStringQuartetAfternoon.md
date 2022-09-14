@@ -4,7 +4,7 @@ Authors: Colin Brislawn
 
 ![ ](/images/2019-2020/cameron-bennett-small.jpg){:width="200px", .floatright}
 
-#### January 25, 2020 4:00 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+#### January 25, 2020 4:00 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
 **This performance is in addition to the [evening performance]({filename}/2019-2020/CarpeDiemStringQuartet.md) at 7:30 PM**
 

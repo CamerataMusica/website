@@ -7,7 +7,7 @@ Slug: baltimore-consort-2019
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
-#### September 28, 2019 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+#### September 28, 2019 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
 Mary Ann Ballard (viol, rebec) <br>
 Mark Cudek (Cittern, Viol, Crumhorn, Recorder &amp; Whistle, Renaissance Guitar, Percussion) <br>

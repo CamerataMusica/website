@@ -14,7 +14,7 @@ Sat, September 24, 2022
 
 Family Concert: 4:00PM and Evening Concert: 7:30PM at
 
-[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
 ---
 
@@ -50,7 +50,7 @@ Sat, January 14, 2023
 
 7:30 PM
 
-[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
 ---
 
@@ -62,7 +62,7 @@ Sat, February 25, 2023
 
 7:30 PM
 
-[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
 ---
 
@@ -74,7 +74,7 @@ Sat, March 25, 2023
 
 7:30 PM
 
-[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+[Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
 ---
 

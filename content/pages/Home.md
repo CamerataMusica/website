@@ -65,7 +65,7 @@ Be sure to check back (or [sign up for our email list](http://eepurl.com/cD1Zvv)
     </a>
     <figcaption>
         Sat, September 24, 2022, 4:00 and 7:00 pm<br>
-        <a href="https://goo.gl/maps/BZDawJuNMRM2">Columbia Basin College, Performing Arts Theatre</a>
+        <a href="https://goo.gl/maps/kNZ4DFSqJUNVorCE6">Columbia Basin College, Performing Arts Theatre</a>
     </figcaption>
 </figure>
 

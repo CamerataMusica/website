@@ -8,7 +8,7 @@ Bannerposition: center
 
 #### 7:30 PM
 
-#### [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+#### [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
 Eva Schaumkell, piano <br>
 Vijay Venkatesh, piano

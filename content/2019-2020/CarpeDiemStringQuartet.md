@@ -6,7 +6,7 @@ Bannerposition: top
 
 ![ ]({static}/images/2019-2020/cameron-bennett-small.jpg){:width="200px", .floatright}
 
-#### January 25, 2020 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+#### January 25, 2020 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
 **There is an additional [family performance in at 4:00 PM]({filename}/2019-2020/CarpeDiemStringQuartetAfternoon.md)**
 

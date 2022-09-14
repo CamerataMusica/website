@@ -6,7 +6,7 @@ Bannerposition: top
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
-#### February 22, 2020 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+#### February 22, 2020 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
 Dorival Puccini, Jr. (Trunpet) <br>
 Michael Hawes (Trunpet) <br>

@@ -7,7 +7,7 @@ Bannerposition: top
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
 
-#### April 27, 2019 7:30 pm at [Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
+#### April 27, 2019 7:30 pm at [Kennewick First Presbyterian Church](https://goo.gl/maps/quHQSkdBnScDHqh26)
 
 Paul O’Dette <br>
 Ronn McFarlane

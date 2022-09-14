@@ -4,7 +4,7 @@ Authors: Colin Brislawn
 Banner: ./images/2018-2019/Ensemble-Caprice-large.jpg
 Bannerposition: top
 
-#### February 23, 2019 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+#### February 23, 2019 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
 **There is an additional [family performance in the afternoon]({filename}/2018-2019/EnsembleCapriceFamily.md) and a [lecture demonstration]({filename}/2018-2019/EnsembleCapriceLecture.md) on Friday.**
 

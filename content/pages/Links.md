@@ -16,7 +16,7 @@ Authors: Colin Brislawn
 
 ### Maps and directions
 
-[Columbia Basin College, Performing Arts Theatre (Google Maps)](https://goo.gl/maps/BZDawJuNMRM2)
+[Columbia Basin College, Performing Arts Theatre (Google Maps)](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
 [Kennewick First Presbyterian Church (Google Maps)](https://goo.gl/maps/quHQSkdBnScDHqh26)
 

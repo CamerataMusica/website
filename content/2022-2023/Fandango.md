@@ -8,7 +8,7 @@ Bannerposition: top
 
 #### 7:30 PM
 
-#### [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/BZDawJuNMRM2)
+#### [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
 Eugenia Moliner, flute <br>
 Denis Azabagic, guitar <br>
