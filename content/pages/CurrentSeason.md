@@ -26,7 +26,7 @@ Sat, October 22, 2022
 
 7:30 PM
 
-[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
+[Kennewick First Presbyterian Church](https://goo.gl/maps/quHQSkdBnScDHqh26)
 
 ---
 
@@ -38,7 +38,7 @@ Sat, November 19, 2022
 
 7:30 PM
 
-[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
+[Kennewick First Presbyterian Church](https://goo.gl/maps/quHQSkdBnScDHqh26)
 
 ---
 
@@ -86,7 +86,7 @@ Sat, April 22, 2023
 
 7:30 PM
 
-[Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
+[Kennewick First Presbyterian Church](https://goo.gl/maps/quHQSkdBnScDHqh26)
 
 <style>
 .entry-content a img {

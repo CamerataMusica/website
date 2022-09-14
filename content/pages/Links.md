@@ -18,7 +18,7 @@ Authors: Colin Brislawn
 
 [Columbia Basin College, Performing Arts Theatre (Google Maps)](https://goo.gl/maps/BZDawJuNMRM2)
 
-[Kennewick First Presbyterian Church (Google Maps)](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
+[Kennewick First Presbyterian Church (Google Maps)](https://goo.gl/maps/quHQSkdBnScDHqh26)
 
 ---
 

@@ -8,7 +8,7 @@ Bannerposition: top
 
 #### 7:30 PM
 
-#### [Kennewick First Presbyterian Church](https://www.google.com/maps/place/Kennewick+First+Presbyterian+Church)
+#### [Kennewick First Presbyterian Church](https://goo.gl/maps/quHQSkdBnScDHqh26)
 
 Angela Bae, violin <br>
 Justin DeFilippis, violin <br>
