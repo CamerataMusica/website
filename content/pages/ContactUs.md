@@ -9,7 +9,7 @@ Authors: Colin Brislawn
 	PO Box 615
 	Richland WA 99352
 
-Or you may contact the Board chair by phone (509-946-1175) or email ([cndorans@charter.net](mailto:cndorans@charter.net))
+Or you may contact the Board chair by phone (509-904-0073) or email ([info@cameratamusica.com](mailto:info@cameratamusica.com))
 
 You can contact the webmaster by email: [colin@cameratamusica.com](mailto:colin@cameratamusica.com). 
 

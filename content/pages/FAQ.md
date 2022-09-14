@@ -23,11 +23,8 @@ seated.
 
 ### Where are the concerts held?
 
-Beginning with the 2018-19 season, Camerata concerts will be held
-either at the [Columbia Basin College (CBC) Performance Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6) on
-the Pasco campus  (2600 N 20th Ave, Pasco, WA 99301) or at
-[Kennewick First Presbyterian Church]((https://goo.gl/maps/quHQSkdBnScDHqh26)) in Kennewick (2001 W
-Kennewick Ave, Kennewick, WA 99336.)
+Camerata concerts will be held either at the [Columbia Basin College (CBC) Arts Center](https://www.cbcartscenter.com/) on the Pasco campus (2600 N. 20th Ave. P Building, Pasco, WA 99301) ([see map](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)) or at [Kennewick First Presbyterian Church](https://www.kfpc.org) in Kennewick (2001 W.
+Kennewick Ave., Kennewick, WA 99336) (see [map](https://goo.gl/maps/quHQSkdBnScDHqh26)).
 
 ### Can I bring my children to the concert?
 
@@ -77,13 +74,9 @@ Camerata sends a letter each fall announcing the upcoming season’s concerts. D
 
 Every January, Camerata’s selection committee begins the process of choosing artists and programs for the following season.
 
-Musicians interested in performing on the series should send information about themselves, including a sample or proposed program and an artistic sample to Camerata Musica, PO Box 615, Richland WA 99352, or by email to [cndorans@charter.net](mailto:cndorans@charter.net).
+Musicians interested in performing on the series should send information about themselves, including a sample or proposed program and an artistic sample to Camerata Musica, PO Box 615, Richland WA 99352, or by email to [info@cameratamusica.com](mailto:info@cameratamusica.com).
 
 Submissions will not be returned unless accompanied by a stamped self-addressed envelope.
-
-### I’m a local music student. How can I be considered for your Young Artists of Distinction concert?
-
-Early each spring, Camerata sends nomination forms for the Young Artists concert to local music teachers so the first thing you should do is talk to your teacher. If your teacher is not local or is new to the area, he/she can contact us about getting a copy of the nomination packet.
 
 ### How do I become a patron?
 
