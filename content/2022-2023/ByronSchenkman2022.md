@@ -2,10 +2,10 @@ Title: Byron Schenkman & Friends
 Date: 2022-11-19
 Authors: Colin Brislawn
 Slug: byron-schenkman-2022
-<!-- Banner: ./images/2022-2023/CanovaWinds-large.jpg
-Bannerposition: top -->
 
-[comment]: # ( [![ ]({filename}/images/2022-2023/BalourdetQuartet-400.jpg){:width="200px", .floatleft}]({filename}./BalourdetQuartet.md) )
+![Byron Schenkman](/images/2022-2023/bs1.jpg){:width="30%"}
+![Anna Okada](/images/2022-2023/bs2.jpg){:width="30%"}
+![Sarah Rommel](/images/2022-2023/bs3.jpg){:width="30%"}
 
 #### Sat, November 19, 2022
 
