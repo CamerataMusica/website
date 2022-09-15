@@ -1,10 +1,28 @@
 <footer>
    <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
       <hr>
+
       <div class="row">
-         <div class="col-xs-10">&copy; {{ DCOPY_DATE }} {{ AUTHOR }}
+         <div class="col-xs-10">
+            &copy; {{ DCOPY_DATE }} {{ AUTHOR }}
+            &middot;
+            PO Box 615, Richland WA 99352
+            &middot;
+            <a href="mailto:info@cameratamusica.com">info@cameratamusica.com</a>
+         </div>
+         <div class="col-xs-2">
+            <p class="pull-right">
+               <a href="https://www.facebook.com/pages/Camerata-Musica-Richland/226889204035616/">
+                  Follow us on Facebook
+               </a>
+            </p>
+         </div>
+      </div>
+
+      <div class="row">
+         <div class="col-xs-10">
             
-			&middot; Powered by <a href="http://docs.getpelican.com/" target="_blank">Pelican</a> and
+			Powered by <a href="http://docs.getpelican.com/" target="_blank">Pelican</a> and
 			<a href="https://github.com/features/actions" target="_blank">GitHub Actions</a>
 			
 			&middot; Developed by <a href="https://github.com/colinbrislawn/CamerataMusica">@colinbrislawn</a>
@@ -13,8 +31,10 @@
               {% from 'includes/cc-license.html' import cc_license_mark %}
               <p><small>{{ cc_license_mark(cc_name=CC_LICENSE,derivatives=CC_LICENSE_DERIVATIVES,commercial=CC_LICENSE_COMMERCIAL,attr_markup=CC_ATTR_MARKUP,attr_props={'title':SITENAME,'name':article.author if article else AUTHOR,'url':SITEURL}) }}</small></p>
             {% endif %}
+
          </div>
          <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
       </div>
+
    </div>
 </footer>

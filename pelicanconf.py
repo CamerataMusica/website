@@ -30,6 +30,7 @@ MENUITEMS = (
     #('Current Season', 'https://colinbrislawn.github.io/CamerataMusica/seasons/current-season.html'),
 )
 
+HIDE_SIDEBAR = True
 
 # Blogroll
 LINKS = (
