@@ -32,7 +32,7 @@ Be sure to check back (or [sign up for our email list](http://eepurl.com/cD1Zvv)
 <tr class="even">
 <td style="text-align: center;"><strong><a href="./canova-winds.html">Canova Winds</a></strong><br/> <em>September 24, 2022, 4:00 &amp; 7:30PM</em><br/> <strong><em>Special family concert at 4:00 PM</em></strong><br/> <em>Columbia Basin College Arts Center</em><br/><br/></td>
 <td style="text-align: center;"><strong><a href="./balourdet-quartet.html">Balourdet Quartet</a></strong><br/> <em>October 22, 2022, 7:30 PM</em><br/> <em>Kennewick First Presbyterian Church</em><br/> <br/><br/></td>
-<td style="text-align: center;"><strong><a href="./byron-schenkman-2022.html">Byron Schenkman &amp; Friends</a></strong><br/> <em>November 11, 2022, 7:30 PM</em><br/> <em>Kennewick First Presbyterian Church</em><br/> <br/><br/></td>
+<td style="text-align: center;"><strong><a href="./byron-schenkman-2022.html">Byron Schenkman &amp; Friends</a></strong><br/> <em>November 19, 2022, 7:30 PM</em><br/> <em>Kennewick First Presbyterian Church</em><br/> <br/><br/></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><a href="./Cheng-2-Duo.html"><img alt="Cheng² Duo, back to back" src="/images/2022-2023/Cheng2Duo-small.jpg"/></a></td>
