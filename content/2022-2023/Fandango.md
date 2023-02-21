@@ -10,10 +10,10 @@ Bannerposition: top
 
 #### [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
-Eugenia Moliner, flute <br>
-Denis Azabagic, guitar <br>
-Blaise Magnière, violin <br>
-Cheng-Hou Lee, cello
+Eugenia Moliner, flute <br/>
+Denis Azabagic, guitar <br/>
+Blaise Magnière, violin <br/>
+Cheng-Hou Lee, cello <br/>
 
 [Fandango! website](https://www.chambermuse.com/fandango)
 
@@ -23,19 +23,18 @@ Photo credit: Ryan Bennett
 
 ### Program
 
-Telemann: *Tafelmusik*
+Antonio Vivaldi (arr. Fandango!): *L'Inverno (Winter)* from *Le quattro stagioni (The Four Seasons)* 
 
-Alan Thomas: *Trio Sefardí*
+Luigi Boccherini (arr. Fandango!): *Grave assai-Fandano* from *Quintet for Guitar and Strings in D Major* 
 
-Tadic: *Three Macedonian Pieces*
+Miroslav Tadic (arr. Fandano!): *Three Balkan Pieces* 
 
-De Falla: *Siete canciones populares (excerpts)*
+Manuel de Falla (arr. Fandango!): *Danza Española* from *La Vida Breve* 
 
-Verdi (arr. Alan Thomas): *Traviata Fantasy*
+Carlos Rafael Rivera: *Plegaria y Canto (Al Bodre de la Mar)* 
 
-Bizet (arr. Alan Thomas): *Carmet Fantasy*
+Alan Thomas: *Fantasy on Themes from the Opera "Carmen"* 
 
-Boccherini: *Fandango (from Quintet for guitar and strings)*
 
 <!--
 ---
