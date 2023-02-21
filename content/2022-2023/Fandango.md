@@ -23,6 +23,7 @@ Photo credit: Ryan Bennett
 
 ### Program
 
+
 Antonio Vivaldi (arr. Fandango!): *L'Inverno (Winter)* from *Le quattro stagioni (The Four Seasons)* 
 
 Luigi Boccherini (arr. Fandango!): *Grave assai-Fandano* from *Quintet for Guitar and Strings in D Major* 
