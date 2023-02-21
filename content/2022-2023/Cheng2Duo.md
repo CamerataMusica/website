@@ -13,7 +13,7 @@ Bannerposition: top
 
 #### [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
-Silvie Cheng, piano <br>
+Silvie Cheng, piano <br/>
 Bryan Cheng, cello
 
 [Cheng² Duo website](https://www.cheng2duo.com/)
@@ -26,17 +26,9 @@ Photo credit: Uwe Arens
 
 #### European Excursion
 
-Arvo Pärt: *Fratres* <br>
-Johannes Brahms: *Sonata No. 1 for Cello and Piano in E Minor, Op. 38* <br>
-Antonín Dvořák: *Silent Woods, Op. 68 No. 5, B. 173 (from From the Bohemian Forest)* <br>
+Johannes Brahms: *Sonata No. 1 for Cello and Piano in E Minor, Op. 38* <br/>
+David Popper: *Hungarian Rhapsody, Op. 68* <br/>
+Antonín Dvořák: *Silent Woods, Op. 68 No. 5, B. 173 (from From the Bohemian Forest)* <br/>
 Antonín Dvořák: *Rondo, Op. 94, B. 171* <br>
 Sergei Prokofiev: *Sonata for Cello and Piano in C Major, Op. 119*
 
-<!--
----
-
-### Performer Biographies
-
-[Axiom Brass bios (Word Document)]({attach}/2022-2023/Axiom bios.docx)
-
--->
