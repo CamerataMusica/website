@@ -10,7 +10,7 @@ Bannerposition: center
 
 #### [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 
-Eva Schaumkell, piano <br>
+Eva Schaumkell, piano <br/>
 Vijay Venkatesh, piano
 
 [Vieness Piano Duo website](https://www.vienesspianoduo.com)
@@ -21,13 +21,14 @@ Photo credit: Mark Harry Westling
 
 ### Program
 
+
 Johann Sebastian Bach (arr. Mary Howe): *Sheep May Safely Graze, BWV 208*
 
 Johannes Brahms: *Hungarian Dances, WoO 1*
 
 Franz Schubert: *Fantasie in F-minor, D. 940*
 
-Frédéric Chopin: *Ballade No. 3 in A-flat Major, Op. 47*
+Frédéric Chopin: *Barcarolle in F-sharp Major, Op. 60*
 
 Sergei Rachmaninoff: *Selections from Six Moments Musicaux, Op. 16*
 
