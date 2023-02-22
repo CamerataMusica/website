@@ -96,7 +96,7 @@ Be sure to check back (or [sign up for our email list](http://eepurl.com/cD1Zvv)
 
   .season-container {
   display: grid;
-  grid-template-columns:  repeat(auto-fit, minmax(280px, 360px));
+  grid-template-columns:  repeat(auto-fit, minmax(280px, 300px));
   grid-auto-flow: row;
   justify-content: start;
   
@@ -188,7 +188,7 @@ We look forward to having you join us for another season of chamber music.
 
 .entry-content a img,
 .entry-content a img:hover {
-    width: 270px;
+    width: 280px;
     margin-right: 5px;
     margin-bottom: 10px;
     text-decoration: none;
