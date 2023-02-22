@@ -17,6 +17,104 @@ Be sure to check back (or [sign up for our email list](http://eepurl.com/cD1Zvv)
 
 ### View our [2022-2023 Season]({filename}/pages/CurrentSeason.md)
 
+
+<div class="season-container">
+
+  <div class="season-cell">
+    <a href="./canova-winds.html"><img alt="Canova Winds photo" src="/images/2022-2023/CanovaWinds-small.jpg"/></a>
+    <p>
+      <strong><a href="./canova-winds.html">Canova Winds</a></strong><br/> <em>September 24, 2022, 4:00 &amp; 7:30PM</em><br/> 
+      <strong><em>Family concert at 4:00 PM</em></strong><br/> 
+      <em>Columbia Basin College Arts Center</em><br/>
+      <br/>
+    </p>
+  </div>
+  
+  <div class="season-cell">
+    <a href="./balourdet-quartet.html"><img alt="Balourdet Quartet photo" src="/images/2022-2023/BalourdetQuartet-small.jpg"/></a>
+    <p>
+      <strong><a href="./balourdet-quartet.html">Balourdet Quartet</a></strong><br/> 
+      <em>October 22, 2022, 7:30 PM</em><br/> <em>Kennewick First Presbyterian Church</em><br/> 
+      <br/>
+      <br/>
+    </p>
+  </div>
+  
+  <div class="season-cell">
+    <a href="./byron-schenkman-2022.html"><img alt="Byron Schenkman at" src="/images/2022-2023/ByronSchenkman-small.jpg"/></a>
+    <p>
+    <strong><a href="./byron-schenkman-2022.html">Byron Schenkman &amp; Friends</a></strong><br/> 
+    <em>November 11, 2022, 7:30 PM</em><br/> <em>Kennewick First Presbyterian Church</em><br/> 
+    <br/>
+    <br/>
+    </p>
+  </div>
+
+  <div class="season-cell">
+    <a href="./Cheng-2-Duo.html"><img alt="Cheng² Duo, back to back" src="/images/2022-2023/Cheng2Duo-small.jpg"/></a>
+    <p>
+      <strong><a href="./Cheng-2-Duo.html">Cheng² Duo</a></strong><br/> 
+      <em>January 14, 2023, 7:30PM</em><br/> 
+      <em>Columbia Basin College Arts Center</em><br/>
+      <br/>
+    </p>
+  </div>
+  
+  <div class="season-cell">
+    <a href="./fandango.html"><img alt="Fandango group photo" src="/images/2022-2023/Fandango-small.jpg"/></a>
+    <p>
+      <strong><a href="./fandango.html">Fandango!</a></strong><br/> 
+      <em>February 25, 2023, 7:30 PM</em><br/> 
+      <em>Columbia Basin College Arts Center</em><br/>
+      <br/>
+    </p>
+  </div>
+  
+  <div class="season-cell">
+    <a href="./vieness-piano-duo.html"><img alt="Vieness Piano Duo back to back at pianos" src="/images/2022-2023/VienessPianoDuo-small.jpg"/></a>
+    <p>
+      <strong><a href="./vieness-piano-duo.html">Vieness Piano Duo</a></strong><br/> 
+      <em>March 25, 2023, 7:30 PM</em><br/> 
+      <em>Columbia Basin College Arts Center</em><br/>
+      <br/>
+    </p>
+  </div>
+
+  <div class="season-cell">
+    <a href="./tomas-cotiksusan-chan.html"><img alt="Tomás Cotik and Susan Chan" src="/images/2022-2023/TomasCotikandSusanChan-small.jpg"/></a>
+    <p>
+      <strong><a href="./tomas-cotiksusan-chan.html">Tomás Cotik and Susan Chan</a></strong><br/> 
+      <em>April 22, 2023, 7:30 PM</em><br/> 
+      <em>Kennewick First Presbyterian Church</em><br/>
+      <br/>
+    </p>
+    </div>
+  
+</div>
+
+<style>
+
+  .season-container {
+  display: grid;
+  grid-template-columns:  repeat(auto-fit, minmax(280px, 360px));
+  grid-auto-flow: row;
+  justify-content: start;
+  
+  
+  }
+  .season-cell {
+  padding: 2px;
+    text-align: center;
+    margin-bottom: 10px;
+    text-decoration: none;
+    border-bottom: none;
+
+  }
+
+</style>
+
+
+<!--
 <table>
 <colgroup>
 <col style="width: 33%"/>
@@ -56,28 +154,9 @@ Be sure to check back (or [sign up for our email list](http://eepurl.com/cD1Zvv)
 </tr>
 </tbody>
 </table>
+-->
 
 <!--
-# Images as as <figures>
-<figure>
-    <a href="{filename}/2022-2023/CanovaWinds.md">
-      <img src="/images/2022-2023/CanovaWinds-small.jpg" alt="Canova Winds photo">
-    </a>
-    <figcaption>
-        Sat, September 24, 2022, 4:00 and 7:00 pm<br>
-        <a href="https://goo.gl/maps/kNZ4DFSqJUNVorCE6">Columbia Basin College, Performing Arts Theatre</a>
-    </figcaption>
-</figure>
-
-<figure>
-    <a href="{filename}/2022-2023/BalourdetQuartet.md">
-      <img src="/images/2022-2023/BalourdetQuartet-small.jpg" alt="Balourdet Quartet photo">
-    </a>
-    <figcaption>
-    Sat, October 22, 2022, 7:30 PM <br>
-    <a href="https://goo.gl/maps/quHQSkdBnScDHqh26">Kennewick First Presbyterian Church</a>
-</figcaption>
-</figure>
 
 # Simple list of images
 
@@ -87,11 +166,6 @@ Be sure to check back (or [sign up for our email list](http://eepurl.com/cD1Zvv)
 [![Vieness Piano Duo back to back at pianos](/images/2022-2023/VienessPianoDuo-small.jpg)]({filename}/2022-2023/VienessPianoDuo.md)
 [![Tomás Cotik and Susan Chan](/images/2022-2023/TomasCotikandSusanChan-small.jpg)]({filename}/2022-2023/TomasCotikandSusanChan.md)
 
--->
-
-<!--
-# Simple list of images
-[![Tomás Cotik and Susan Chan](/images/2022-2023/TomasCotikandSusanChan-small.jpg)]({filename}/2022-2023/TomasCotikandSusanChan.md)
 -->
 
 <!--
