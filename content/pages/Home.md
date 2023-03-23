@@ -81,9 +81,9 @@ Be sure to check back (or [sign up for our email list](http://eepurl.com/cD1Zvv)
   </div>
 
   <div class="season-cell">
-    <a href="./tomas-cotiksusan-chan.html"><img alt="Tomás Cotik and Monica Ohuchi" src="/images/2022-2023/TomasCotikandMonicaOhuchi-small.jpg"/></a>
+    <a href="./tomas-cotikmonica-ohuchi.html"><img alt="Tomás Cotik and Monica Ohuchi" src="/images/2022-2023/TomasCotikandMonicaOhuchi-small.jpg"/></a>
     <p>
-      <strong><a href="./tomas-cotiksusan-chan.html">Tomás Cotik and Monica Ohuchi</a></strong><br/> 
+      <strong><a href="./tomas-cotikmonica-ohuchi.html">Tomás Cotik and Monica Ohuchi</a></strong><br/> 
       <em>April 22, 2023, 7:30 PM</em><br/> 
       <em>Kennewick First Presbyterian Church</em><br/>
       <br/>
