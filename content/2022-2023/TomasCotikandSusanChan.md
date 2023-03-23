@@ -1,7 +1,7 @@
-Title: Tomás Cotik/Susan Chan
+Title: Tomás Cotik/Monica Ohuchi
 Date: 2023-04-22
 Authors: Colin Brislawn
-Banner: images/2022-2023/TomasCotikandSusanChan-large.jpg
+Banner: images/2022-2023/TomasCotikandMonicaOhuchi-large.jpg
 Bannerposition: top
 
 [comment]: # ( [![ ]({filename}/images/2022-2023/BalourdetQuartet-400.jpg){:width="200px", .floatleft}]({filename}./BalourdetQuartet.md) )
@@ -13,13 +13,13 @@ Bannerposition: top
 #### [Kennewick First Presbyterian Church](https://goo.gl/maps/quHQSkdBnScDHqh26)
 
 Tomás Cotik, violin <br>
-Susan Chan, piano
+Monica Ohuchi, piano
 
 [Tomás Cotik website](https://tomascotik.com/)
 
-[Susan Chan website](https://www.susanchanpiano.com/)
+[Monica Ohuchi website](http://www.monicaohuchi.com/)
 
-Photo credit: Robert Hubner (Cotik), sominkangphotography.com (Chan)
+Photo credit: Robert Hubner (Cotik)
 
 ---
 
