@@ -7,11 +7,15 @@ Status: hidden
 
 Camerata Musica’s mission is to present classical chamber music concerts featuring world-class musicians to the public, free of charge.
 
+### Camerata Musica is finalizing our '23—'24 season!
+
+<!--
 ### Camerata Musica announces 2022—2023 season!
 
 After a two-year pause, we are thrilled to announce our 2022-2023 concert season. We look forward to welcoming back our patrons and resuming our mission to share world-class classical chamber music with the Tri-Cities, WA.
 
 Be sure to check back (or [sign up for our email list](http://eepurl.com/cD1Zvv)) for concert schedule updates.
+-->
 
 ---
 
