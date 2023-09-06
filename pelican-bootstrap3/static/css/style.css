@@ -199,37 +199,47 @@ figure.floatcenter, .align-center {
     background-position: center;
     background-attachment: scroll;
     background-size: cover; 
-    background-color: #C4C4C4;
+    
     margin: 0 0 20px;
     padding: 70px 0; /*controls padding around inner text*/
     position: relative;
 }
 
 #banner .logo {
-    background: #000;
-	background: none repeat scroll 0 0 rgba(22, 22, 22, 0.8);
+    background: none repeat scroll 0 0 transparent;
     display: inline;
     float: left;
     padding: 10px;
     position: relative;
     z-index: 1;
 }
+    /* background: #000; */
+    /* background: none repeat scroll 0 0 rgba(22, 22, 22, 0.8); */
 #banner .logo img {
-    height: 200px;
-	display: block;
+    height: 240px;
+	display: inline;
 	margin: auto;
+    vertical-align: bottom;
 }
 
 #banner .copy {
-    background: #000;
-    background: none repeat scroll 0 0 rgba(22, 22, 22, 0.8);
+     background: none repeat scroll 0 0 transparent;
     display: inline;
     float: left;
     max-width: 700px;
-	height: 220px;
-    padding: 65px 30px;
+    height: 240px;
+    padding: 10px 10px;
     position: relative;
     z-index: 1;
+}
+    /* background: #000; */
+    /* background: none repeat scroll 0 0 rgba(22, 22, 22, 0.8); */
+    
+#banner .copy img {
+    height: 240px;
+	display: inline;
+	margin: auto;
+    vertical-align: bottom;
 }
 
 #banner h1 {
@@ -254,6 +264,7 @@ figure.floatcenter, .align-center {
 
 /* Solutions for mobile and small screens  */
 @media (max-width: 650px) {
+   /* 650px */
     #banner h1{
        font-size: 30px; /* !important;*/
     }
@@ -264,22 +275,25 @@ figure.floatcenter, .align-center {
 
 /* removes elements of the #banner at lower depths */
 @media (max-width: 992px) {
+    /* 992px */
     #banner .logo {
 	    display: none;
 	}
 }
 @media (max-width: 768px) {
+    /* 768px */
     #banner .copy {
 	    display: none;
 	}
 	#banner .logo {
-	    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.9);
+	    background: none repeat scroll 0 0 transparent;
 	    display: block;
 		float: none;
         width: 270px;
         margin: auto;
 	}
 }
+/* background: none repeat scroll 0 0 rgba(0, 0, 0, 0.9); */
 
 .container article {
 	clear: both;

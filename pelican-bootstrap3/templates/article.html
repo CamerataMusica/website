@@ -80,16 +80,37 @@
                 </h1>
             </header>
             <div class="entry-content">
-                <div class="panel">
-                    <div class="panel-body">
-                        {% include "includes/article_info.html" %}
-                    </div>
+                <div class="concert_info">
+                    {% if article.date %}
+                        <h4>{{ article.date|strftime('%a., %B %-d, %Y') }}</h4>
+                    {% endif %}
+                    
+                    {% if article.time %}
+                        <h4>{{ article.time }}</h4>
+                    {% endif %}
+                    
+                    {% if article.event2 %}
+                        <p><i>{{ article.event2 }}</i></p>
+                    {% endif %}
+                    
+                    {% if article.location %}
+                        <h4><a href="{{ article.locationmaplink }}" title="Map">{{ article.location }}</a></h4>
+                    {% endif %}
+                    
+                    {% if article.externalwebsite %}
+                        <p><a href="{{ article.externalwebsite }}" title="{{ article.title }} website">{{ article.title }} website</a></p>
+                    {% endif %}
+                    
+                    {% if article.specialnote %}
+                        <p><b><i>{{ article.specialnote }}</i></b></p>
+                    {% endif %}
+                    
                 </div>
 				{% if BANNER_ALL_PAGES and article.banner %}
 				<!-- This is a low quality hack. -->
 				<style>
 					#banner {
-						background-image: url("{{  article.banner  }}");
+						background-image: url("{{static}}/{{  article.banner  }}");
 						{% if article.bannerposition %}
 						background-position: {{  article.bannerposition  }};
 						{% else %}

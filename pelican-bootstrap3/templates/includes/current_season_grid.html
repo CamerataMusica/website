@@ -1,0 +1,54 @@
+
+
+        <h1>{{ CURRENT_SEASON_CATEGORY }} Season</h1>
+        <div class="season-container">
+            {% for category, articles in categories if (category.slug == CURRENT_SEASON_CATEGORY) %}
+            {% for article in articles|sort(attribute='date') %}
+                <div class="season-cell">
+                    
+                    {% if article.photosmall %}
+                        <a href="{{ SITEURL }}/{{ article.url }}"><img alt="{{ article.title }} photo" src="{{static}}/{{ article.photosmall }}" /></a>
+                    {% endif %}
+                    
+                    <p>
+                    {% if article.title %}<strong><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></strong><br/>{% endif %}
+                    {% if article.date %}<em>{{ article.date|strftime('%a., %B %-d, %Y') }} {% if article.time2 %}{{ article.time2 }} &amp; {% endif %}{% if article.time %}{{ article.time }}{% endif %}</em><br/>{% endif %}
+                    {% if article.location %}<a href="{{ article.locationmaplink }}" title="Map">{{ article.location }}</a><br/>{% endif %}
+                    {% if article.event2 %}<strong><em>{{ article.event2 }}</em></strong>{% endif %}<br/>
+                    {% if article.specialnote %}<strong><em>{{ article.specialnote }}</em></strong>{% endif %}<br/>
+                    <!--
+                    {% if article.externalwebsite %}<a href="{{ article.externalwebsite }}" title="{{ article.title }} website">{{ article.title }} website</a><br/>{% endif %}
+                    -->
+                    </p>
+                </div>
+                
+            {% endfor %}
+            {% endfor %}
+            
+            <style>
+              .season-container {
+              display: grid;
+              grid-template-columns:  repeat(auto-fit, minmax(300px, 310px));
+              grid-auto-flow: row;
+              justify-content: start;
+              }
+              
+              .season-cell {
+              padding: 2px;
+                text-align: center;
+                margin-bottom: 10px;
+                text-decoration: none;
+                border-bottom: none;
+              }
+              
+            .entry-content a img,
+            .entry-content a img:hover {
+                width: 300px;
+                margin-right: 5px;
+                margin-bottom: 10px;
+                text-decoration: none;
+                border-bottom: none;
+            }
+            </style>
+            
+        </div>

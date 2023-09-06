@@ -1,23 +1,37 @@
 <style>
 	#banner{
-	    background-image:url("{{ SITEURL}}/{{ BANNER }}");
+           /*
+            background-image: url("{{ SITEURL}}/{{ BANNER }}"), linear-gradient(rgba(0,0,0, 0.05),rgba(0,0,0, 0.05)) ;
+            background-blend-mode: overlay;
+            */
+            background-image: url("{{ SITEURL}}/{{ BANNER }}");
+            box-shadow: inset 0 0 0 50vw rgba(0,0,0, 0.15) ;
+            
+            
 		/* This may be overridden by the metadata field 'Banner:'   */
 		/* and other styles applied from the article.html template. */
 	}
 </style>
 
-<div id="banner">
-	<div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
+<div id="banner"  >
+	<div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}" >
+                <!-- <img src="{{ static }}/images/camerata_musica_logo_text_grey3.png"  /> -->
+                
 		{% if BANNER_LOGO %}
 		<div class="logo">
-			<img src="{{ SITEURL}}/{{ BANNER_LOGO}}">
+			<!-- <img src="{{ SITEURL}}/{{ BANNER_LOGO}}"> -->
+                        <img src="{{ static }}/images/camerata_musica_logo_logo_only_grey3.png"/>
 		</div>
 		{% endif %}
 		<div class="copy">
-			<h1>{{ SITENAME }}</h1>
+                        <!--
+			<h1>{{ BANNER_TITLE }}</h1>
 			{% if BANNER_SUBTITLE %}
 				<p class="intro">{{ BANNER_SUBTITLE }}</p>
 			{% endif %}
+                        -->
+                        <img src="{{ static }}/images/camerata_musica_logo_text_only_grey3.png"/>
 		</div>
+                
 	</div>
 </div>

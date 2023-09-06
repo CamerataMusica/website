@@ -1,0 +1,81 @@
+        <h1>{{ CURRENT_SEASON_CATEGORY }} Season</h1>
+        <div class="panel-group">
+            {% for category, articles in categories if (category.slug == CURRENT_SEASON_CATEGORY) %}
+            {% for article in articles|sort(attribute='date') %}
+                <div class="panel ">
+                    <!--
+                    <div class="panel-heading">
+                        <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+                    </div>
+                    -->
+                    <div class="panel-body">
+                        
+                        {% if article.photosmall %}
+                            <a href="{{ SITEURL }}/{{ article.url }}"><img alt="{{ article.title }} photo" src="{{static}}/{{ article.photosmall }}" /></a>
+                        {% endif %}
+                        
+                        <h3><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+                        
+                        {% if article.date %}
+                            <p>{{ article.date|strftime('%a., %B %-d, %Y') }}  </p>
+                        {% endif %}
+                        
+                        
+                        {% if article.time %}
+                            <p>{% if article.time2 %}{{ article.time2 }} &amp; {% endif %}{{ article.time }}</p>
+                        {% endif %}
+                        
+                        {% if article.event2 %}
+                            <p><em>{{ article.event2 }}</em></p>
+                        {% endif %}
+                        
+                        {% if article.location %}
+                            <p><a href="{{ article.locationmaplink }}" title="Map">{{ article.location }}</a></p>
+                        {% endif %}
+                        
+                        {% if article.externalwebsite %}
+                            <p><a href="{{ article.externalwebsite }}" title="{{ article.title }} website">{{ article.title }} website</a></p>
+                        {% endif %}
+                        
+                        {% if article.specialnote %}
+                            <p><strong><em>{{ article.specialnote }}</em></strong></p>
+                        {% endif %}
+                        
+                        <p><a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">more information</a></p>
+                        
+                    </div>
+                </div>
+                
+            {% endfor %}
+            {% endfor %}
+            
+            <style>
+            .panel {
+                border-top: none;
+                border-left: none;
+                border-right: none;
+                border-bottom: 1px solid rgba(0,0,0,.05);
+                box-shadow: none;
+            }
+            .panel:first-child {
+                border-top: 1px solid rgba(0,0,0,.05);
+            }
+            .panel-body a img {
+                width: 400px; /* 270px */
+                /* This is similar to the .floadleft class */
+                float: left;
+                padding-top: 5px;
+                padding-right: 15px;
+                padding-bottom: 15px;
+            }
+
+            /* style p like H4 */
+            .panel-body p {
+                font-size: 18px;
+                margin-top: 4px;
+                margin-bottom: 4px;
+                font-weight: 500;
+            }
+            </style>
+            
+        </div>

@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}Current Season - {{ SITENAME }}{% endblock %}
+
+{% block breadcrumbs %}
+    {% if DISPLAY_BREADCRUMBS %}
+    <ol class="breadcrumb">
+        <li><a href="{{ SITEURL }}" title="{{ SITENAME }}"><i class="fa fa-home fa-lg"></i></a></li>
+        <li class="active">Current Season</li>
+    </ol>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <section id="categories">
+        {% include 'includes/current_season_list.html' %}
+    </section>
+{% endblock %}
+
