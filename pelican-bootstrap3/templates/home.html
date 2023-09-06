@@ -1,0 +1,22 @@
+{% extends "page.html" %}
+
+{% block canonical_rel %}<link rel="canonical" href="{{ SITEURL }}">{% endblock %}
+
+{% block content %}
+    <section id="content" class="body">
+        <h1 class="entry-title">{{ page.title }}</h1>
+        
+        <!-- Content -->
+        <div class="entry-content">
+            {{ page.content }}
+        </div>
+        
+        <!-- Generated Content -->
+        <div class="entry-content">
+            {% include 'includes/current_season_grid.html' %}
+        </div>
+        
+        <!-- Email list signup -->
+        
+    </section>
+{% endblock %}

@@ -20,24 +20,35 @@ AUTHOR_FEED_RSS = None
 
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
+USE_FOLDER_AS_CATEGORY = True
 CATEGORY_URL = 'seasons/{slug}.html'
 CATEGORY_SAVE_AS = 'seasons/{slug}.html'
 CATEGORIES_SAVE_AS = 'seasons/index.html'
 # We could also have this save over the archive, which could be quite elegant.
 # ^^ Nope; Overwriting an existing page throws an error. Maybe better to chage the theme
 
-MENUITEMS = (
-    #('Current Season', 'https://colinbrislawn.github.io/CamerataMusica/seasons/current-season.html'),
-)
+# Set the current season (global variable for template)
+CURRENT_SEASON_CATEGORY = '2023-2024'
 
+# Change to output articles into subfolders by category (season)
+ARTICLE_URL = 'seasons/{category}/{slug}.html'
+ARTICLE_SAVE_AS = 'seasons/{category}/{slug}.html'
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
+
+#MENUITEMS = ( )
+
+# A mapping containing template pages that will be rendered with the blog entries.
+# This should auto-generate the current season list page and place in the menu
+#TEMPLATE_PAGES = { 'pelican-bootstrap3/templates/current_season.html' : 'current_season.html', }
+DIRECT_TEMPLATES = ['index', 'current_season', 'categories', 'archives']
+
+DISPLAY_BREADCRUMBS = False
+DISPLAY_CATEGORY_IN_BREADCRUMBS = False
 HIDE_SIDEBAR = True
 
 # Blogroll
-LINKS = (
-# Absolute paths seem to work best
-	('Facebook', 'https://www.facebook.com/pages/Camerata-Musica-Richland/226889204035616'),
-	('Past Seasons', 'https://colinbrislawn.github.io/CamerataMusica/seasons/'),
-	)
+#LINKS = ( )
 
 SIDEBAR_EMAIL_SIGNUP_URL = 'http://eepurl.com/cD1Zvv'
 
@@ -54,10 +65,11 @@ DISPLAY_TAGS_ON_SIDEBAR = False
 
 NEWEST_FIRST_ARCHIVES = True
 DEFAULT_PAGINATION = 10
-#ARTICLE_ORDER_BY = 'date'
+ARTICLE_ORDER_BY = 'date'
 #ARTICLE_ORDER_BY = 'reversed-date'
 
-PAGE_ORDER_BY = 'reversed-date'
+PAGE_ORDER_BY = 'basename'
+#PAGE_ORDER_BY = 'reversed-date'
 
 # caching options 
 CACHE_CONTENT = True
@@ -73,9 +85,14 @@ ARTICLE_EXCLUDES = ['root'] # Don't try to render root files
 SUMMARY_MAX_LENGTH = 20
 
 BANNER_ALL_PAGES = True
+BANNER_TITLE = 'Camerata Musica'
 BANNER_SUBTITLE = 'A Tradition of Chamber Music in the Tri-Cities'
 BANNER = 'images/background3crop1.jpg'
 BANNER_LOGO = 'images/Logo-white-500-t.png'
+
+# Small logo for top menubar
+SITELOGO = 'images/CM_icon.png'
+SITELOGO_SIZE = '25px'
 
 RELATIVE_URLS = True
 THEME = "./pelican-bootstrap3"
