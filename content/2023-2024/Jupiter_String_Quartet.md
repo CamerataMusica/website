@@ -5,7 +5,7 @@ Time: 7:30 PM
 Location: Columbia Basin College Arts Center
 LocationMapLink: https://goo.gl/maps/BZDawJuNMRM2
 Banner: images/2023-2024/Jupiter_Quartet_Aspen2018_credit_Elle_Logan_16x9_1920.jpg
-Bannerposition: top
+Bannerposition: center
 PhotoSmall: images/2023-2024/Jupiter_Quartet_bottomstair_credit_Sarah_Gardner_4x3_400.jpg
 ExternalWebsite: https://www.jupiterquartet.com/
 SpecialNote:
