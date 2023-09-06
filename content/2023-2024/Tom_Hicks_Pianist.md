@@ -5,7 +5,7 @@ Time: 7:30 PM
 Location: Columbia Basin College Arts Center
 LocationMapLink: https://goo.gl/maps/BZDawJuNMRM2
 Banner: images/2023-2024/Tom_Hicks_piano_credit_Chris_Tostevin_Hall_4x3_1920.jpg
-Bannerposition: top
+Bannerposition: center
 PhotoSmall: images/2023-2024/Tom_Hicks_piano_credit_Chris_Tostevin_Hall_4x3_400.jpg
 ExternalWebsite: https://www.tomhickspianist.com/
 SpecialNote:
