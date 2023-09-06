@@ -1,8 +1,8 @@
 # CamerataMusica.com
 
-At [cameratamusica.com](https://cameratamusica.com/) and [colinbrislawn.github.io/CamerataMusica/](http://colinbrislawn.github.io/CamerataMusica/)
+At [cameratamusica.com](https://cameratamusica.com/) and [https://cameratamusica.github.io/website](https://cameratamusica.github.io/website)
 
-This is built with [Pelican](http://docs.getpelican.com/) and deployed to GitHub pages with GitHub actions and previewed with Cloudflare pages.
+This is built with [Pelican](http://docs.getpelican.com/) and deployed to GitHub pages with GitHub actions. Previews of PRs are built with Cloudflare pages.
 
 ---
 
