@@ -227,7 +227,7 @@ figure.floatcenter, .align-center {
     display: inline;
     float: left;
     max-width: 700px;
-    height: 240px;
+    /* height: 240px; */
     padding: 10px 10px;
     position: relative;
     z-index: 1;
@@ -263,7 +263,7 @@ figure.floatcenter, .align-center {
 }
 
 /* Solutions for mobile and small screens  */
-@media (max-width: 650px) {
+@media (max-width: 686px) {
    /* 650px */
     #banner h1{
        font-size: 30px; /* !important;*/
@@ -274,13 +274,13 @@ figure.floatcenter, .align-center {
 }
 
 /* removes elements of the #banner at lower depths */
-@media (max-width: 992px) {
+@media (max-width: 1170px) {
     /* 992px */
     #banner .logo {
 	    display: none;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 686px) {
     /* 768px */
     #banner .copy {
 	    display: none;
