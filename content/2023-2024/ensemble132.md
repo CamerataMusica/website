@@ -5,7 +5,7 @@ Time: 7:30 PM
 Location: Columbia Basin College Arts Center
 LocationMapLink: https://goo.gl/maps/BZDawJuNMRM2
 Banner: images/2023-2024/ensemble132_bench_credit_Alyssa_Wang_16x10_1920.jpg
-Bannerposition: top
+Bannerposition: center 20%
 PhotoSmall: images/2023-2024/ensemble132_bench_credit_Alyssa_Wang_4x3_400.jpg
 ExternalWebsite: https://www.ensemble132.com/
 SpecialNote:
