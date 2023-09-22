@@ -1,0 +1,24 @@
+{% if SENDER_ID or SENDER_FORM_ID %}
+    <!-- Sender.net email signup form -->
+    <script>
+        (function (s, e, n, d, er) {
+          s['Sender'] = er;
+          s[er] = s[er] || function () {
+            (s[er].q = s[er].q || []).push(arguments)
+          }, s[er].l = 1 * new Date();
+          var a = e.createElement(n),
+              m = e.getElementsByTagName(n)[0];
+          a.async = 1;
+          a.src = d;
+          m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+        sender('{{ SENDER_ID }}')
+      </script>
+      <!-- End Sender.net email signup form -->
+      <!--
+        Add form with
+        <div class="sender-form-field" data-sender-form-id=""></div>
+        or
+        <div class="sender-form-field" data-sender-form-id="{{ SENDER_FORM_ID }}"></div>
+      -->
+{% endif %}
