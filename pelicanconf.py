@@ -97,4 +97,8 @@ SITELOGO_SIZE = '25px'
 RELATIVE_URLS = True
 THEME = "./pelican-bootstrap3"
 
+# Email newsletter
+SENDER_ID = 'd2f76d4df99251'
+# SENDER_FORM_ID = ''
+
 PLUGIN_PATHS = ['../pelican-plugins']
