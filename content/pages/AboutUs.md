@@ -10,4 +10,6 @@ Camerata does not sell tickets to its programs. Support is provided primarily by
 
 In addition to receiving recognition on the program, patrons (donors who contribute $100.00 or more a year) receive an announcement card before each concert. By presenting these reminders, patrons and their families (2 adults and accompanying children under 18) receive priority seating until 7:15, after which everyone is admitted on a first-come, first-seated basis. For full details, please visit [Supporting Camerata Musica]({filename}/pages/Supporting.md).
 
+## Join our mailing list
+
 <div class="sender-form-field" data-sender-form-id="lmw2tjh0el4ole5kd3h"></div>
