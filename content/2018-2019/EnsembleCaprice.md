@@ -2,7 +2,7 @@ Title: Ensemble Caprice
 Date: 2019-02-23T19:30
 Authors: Colin Brislawn
 Banner: ./images/2018-2019/Ensemble-Caprice-large.jpg
-Bannerposition: top
+Bannerposition: center 10%
 
 #### February 23, 2019 7:30 pm at [Columbia Basin College, Performing Arts Theatre](https://goo.gl/maps/kNZ4DFSqJUNVorCE6)
 

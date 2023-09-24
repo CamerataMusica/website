@@ -2,7 +2,7 @@ Title: Balourdet Quartet
 Date: 2022-10-22
 Authors: Colin Brislawn
 Banner: images/2022-2023/BalourdetQuartet-large.jpg
-Bannerposition: top
+Bannerposition: center 10%
 
 #### Sat, October 22, 2022
 

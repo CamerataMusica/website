@@ -2,7 +2,7 @@ Title: Jovanni-Rey de Pedro
 Date: 2018-09-22
 Authors: Colin Brislawn
 Banner: ./images/2018-2019/Jovanni-Rey-dePedro-large.jpg
-Bannerposition: top
+Bannerposition: center 20%
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 

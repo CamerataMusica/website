@@ -2,7 +2,7 @@ Title: Frisson
 Date: 2018-11-17
 Authors: Colin Brislawn
 Banner: ./images/2018-2019/Frisson-large.jpg
-Bannerposition: top
+Bannerposition: center 25%
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 

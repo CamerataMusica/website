@@ -2,7 +2,7 @@ Title: Maxwell Quartet
 Date: 2019-01-26
 Authors: Colin Brislawn
 Banner: ./images/2018-2019/Maxwell-Quartet-large.jpg
-Bannerposition: top
+Bannerposition: center 30%
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 
