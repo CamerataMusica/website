@@ -2,6 +2,7 @@ Title: The Los Angeles Cello Quartet
 Date: 2016-11-19
 Authors: Colin Brislawn
 Banner: ./images/2016-2017/the-los-angeles-cello-quartet-large.jpg
+Bannerposition: center 10%
 
 [![ ](/images/2016-2017/the-los-angeles-cello-quartet400.jpg){:width="200px", .floatleft}]({filename}./LosAngelesCelloQuartet.md)
 
