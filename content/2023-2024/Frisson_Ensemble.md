@@ -5,7 +5,7 @@ Time: 7:30 PM
 Location: Kennewick First Presbyterian Church
 LocationMapLink: https://goo.gl/maps/pbLgXTXJEF8evh3j6
 Banner: images/2023-2024/Frisson_Ensemble_standing_credit_Dorothy_Shi_3x2_1920.jpg
-Bannerposition: top
+Bannerposition: center 15%
 PhotoSmall: images/2023-2024/Frisson_Ensemble_bunch_credit_Dorothy_Shi_4x3_400.jpg
 ExternalWebsite: https://www.frissonensemble.com/
 SpecialNote:

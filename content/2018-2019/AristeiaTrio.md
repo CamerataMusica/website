@@ -2,7 +2,7 @@ Title: Aristeia Trio
 Date: 2019-03-23
 Authors: Colin Brislawn
 Banner: ./images/2018-2019/Aristeia-Trio-large.jpg
-Bannerposition: top
+Bannerposition: center 10%
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 

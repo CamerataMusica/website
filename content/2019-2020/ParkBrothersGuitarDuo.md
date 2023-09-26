@@ -2,7 +2,7 @@ Title: Park Brothers Guitar Duo
 Date: 2019-10-26
 Authors: Colin Brislawn
 Banner: ./images/2019-2020/park-brothers-guitar-duo-large.jpg
-Bannerposition: top
+Bannerposition: center 20%
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 

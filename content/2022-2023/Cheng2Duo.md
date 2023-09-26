@@ -3,7 +3,7 @@ Date: 2023-01-14
 Authors: Colin Brislawn
 Slug: Cheng-2-Duo
 Banner: images/2022-2023/Cheng2Duo-large.jpg
-Bannerposition: top
+Bannerposition: center 10%
 
 [comment]: # ( [![ ]({filename}/images/2022-2023/BalourdetQuartet-400.jpg){:width="200px", .floatleft}]({filename}./BalourdetQuartet.md) )
 

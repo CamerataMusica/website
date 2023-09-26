@@ -2,6 +2,7 @@ Title: The Vienna Piano Trio
 Date: 2016-10-22
 Authors: Colin Brislawn
 Banner: ./images/2016-2017/the-vienna-piano-trio-large.jpg
+Bannerposition: center 15%
 
 [![ ](/images/2016-2017/the-vienna-piano-trio400.jpg){:width="200px", .floatleft}]({filename}./ViennaPianoTrio.md)
 

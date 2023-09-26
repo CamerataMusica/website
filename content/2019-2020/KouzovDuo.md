@@ -2,7 +2,7 @@ Title: Kouzov Duo
 Date: 2019-11-23
 Authors: Colin Brislawn
 Banner: ./images/2019-2020/kouzov-duo-large.jpg
-Bannerposition: top
+Bannerposition: center 20%
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 

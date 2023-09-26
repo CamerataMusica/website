@@ -2,6 +2,7 @@ Title: The Baltimore Consort with Danielle Svonavec, soprano
 Date: 2016-09-24
 Authors: Colin Brislawn
 Banner: ./images/2016-2017/BaltimoreConsortLarge.jpg
+Bannerposition: center 10%
 
 [![ ](/images/2016-2017/BaltimoreConsort400.jpg){:width="200px", .floatleft}]({filename}./BaltimoreConsort.md)
 
