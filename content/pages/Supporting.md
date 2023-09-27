@@ -9,7 +9,7 @@ Camerata Musica depends on the generosity of those attending concerts to support
 Donations to Camerata may be made at any concert or by sending a check to:
 > Camerata Musica <br/>
 > PO Box 615 <br/>
-> Richland WA 99352.
+> Richland WA 99352
 
 ## Download and print a contribution form
 
