@@ -2,7 +2,7 @@ Title: Carpe Diem String Quartet with Cameron Bennett
 Date: 2020-01-25
 Authors: Colin Brislawn
 Banner: ./images/2019-2020/carpe-diem-string-quartet-with-cameron-bennett-large.jpg
-Bannerposition: top
+Bannerposition: center 10%
 
 ![ ]({static}/images/2019-2020/cameron-bennett-small.jpg){:width="200px", .floatright}
 

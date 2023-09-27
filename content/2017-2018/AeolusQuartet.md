@@ -2,7 +2,7 @@ Title: Aeolus Quartet
 Date: 2018-02-24
 Authors: Colin Brislawn
 Banner: ./images/2017-2018/aeolus-quartet-large.jpg
-Bannerposition: top
+Bannerposition: center 10%
 
 #### February 24th, 2018 8:00 pm at Battelle Auditorium
 

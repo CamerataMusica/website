@@ -3,7 +3,7 @@ Date: 2018-10-27
 Authors: Colin Brislawn
 Slug: the-byrd-ensemble-2018
 Banner: ./images/2018-2019/The-Byrd-Ensemble-large.jpg
-Bannerposition: top
+Bannerposition: center 20%
 
 [comment]: # ( [![ ]({filename}/images/2017-2018/aeolus-quartet-400.jpg){:width="200px", .floatleft}]({filename}./AeolusQuartet.md) )
 

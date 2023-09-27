@@ -7,7 +7,7 @@ LocationMapLink: https://goo.gl/maps/pbLgXTXJEF8evh3j6
 Event2: Special Family Concert at 4:00 PM
 Time2: 4:00 PM
 Banner: images/2023-2024/Ensemble_Caprice_standing_credit_Gilles_Brissette_3x2_1200.jpg
-Bannerposition: top
+Bannerposition: center 10%
 PhotoSmall: images/2023-2024/Ensemble_Caprice_standing_credit_Gilles_Brissette_3x2_400.jpg
 ExternalWebsite: https://www.ensemblecaprice.com/
 SpecialNote:

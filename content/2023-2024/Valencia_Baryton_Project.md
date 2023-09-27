@@ -5,7 +5,7 @@ Time: 7:30 PM
 Location: Columbia Basin College Arts Center
 LocationMapLink: https://goo.gl/maps/BZDawJuNMRM2
 Banner: images/2023-2024/Valencia_Baryton_pillars2023_credit_Alex_Baker_4x3_1920.jpg
-Bannerposition: top
+Bannerposition: center 10%
 PhotoSmall: images/2023-2024/Valencia_Baryton_pillars2023_credit_Alex_Baker_4x3_400.jpg
 ExternalWebsite: https://www.valenciabaryton.com/
 SpecialNote:

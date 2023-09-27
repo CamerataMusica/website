@@ -2,6 +2,7 @@ Title: sound|counterpoint
 Date: 2017-11-18
 Authors: Colin Brislawn
 Banner: ./images/2017-2018/soundcounterpoint-large.jpg
+Bannerposition: center 15%
 
 #### November 18th, 2017 8:00 pm at Battelle Auditorium
 

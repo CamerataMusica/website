@@ -2,6 +2,7 @@ Title: New York Brass Arts Trio
 Date: 2017-10-28
 Authors: Colin Brislawn
 Banner: ./images/2017-2018/new-york-brass-arts-trio-large.jpg
+Bannerposition: center 20%
 
 #### October 28th, 2017 8:00 pm at Battelle Auditorium
 

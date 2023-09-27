@@ -2,7 +2,7 @@ Title: Clancy Newman with Natalie Zhu
 Date: 2018-01-27
 Authors: Colin Brislawn
 Banner: ./images/2017-2018/clancy-newman-cello-large.jpg
-Bannerposition: center
+Bannerposition: 30% 30%
 
 #### January 27th, 2018 8:00 pm at Battelle Auditorium
 
