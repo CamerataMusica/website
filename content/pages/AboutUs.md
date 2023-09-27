@@ -10,6 +10,27 @@ Camerata does not sell tickets to its programs. Support is provided primarily by
 
 In addition to receiving recognition on the program, patrons (donors who contribute $100.00 or more a year) receive an announcement card before each concert. By presenting these reminders, patrons and their families (2 adults and accompanying children under 18) receive priority seating until 7:15, after which everyone is admitted on a first-come, first-seated basis. For full details, please visit [Supporting Camerata Musica]({filename}/pages/Supporting.md).
 
+## <a name="newsletter" /> [Join our mailing list](#newsletter)
+
+<!-- Sender.net email signup form -->
+<script>
+  (function (s, e, n, d, er) {
+    s['Sender'] = er;
+    s[er] = s[er] || function () {
+      (s[er].q = s[er].q || []).push(arguments)
+    }, s[er].l = 1 * new Date();
+    var a = e.createElement(n),
+      m = e.getElementsByTagName(n)[0];
+    a.async = 1;
+    a.src = d;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+  sender('d2f76d4df99251')
+</script>
+<!-- End Sender.net email signup form -->
+
+<div class="sender-form-field" data-sender-form-id="lmw2tjh0el4ole5kd3h"></div>
+
 ## <a name="contact" /> [Contact Us](#contact)
 
 > Camerata Musica <br/>
@@ -29,7 +50,3 @@ Please note, Camerata may on occasion send out information about other concerts 
 <a href="http://eepurl.com/cD1Zvv" class="button" style="border: 1px solid rgb(91, 91, 91); color: rgb(91, 91, 91); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 10px; background-color: rgb(232, 232, 232);">Sign Up Now!</a>
 
 -->
-
-## Join our mailing list
-
-<div class="sender-form-field" data-sender-form-id="lmw2tjh0el4ole5kd3h"></div>
