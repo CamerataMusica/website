@@ -28,9 +28,12 @@ Artistic director and oboist Tom Gallant, collaborating with classical music's b
 <br/>
 
 
-Gustav Holst (1874-1934):  *Three Pieces for Oboe and String Quartet, H. 8A, Op. 2* <br/>
-Benjamin Britten (1913-1976):  *Phantasy Quartet for Oboe and String Trio, Op. 2* <br/>
-Florence Price (1887-1953):  *The Deserted Garden* <br/>
+Gioachino Rossini (1792-1868):  *String Sonata No. 4 in B flat major* <br/>
+Peter Lurye (b. 1956):  *Quartet for Oboe and Strings* <br/>
+Wolfgang Amadeus Mozart (1756-1791):  *Quartet for Oboe and Strings in F major, K. 370* <br/>
+
+Domenico Dragonetti (1763-1846):  *Waltz No. 3 for Double Bass* <br/>
+Sam Suggs (b. 1990):  *Waltz-Variations* <br/>
 Antonín Dvořák (1841-1904):  *String Quintet No. 2 in G major, Op. 77* <br/>
 
 ---
