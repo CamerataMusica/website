@@ -4,9 +4,9 @@ Date: 2024-01-13
 Time: 7:30 PM
 Location: Columbia Basin College Arts Center
 LocationMapLink: https://goo.gl/maps/BZDawJuNMRM2
-Banner: images/2023-2024/Valencia_Baryton_pillars2023_credit_Alex_Baker_4x3_1920.jpg
+Banner: images/2023-2024/Valencia_Baryton_pillars2023_credit_Alex_Baker_4x3_1920_updated.jpg
 Bannerposition: center 10%
-PhotoSmall: images/2023-2024/Valencia_Baryton_pillars2023_credit_Alex_Baker_4x3_400.jpg
+PhotoSmall: images/2023-2024/Valencia_Baryton_pillars2023_credit_Alex_Baker_4x3_400_updated.jpg
 ExternalWebsite: https://www.valenciabaryton.com/
 SpecialNote:
 Authors: Camerata Musica
@@ -18,7 +18,7 @@ Authors: Camerata Musica
 
 Matthew Baker, baryton <br/>
 Brett Walfish, viola <br/>
-Alex Friedhoff, cello <br/>
+Benjamin Birtle, cello <br/>
 
 Photo credit: Alex Baker (alexbakerimages.com)
 
@@ -35,9 +35,9 @@ Franz Joseph Haydn (1732-1809):  *Baryton Trio No. 9 in A major, Hob. XI:9* <br/
 Franz Joseph Haydn (1732-1809):  *Baryton Trio No. 71 in A major, Hob. XI:71* <br/>
 
 Steve Zink:  *The River (2020) (written for the Valencia Baryton Project)* <br/>
-Franz Joseph Haydn (1732-1809):  *Baryton Trio in A minor, Hob. XI:87* <br/>
+Franz Joseph Haydn (1732-1809):  *Baryton Trio No. 87 in A minor, Hob. XI:87* <br/>
 John Pickup:  *Prelude No. 1 (2021) (written for the Valencia Baryton Project)* <br/>
-Franz Joseph Haydn (1732-1809):  *Baryton Trio in D major, Hob. XI:69* <br/>
+Franz Joseph Haydn (1732-1809):  *Baryton Trio No. 69 in D major, Hob. XI:69* <br/>
 
 ---
 
