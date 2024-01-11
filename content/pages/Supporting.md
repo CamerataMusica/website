@@ -13,8 +13,7 @@ Donations to Camerata may be made at any concert or by sending a check to:
 
 ## Download and print a contribution form
 
-[![ ](/images/256-pdf-icon.png){:width="130px", .floatleft}]({static}/images/DonorForm.pdf)
-[![ ](/images/256-word-icon.png){:width="130px", .floatleft}]({static}/images/DonorForm.doc)
+[![ ](/images/256-pdf-icon.png){:width="130px", .floatleft}]({static}/images/DonationForm_2023.pdf)
 
 <p class="clear">&nbsp;</p>
 
