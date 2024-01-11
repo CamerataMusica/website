@@ -29,7 +29,7 @@ Claude Debussy (1862-1918):  *Nocturne, Rêverie, and Clair de Lune* <br/>
 
 Clara Schumann (1819-1896):  *Notturno, from Soirées musicales, Op.6* <br/>
 Fanny Mendelssohn Hensel (1805-1847):  *Notturno, H. 337* <br/>
-Ludwig van Beethoven (1770-1827):  *Piano Sonata No. 14 in C-sharp minor, Op. 27, No. 2* <br/>
+Ludwig van Beethoven (1770-1827):  *Piano Sonata No. 14 in C-sharp minor, Op. 27, No. 2, 'Moonlight'* <br/>
 
 
 ---
