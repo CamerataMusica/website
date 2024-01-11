@@ -22,7 +22,6 @@ Photo credit: Chris Tostevin-Hall
 A 'brilliantly evocative' recitalist, Tom Hicks presents an intimate evening of Chopin, Debussy, Schumann, and Beethoven solo piano works.  
 <br/>
 
-John Field (1782-1837):  *Nocturne No. 5 in in B-flat major, H 37* <br/>
 Frédéric Chopin (1810-1849):  *Two Nocturnes, Op. 48* <br/>
 Frédéric Chopin (1810-1849):  *Two Nocturnes, Op. 55* <br/>
 Alexander Scriabin (1872-1915):  *Prelude and Nocturne for the Left Hand, Op. 9* <br/>
@@ -30,7 +29,7 @@ Claude Debussy (1862-1918):  *Nocturne, Rêverie, and Clair de Lune* <br/>
 
 Clara Schumann (1819-1896):  *Notturno, from Soirées musicales, Op.6* <br/>
 Fanny Mendelssohn Hensel (1805-1847):  *Notturno, H. 337* <br/>
-Ludwig van Beethoven (1770-1827):  *Piano Sonata No. 14 in C-sharp minor, Op. 27, No. 2* <br/>
+Ludwig van Beethoven (1770-1827):  *Piano Sonata No. 14 in C-sharp minor, Op. 27, No. 2, 'Moonlight'* <br/>
 
 
 ---
