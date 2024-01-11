@@ -1,33 +1,32 @@
 Title: Links
-Date: 2015-07-18
-Authors: Colin Brislawn
+Date: 2024-01-11
 
 # Links
 
 ## Tri-Cities Performing Arts
 
-[Mid-Columbia Symphony] (https://midcolumbiasymphony.org/)
+[Mid-Columbia Symphony](https://midcolumbiasymphony.org/)
 
-[Mid-Columbia Mastersingers] (https://mcmastersingers.org/)
+[Mid-Columbia Mastersingers](https://mcmastersingers.org/)
 
-[Community Concerts of the Tri-Cities] (https://communityconcertstc.org/)
+[Community Concerts of the Tri-Cities](https://communityconcertstc.org/)
 
-[Mid-Columbia Ballet] (https://midcolumbiaballet.org/)
+[Mid-Columbia Ballet](https://midcolumbiaballet.org/)
 
-[Mid-Columbia Musical Theatre] (https://mcmt.show/)
+[Mid-Columbia Musical Theatre](https://mcmt.show/)
 
-[Richland Players] (https://www.richlandplayers.org/)
+[Richland Players](https://www.richlandplayers.org/)
 
-[Academy of Children's Theatre] (https://www.academyofchildrenstheatre.org/)
+[Academy of Children's Theatre](https://www.academyofchildrenstheatre.org/)
 
-[Columbia Basin College Arts Center] (https://www.cbcartscenter.com/)
+[Columbia Basin College Arts Center](https://www.cbcartscenter.com/)
 
-[Arts Center Task Force] (https://www.artscentertaskforce.com/)
+[Arts Center Task Force](https://www.artscentertaskforce.com/)
 
 
 ### Event Calendars
 
-[Arts Center Task Force Community Arts Calendar] (https://www.artscentertaskforce.com/community-arts-calendar)
+[Arts Center Task Force Community Arts Calendar](https://www.artscentertaskforce.com/community-arts-calendar)
 
 [Northewest Public Radio Events Calendar](https://www.nwpb.org/events/)
 
