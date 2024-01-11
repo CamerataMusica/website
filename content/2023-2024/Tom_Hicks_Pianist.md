@@ -22,7 +22,6 @@ Photo credit: Chris Tostevin-Hall
 A 'brilliantly evocative' recitalist, Tom Hicks presents an intimate evening of Chopin, Debussy, Schumann, and Beethoven solo piano works.  
 <br/>
 
-John Field (1782-1837):  *Nocturne No. 5 in in B-flat major, H 37* <br/>
 Frédéric Chopin (1810-1849):  *Two Nocturnes, Op. 48* <br/>
 Frédéric Chopin (1810-1849):  *Two Nocturnes, Op. 55* <br/>
 Alexander Scriabin (1872-1915):  *Prelude and Nocturne for the Left Hand, Op. 9* <br/>
