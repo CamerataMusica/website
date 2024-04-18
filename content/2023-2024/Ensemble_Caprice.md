@@ -80,7 +80,8 @@ Antonio Vivaldi (1678-1741):  *Concerto La Spagna\*, RV825* <br/>
 
 Antonio Vivaldi (1678-1741):  *Postlude: Largo* <br/>
 
-*\*Reconstructed by Matthias Maute*
+* \*Reconstructed by Matthias Maute *
+
 ---
 
 ### About
