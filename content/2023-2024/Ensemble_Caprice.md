@@ -20,9 +20,9 @@ Authors: Camerata Musica
 
 Matthias Maute, recorder, traverso <br/>
 Sophie Larivière, recorder, flute <br/>
-David Jacques, baroque guitar <br/>
+John Lenti, baroque guitar <br/>
 Lucie Ringuette, baroque violin <br/>
-Tanya LaPerrière, baroque violin <br/>
+Anna Ogaka, baroque violin <br/>
 Pemi Paull, baroque viola <br/>
 Susie Napper, baroque cello <br/>
 
@@ -43,7 +43,7 @@ Ensemble Caprice embarks on a musical journey through England, Spain, France, an
 **I**
 
 Marc-Antoine Charpentier (1643-1704):  *Sans frayeur dans ce bois, H. 467* <br/>
-Antonio Vivaldi (1678-1741):  *Concerto La Francia, RV 821* <br/>
+Antonio Vivaldi (1678-1741):  *Concerto La Francia\*, RV 821* <br/>
 
 
 **II**
@@ -61,7 +61,7 @@ Antonio Vivaldi (1678-1741):  *Concerto for Strings, RV157* <br/>
 **IV**
 
 Anonymous (17th century):  *The Duke of Norfolk* <br/>
-Antonio Vivaldi (1678-1741):  *Concerto L'Inghilterro*, RV 822* <br/>
+Antonio Vivaldi (1678-1741):  *Concerto L'Inghilterro\*, RV 822* <br/>
 
 
 **V**
@@ -73,14 +73,14 @@ Marin Marais (1656-1728):  *Les Folies d'Espange* <br/>
 **VI**
 
 Antonio Y Col Xacharas (18th century):  *Prelude* <br/>
-Antonio Vivaldi (1678-1741):  *Concerto La Spagna* <br/>
+Antonio Vivaldi (1678-1741):  *Concerto La Spagna\*, RV825* <br/>
 
 
 **VII**
 
 Antonio Vivaldi (1678-1741):  *Postlude: Largo* <br/>
 
-
+*\*Reconstructed by Matthias Maute*
 ---
 
 ### About
@@ -111,10 +111,10 @@ The Spanish concerto La Spagna surprises with a cadenza for recorder and violin 
 
 One might claim that the punctuated rhythms and ascending scales in the first movement of the Concerto La Francia allude to the overture in French style with exactly these features as prominent element. But since as opposed to the Four Seasons this newly reconstructed cycle is based on the more abstract idea of national representation, the listener will have to fill in some of the national colors with the own imagination.
 
-It is our pleasure to present each concerto with a prelude composed in the country that the ensuing concerto is dedicated to.
+Each concerto is preceded with a prelude composed in the country that the ensuing concerto is dedicated to.
 
 It is a great pleasure to see how much Antonio Vivaldi is inspiring us today, 382 years after his untimely death.
 
-Matthias Maute
+*Matthias Maute*
 
 
