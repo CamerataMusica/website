@@ -33,7 +33,7 @@ Photo credit: Philip Greenberg
 
 Dieterich Buxtehude (1637-1707):  *Passacaglia in D Minor, BuxWV 161* (arr. LaMoure) <br/>
 Wolfgang Amadeus Mozart (1756-1791):  *Serenade in C minor, K. 388* (arr. Rechtman) <br/>
-Väsen:  *Botanist Suite* (arr. LaMoure) <br/>
+VÃ¤sen:  *Botanist Suite* (arr. LaMoure) <br/>
 Viet Cuong (1990-):  *Flora* (2023) <br/>
 
 ---

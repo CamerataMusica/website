@@ -21,7 +21,7 @@ Dorothy Ro, violin <br/>
 Abigail Rojansky, viola <br/>
 Jonathan Dormand, cello <br/>
 
-Photo credits: Dario_Acosta, Kaupo Kikkas
+Photo credits: Dario Acosta, Kaupo Kikkas
 
 ---
 
@@ -29,7 +29,7 @@ Photo credits: Dario_Acosta, Kaupo Kikkas
 
 #### Essences
 
-Felix Mendelssohn (1809-1847):  * Quartet No. 1 in E-flat Major, Op. 12* <br/>
+Felix Mendelssohn (1809-1847):  *Quartet No. 1 in E-flat Major, Op. 12* <br/>
 Dmitri Dmitriyevich Shostakovich (1906-1975):  *String Quartet No. 9 in E-flat Major, Op. 117* <br/>
 Ludwig van Beethoven (1770-1827):  *String Quartet No. 8 in E minor, Op. 59 No. 2* <br/>
 
@@ -38,4 +38,4 @@ Ludwig van Beethoven (1770-1827):  *String Quartet No. 8 in E minor, Op. 59 No. 
 
 ### About
 
-Acclaimed as an "outstanding ensemble ... cohesive yet full of temperament" (The New York Times), the Verona Quartet has firmly established itself amongst the most distinguished ensembles of today’s chamber music scene.  The recipient of Chamber Music America’s 2020 Cleveland Quartet Award, the Verona Quartet serves as the Quartet-in-Residence at Oberlin College and Conservatory, at Nova Scotia’s Lunenburg Academy of Music Performance, and at the ENCORE Chamber Music Institute.
+Acclaimed as an "outstanding ensemble ... cohesive yet full of temperament" (The New York Times), the Verona Quartet has firmly established itself amongst the most distinguished ensembles of today's chamber music scene.  The recipient of Chamber Music America's 2020 Cleveland Quartet Award, the Verona Quartet serves as the Quartet-in-Residence at Oberlin College and Conservatory, at Nova Scotia's Lunenburg Academy of Music Performance, and at the ENCORE Chamber Music Institute.
