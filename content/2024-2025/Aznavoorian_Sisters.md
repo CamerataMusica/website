@@ -5,7 +5,7 @@ Time: 7:30 PM
 Location: Columbia Basin College Arts Center
 LocationMapLink: https://goo.gl/maps/BZDawJuNMRM2
 Banner: images/2024-2025/Aznavoorian_Sisters_red_16x9_med.jpg
-Bannerposition: center 20%
+Bannerposition: top
 PhotoSmall: images/2024-2025/Aznavoorian_Sisters_piano_4x3_small.jpg
 ExternalWebsite: https://www.martaaznavoorian.com/the-aznavoorian-sisters
 SpecialNote:
@@ -35,8 +35,7 @@ Niccolò Paganini (1782-1840):  *Variations on One String on a Theme by Rossini 
 
 ### About
 
-The Aznavoorian Sisters' first public performance was at the ages of 4 and 8 at their Armenian church in Evanston, IL. They won First Prize in the Illinois Bell Young Performers Competition, resulting in a live performance with the Chicago Symphony Orchestra on PBS.  
-Since then, they have toured France, Armenia, and Finland, performed at Carnegie Hall's Weill Recital Hall, and presented countless programs in their hometown of Chicago including a major fundraiser for the Armenian earthquake in 1988. They gave a residency at the Seattle Chamber Music Society, and highlights of their 24-25 season includes performances at the prestigious Ravinia Festival; tours of the West Coast from La Jolla, CA to Washington State; and concerts across the USA including Colorado and Oklahoma.
+The Aznavoorian Sisters' first public performance was at the ages of 4 and 8 at their Armenian church in Evanston, IL. They won First Prize in the Illinois Bell Young Performers Competition, resulting in a live performance with the Chicago Symphony Orchestra on PBS.  Since then, they have toured France, Armenia, and Finland, performed at Carnegie Hall's Weill Recital Hall, and presented countless programs in their hometown of Chicago including a major fundraiser for the Armenian earthquake in 1988. They gave a residency at the Seattle Chamber Music Society, and highlights of their 24-25 season includes performances at the prestigious Ravinia Festival; tours of the West Coast from La Jolla, CA to Washington State; and concerts across the USA including Colorado and Oklahoma.
 
 *The Strad* magazine describes cellist Ani Aznavoorian as having "scorchingly committed performances that wring every last drop of emotion out of the music. Her technique is well-nigh immaculate, she has a natural sense of theater, and her tone is astonishingly responsive." Ani has appeared as soloist with many of the world's leading orchestras including the Chicago Symphony Orchestra, the Tokyo Philharmonic, the Helsinki Philharmonic, the Finnish Radio Symphony, the Boston Pops, and the Juilliard Orchestra. She received both her Bachelor and Master of Music Performance degrees from The Juilliard School in New York, where she studied with Aldo Parisot.
 

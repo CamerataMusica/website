@@ -5,7 +5,7 @@ Time: 7:30 PM
 Location: Columbia Basin College Arts Center
 LocationMapLink: https://goo.gl/maps/BZDawJuNMRM2
 Banner: images/2024-2025/Roh_Baek_4x3_med.jpeg
-Bannerposition: center 20%
+Bannerposition: top
 PhotoSmall: images/2024-2025/Roh_Baek_4x3_small.jpeg
 ExternalWebsite: https://www.yoonwharoh.com/
 SpecialNote:
@@ -13,10 +13,17 @@ Authors: Camerata Musica
 ---
 
 ---
+<style>
+#banner {
+  max-width: 1920px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  
+}
+</style>
 
 Yoon-Wha Roh, piano <br/>
 SeungHyeon Baek, baritone <br/>
-
 
 ---
 

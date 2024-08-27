@@ -5,7 +5,7 @@ Time: 7:30 PM
 Location: Kennewick First Presbyterian Church
 LocationMapLink: https://goo.gl/maps/pbLgXTXJEF8evh3j6
 Banner: images/2024-2025/Verona_Quartet_3_credit_Dario_Acosta_16x9_med.jpg
-Bannerposition: center 20%
+Bannerposition: top
 PhotoSmall: images/2024-2025/Verona_Quartet_5_credit_Kaupo_Kikkas_4x3_small.jpg
 ExternalWebsite: https://www.veronaquartet.com/
 SpecialNote:

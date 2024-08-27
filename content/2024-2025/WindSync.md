@@ -5,7 +5,7 @@ Time: 7:30 PM
 Location: Columbia Basin College Arts Center
 LocationMapLink: https://goo.gl/maps/BZDawJuNMRM2
 Banner: images/2024-2025/WindSync_12_credit_Philip_Greenberg_16x9_med.jpg
-Bannerposition: center 20%
+Bannerposition: center 10%
 PhotoSmall: images/2024-2025/WindSync_02_credit_Philip_Greenberg_4x3_small.jpg
 ExternalWebsite: https://www.windsync.org/
 SpecialNote:

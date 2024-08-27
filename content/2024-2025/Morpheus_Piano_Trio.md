@@ -4,9 +4,9 @@ Date: 2024-11-16
 Time: 7:30 PM
 Location: Kennewick First Presbyterian Church
 LocationMapLink: https://goo.gl/maps/pbLgXTXJEF8evh3j6
-Banner: images/2024-2025/Morpheus_Trio_16x9_med.jpg
-Bannerposition: center 20%
-PhotoSmall: images/2024-2025/Morpheus_Trio_4x3_small.jpg
+Banner: images/2024-2025/Morpheus_Piano_Trio_16x9_med.jpg
+Bannerposition: center 10%
+PhotoSmall: images/2024-2025/Morpheus_Piano_Trio_4x3_small.jpg
 ExternalWebsite: https://www.tomhickspianist.com/
 SpecialNote:
 Authors: Camerata Musica

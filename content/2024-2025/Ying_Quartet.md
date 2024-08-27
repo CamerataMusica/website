@@ -5,7 +5,7 @@ Time: 7:30 PM
 Location: Columbia Basin College Arts Center
 LocationMapLink: https://goo.gl/maps/BZDawJuNMRM2
 Banner: images/2024-2025/Ying_Quartet_5_credit_Tim_Greenway_16x9_med.jpg
-Bannerposition: center 20%
+Bannerposition: top
 PhotoSmall: images/2024-2025/Ying_Quartet_1_credit_Todd_Maturazzo_4x3_small.jpg
 ExternalWebsite: https://www.ying4.com/
 SpecialNote:

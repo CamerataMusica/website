@@ -7,7 +7,7 @@ LocationMapLink: https://goo.gl/maps/pbLgXTXJEF8evh3j6
 Event2: Family Concert at 4:00 PM
 Time2: 4:00 PM
 Banner: images/2024-2025/Farallon_Recorder_Quartet_2_16x9_med.jpg
-Bannerposition: center 20%
+Bannerposition: top
 PhotoSmall: images/2024-2025/Farallon_Recorder_Quartet_4x3_small.jpg
 ExternalWebsite: https://www.farallonrecorderquartet.com/
 SpecialNote:
