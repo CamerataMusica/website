@@ -15,7 +15,7 @@ Status: hidden
 
 Camerata Musica's highly anticipated 2024-2025 season has arrived!  
 
-Our concerts will continue to be held at the Columbia Basin College Arts Center and the Kennewick First Presbyterian Church due to their gracious support. 
+Concerts will continue to be held at the Columbia Basin College Arts Center and the Kennewick First Presbyterian Church thanks to their gracious support. 
 
 
 ---
