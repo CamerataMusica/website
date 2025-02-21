@@ -25,10 +25,10 @@ Photo Credit: Lisa-Marie Mazzucco
 ### Program
 
 
-Komitas Vartabed (1869-1935):  *Four Songs* <br/>
-Claude Debussy (1862-1918):  *Sonata for Cello and Piano in D minor* <br/>
+Komitas Vartabed (1869-1935):  *Selected Songs* <br/>
+Claude Debussy (1862-1918):  *Sonata for Cello and Piano in D minor, L.135* <br/>
 Manuel de Falla (1876-1946):  *Suite Populaire Espagnol* <br/>
-Felix Mendelssohn (1809-1847):  *Sonata for Cello and Piano No. 2 in D Major, Op. 58* <br/>
+Johannes Brahms (1833-1897):  *Sonata for Cello and Piano in E Minor, op. 38* <br/>
 Niccolò Paganini (1782-1840):  *Variations on One String on a Theme by Rossini ("Moses")* <br/>
 
 ---
