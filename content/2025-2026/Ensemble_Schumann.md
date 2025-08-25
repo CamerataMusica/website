@@ -13,6 +13,14 @@ Authors: Camerata Musica
 ---
 
 ---
+<style>
+#banner {
+  max-width: 1920px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  
+}
+</style>
 
 ### Ensemble Schumann Members
 
