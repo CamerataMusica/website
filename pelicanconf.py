@@ -28,7 +28,7 @@ CATEGORIES_SAVE_AS = 'seasons/index.html'
 # ^^ Nope; Overwriting an existing page throws an error. Maybe better to chage the theme
 
 # Set the current season (global variable for template)
-CURRENT_SEASON_CATEGORY = '2024-2025'
+CURRENT_SEASON_CATEGORY = '2025-2026'
 
 # Change to output articles into subfolders by category (season)
 ARTICLE_URL = 'seasons/{category}/{slug}.html'
