@@ -12,7 +12,7 @@ Status: hidden
 
 ### Camerata Musica announces the 2025 - 2026 season!
 
-Concerts will be held at the Columbia Basin College Arts Center in Pasco and at the Kennewick First Presbyterian Church thanks to their continued gracious support. 
+Concerts will be held at the Columbia Basin College Arts Center in Pasco and at the Kennewick First Presbyterian Church in Kennewick thanks to their continued gracious support. 
 
 
 ---

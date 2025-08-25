@@ -5,7 +5,7 @@ Time: 7:30 PM
 Location: Columbia Basin College Arts Center
 LocationMapLink: https://osm.org/go/WItwneAo0-?way=373964738
 Banner: images/2025-2026/Lysander_Piano_Trio_credit_Irina_Rozovsky_65_16x9_med.jpg
-Bannerposition: center 20%
+Bannerposition: top
 PhotoSmall: images/2025-2026/Lysander_Piano_Trio_credit_Irina_Rozovsky_8_4x3_small.jpg
 ExternalWebsite: https://www.lysandertrio.com/
 SpecialNote:
@@ -23,12 +23,14 @@ Liza Stepanova, piano <br/>
 
 Photo Credit: Irina Rozovsky
 
+
 ---
 
 ### Program
 
 Wolfgang Amadeus Mozart (1756-1791):  *Piano Trio in E major, K.542* <br/>
 Gaspar Cassadó (1897-1966):  *Piano Trio in C major* (1926) <br/>
+
 Shulamit Ran (b.1949):  *Soliloquy* (1997) <br/>
 Antonín Dvořák (1841-1904):  *Piano Trio No. 3 in F minor, Op. 65* <br/>
 

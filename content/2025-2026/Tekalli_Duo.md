@@ -34,11 +34,13 @@ Leonard Bernstein (1918-1990), arr. Suliman Tekalli:  *West Side Story Selection
 
 ### About
 
+
 #### Suliman Tekalli
 
 Violinist Suliman Tekalli has established his voice as an exciting and versatile concerto soloist, recitalist, and chamber musician. As the top-prize winner of the Seoul International Music Competition and prize winner in the Sendai International Music Competition, International Violin Competition "Rudolfo Lipizer Prize" and the Henryk Szeryng International Competition, Suliman has performed throughout the US, Canada, Central America, Europe, and Asia, appearing on the stages of Carnegie Hall, Seoul Arts Center, Wigmore Hall, and the Kennedy Center among others. His performances have been broadcasted on KBS World TV in Korea, CBC Radio 3 in Canada, and WQXR and NPR in the U.S.
 
 An exponent of chamber music, Suliman has made appearances at numerous festivals, including Music@Menlo, Yellow Barn, and the Banff Centre. He has collaborated and performed with eminent musicians such as Gil Shaham, Miriam Fried, Cho-Liang Lin, Donald Weilerstein, Paul Watkins, Wu Han, David Shifrin, and Robert McDonald. Suliman has also served as concertmaster of numerous critically acclaimed conductorless ensembles including the Orpheus Chamber Orchestra, the Sphinx Virtuosi, and the International Sejong Soloists of which he is currently a principal member.
+
 
 
 #### Jamila Tekalli

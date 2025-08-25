@@ -5,7 +5,7 @@ Time: 7:30 PM
 Location: Columbia Basin College Arts Center
 LocationMapLink: https://osm.org/go/WItwneAo0-?way=373964738
 Banner: images/2025-2026/Parker_Quartet_credit_Beowulf_Sheehan_14_16x9_med.jpg
-Bannerposition: center 20%
+Bannerposition: top
 PhotoSmall: images/2025-2026/Parker_Quartet_credit_Beowulf_Sheehan_12_4x3_small.jpg
 ExternalWebsite: https://parkerquartet.com/
 SpecialNote:
@@ -24,12 +24,14 @@ Kee-Hyun Kim, cello <br/>
 
 Photo Credit: Beowulf Sheehan
 
+
 ---
 
 ### Program
 
 Ludwig van Beethoven (1770-1827):  *String Quartet No. 11 in F minor, Op. 95 ("Serioso")* <br/>
 Philip Glass (b. 1937):  *String Quartet No. 5* (1991) <br/>
+
 Franz Schubert (1797-1828):  *String Quartet No. 15 in G major, D.887* <br/>
 
 
