@@ -4,7 +4,7 @@ Date: 2026-04-11
 Time: 7:30 PM
 Location: Kennewick First Presbyterian Church
 LocationMapLink: https://osm.org/go/WItlYk5K?way=1035878689
-Banner: images/2025-2026/Ensemble_Schumann_01_4x3_med.webp
+Banner: images/2025-2026/Ensemble_Schumann_04_4x3_med.webp
 Bannerposition: top
 PhotoSmall: images/2025-2026/Ensemble_Schumann_01_4x3_small.webp
 ExternalWebsite: https://ensembleschumann.com/
