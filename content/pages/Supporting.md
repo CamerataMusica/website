@@ -4,12 +4,12 @@ Authors: Colin Brislawn
 
 # Supporting Camerata Musica
 
-Camerata Musica depends on the generosity of those attending concerts to support its activities. Most of our funding comes from individual patrons, with occasional additional funding from corporate sponsorship, local foundations, and grants from organizations like ArtsWa (the Washington State Arts Commission), the National Endowment for the Arts., and the Three Rivers Community Foundation.
+Camerata Musica depends on the generosity of those attending concerts to support its activities. Most of our funding comes from individual patrons, with occasional additional funding from corporate sponsorship, local foundations, and grants from organizations like ArtsWa (the Washington State Arts Commission), the National Endowment for the Arts, and the Three Rivers Community Foundation.
 
 Donations to Camerata may be made at any concert or by sending a check to:
 > Camerata Musica <br/>
 > PO Box 615 <br/>
-> Richland WA 99352
+> Richland, WA 99352
 
 ## Download and print a contribution form
 
@@ -17,7 +17,7 @@ Donations to Camerata may be made at any concert or by sending a check to:
 
 <p class="clear">&nbsp;</p>
 
-Donors who contribute a minimum of $100.00  to Camerata are designated “patrons” and their names appear as such on the program for the next twelve months. In addition, patrons receive a reminder card prior to each concert. By presenting this card at the concert _before_ 7:15 p.m., they receive priority seating for themselves and their family (defined as two adults and accompanying children under 18). At 7:15, members of the public and patrons are admitted on a first-come, first-seated basis.
+Donors who contribute a minimum of $100.00  to Camerata are designated "patrons" and their names appear as such on the program for the next twelve months. In addition, patrons receive a reminder card prior to each concert. By presenting this card at the concert _before_ 7:15 p.m., they receive priority seating for themselves and their family (defined as two adults and accompanying children under 18). At 7:15, members of the public and patrons are admitted on a first-come, first-seated basis.
 
 Patrons making a donation of at least $300 per year will be able to bring an additional 2 guests into the auditorium with them when they present their reminder card _prior_ to 7:15.
 
