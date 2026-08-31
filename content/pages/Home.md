@@ -1,5 +1,5 @@
 Title: Home
-Date: 2025-08-25
+Date: 2026-08-31
 Authors: Camerata Musica
 URL:
 Template: home
@@ -10,7 +10,7 @@ Status: hidden
 <br/>
 
 
-### Camerata Musica announces the 2025 - 2026 season!
+### Camerata Musica announces the 2026 - 2027 season!
 
 Concerts will be held at the Columbia Basin College Arts Center in Pasco and at the Kennewick First Presbyterian Church in Kennewick thanks to their continued gracious support. 
 
