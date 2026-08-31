@@ -5,7 +5,7 @@ Time: 7:30 PM
 Location: Kennewick First Presbyterian Church
 LocationMapLink: https://osm.org/go/WItlYk5K?way=1035878689
 Banner: images/2026-2027/idaho_piano_trio_2_16x9_med.jpg
-Bannerposition: center 20%
+Bannerposition: top
 PhotoSmall: images/2026-2027/idaho_piano_trio_2_4x3_small.jpg
 ExternalWebsite: http://www.rogermcvey.com/
 SpecialNote:

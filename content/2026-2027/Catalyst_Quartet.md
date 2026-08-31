@@ -5,7 +5,7 @@ Time: 7:30 PM
 Location: Kennewick First Presbyterian Church
 LocationMapLink: https://osm.org/go/WItlYk5K?way=1035878689
 Banner: images/2026-2027/catalyst_quartet_credit_ricardo_quinones_3_7x5_med.jpg
-Bannerposition: center 20%
+Bannerposition: top
 PhotoSmall: images/2026-2027/catalyst_quartet_credit_ricardo_quinones_1_4x3_small.jpg
 ExternalWebsite: https://catalystquartet.com/
 SpecialNote:

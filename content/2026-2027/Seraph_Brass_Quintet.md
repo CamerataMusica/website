@@ -27,7 +27,7 @@ Robyn Black, tuba <br/>
 ### Program
 
 Edvard Grieg (1843-1907), arr. Jeff Luke: *Holberg Suite, Op. 40 (Prelude)* <br/>
-Wolfgang Amadeus Mozart (1756-1791), arr. Jeff Luke: *"Der Hölle Rache" from Die Zauberflöte, KV 620* <br/>
+Wolfgang Amadeus Mozart (1756-1791), arr. Jeff Luke: *"Der HÃ¶lle Rache" from Die ZauberflÃ¶te, KV 620* <br/>
 Claude Debussy (1862-1918), arr. Egil Smedvig: *Prelude from Suite Bergamasque* <br/>
 Jeff Scott (b. 1967): *Showcase* <br/>
 Bernice Petkere (1901-2000), arr. Robyn Black: *Lullaby of the Leaves* <br/>
