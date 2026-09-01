@@ -14,7 +14,7 @@ Authors: Camerata Musica
 
 ---
 
-Tomás Cotik, violin
+Tomás Cotik, violin <br/>
 Shinmyung Rho, piano
 
 Photo Credit: So-Min Kang, Shinmyung Rho
