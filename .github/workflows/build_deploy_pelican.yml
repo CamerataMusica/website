@@ -1,0 +1,20 @@
+name: Build Pelican site and deploy to GitHub Pages
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+jobs:
+  deploy:
+    uses: "getpelican/pelican/.github/workflows/github_pages.yml@3d3265b"
+    permissions:
+      contents: "read"
+      pages: "write"
+      id-token: "write"
+    with:
+      settings: "publishconf.py"
+      requirements: "-r requirements.txt"
+      python: "3.12"
+      siteurl: "https://cameratamusica.com"
+      deploy: true
+      stork: false
+      
